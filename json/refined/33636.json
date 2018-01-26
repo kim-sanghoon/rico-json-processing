@@ -1,0 +1,159 @@
+{
+  "activity_name": "AdActivity",
+  "app": {
+    "category": "Parenting",
+    "package_name": "com.g8n8.pregnancytracker",
+    "store_name": "Pregnancy Tracker"
+  },
+  "hierarchy": {
+    "bounds": [
+      0,
+      0,
+      1440,
+      2392
+    ],
+    "children": [
+      {
+        "bounds": [
+          0,
+          0,
+          1440,
+          2392
+        ],
+        "children": [
+          {
+            "bounds": [
+              0,
+              0,
+              1440,
+              2392
+            ],
+            "children": [
+              {
+                "bounds": [
+                  0,
+                  0,
+                  1440,
+                  2392
+                ],
+                "children": [
+                  {
+                    "bounds": [
+                      0,
+                      0,
+                      1440,
+                      2392
+                    ],
+                    "children": [
+                      {
+                        "bounds": [
+                          0,
+                          0,
+                          1440,
+                          2392
+                        ],
+                        "children": null,
+                        "clickable": true,
+                        "name": "o",
+                        "resource_id": null,
+                        "scrollable": {
+                          "horizontal": true,
+                          "vertical": true
+                        },
+                        "text": null,
+                        "visible": true
+                      }
+                    ],
+                    "clickable": false,
+                    "name": "n",
+                    "resource_id": null,
+                    "scrollable": {
+                      "horizontal": false,
+                      "vertical": false
+                    },
+                    "text": null,
+                    "visible": true
+                  },
+                  {
+                    "bounds": [
+                      0,
+                      0,
+                      175,
+                      175
+                    ],
+                    "children": [
+                      {
+                        "bounds": [
+                          0,
+                          0,
+                          175,
+                          175
+                        ],
+                        "children": null,
+                        "clickable": true,
+                        "name": "ImageButton",
+                        "resource_id": null,
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      }
+                    ],
+                    "clickable": true,
+                    "name": "ai",
+                    "resource_id": null,
+                    "scrollable": {
+                      "horizontal": false,
+                      "vertical": false
+                    },
+                    "text": null,
+                    "visible": true
+                  }
+                ],
+                "clickable": false,
+                "name": "q",
+                "resource_id": null,
+                "scrollable": {
+                  "horizontal": false,
+                  "vertical": false
+                },
+                "text": null,
+                "visible": true
+              }
+            ],
+            "clickable": false,
+            "name": "FrameLayout",
+            "resource_id": "content",
+            "scrollable": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "text": null,
+            "visible": true
+          }
+        ],
+        "clickable": false,
+        "name": "LinearLayout",
+        "resource_id": null,
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      }
+    ],
+    "clickable": false,
+    "name": "PhoneWindow$DecorView",
+    "resource_id": null,
+    "scrollable": {
+      "horizontal": false,
+      "vertical": false
+    },
+    "text": null,
+    "visible": true
+  },
+  "keyboard": false
+}

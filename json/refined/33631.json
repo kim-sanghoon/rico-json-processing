@@ -1,0 +1,949 @@
+{
+  "activity_name": "DeviceDetailsActivity",
+  "app": {
+    "category": "House & Home",
+    "package_name": "com.infigate.accontrol",
+    "store_name": "AC Mobile Control"
+  },
+  "hierarchy": {
+    "bounds": [
+      0,
+      0,
+      1440,
+      2392
+    ],
+    "children": [
+      {
+        "bounds": [
+          0,
+          0,
+          1440,
+          2392
+        ],
+        "children": [
+          {
+            "bounds": [
+              0,
+              0,
+              1440,
+              2392
+            ],
+            "children": [
+              {
+                "bounds": [
+                  0,
+                  0,
+                  1440,
+                  2392
+                ],
+                "children": [
+                  {
+                    "bounds": [
+                      0,
+                      0,
+                      1440,
+                      2392
+                    ],
+                    "children": [
+                      {
+                        "bounds": [
+                          0,
+                          0,
+                          1440,
+                          2178
+                        ],
+                        "children": [
+                          {
+                            "bounds": [
+                              0,
+                              0,
+                              1440,
+                              2178
+                            ],
+                            "children": [
+                              {
+                                "bounds": [
+                                  0,
+                                  0,
+                                  1440,
+                                  2178
+                                ],
+                                "children": [
+                                  {
+                                    "bounds": [
+                                      0,
+                                      0,
+                                      1440,
+                                      224
+                                    ],
+                                    "children": [
+                                      {
+                                        "bounds": [
+                                          0,
+                                          13,
+                                          198,
+                                          211
+                                        ],
+                                        "children": [
+                                          {
+                                            "bounds": [
+                                              7,
+                                              16,
+                                              191,
+                                              207
+                                            ],
+                                            "children": null,
+                                            "clickable": true,
+                                            "name": "Button",
+                                            "resource_id": "fragment_accontrol_button_back",
+                                            "scrollable": {
+                                              "horizontal": false,
+                                              "vertical": false
+                                            },
+                                            "text": "",
+                                            "visible": true
+                                          },
+                                          {
+                                            "bounds": [
+                                              33,
+                                              46,
+                                              164,
+                                              177
+                                            ],
+                                            "children": null,
+                                            "clickable": false,
+                                            "name": "ImageView",
+                                            "resource_id": null,
+                                            "scrollable": {
+                                              "horizontal": false,
+                                              "vertical": false
+                                            },
+                                            "text": null,
+                                            "visible": true
+                                          }
+                                        ],
+                                        "clickable": false,
+                                        "name": "RelativeLayout",
+                                        "resource_id": "fragment_accontrol_layout_back",
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": null,
+                                        "visible": true
+                                      },
+                                      {
+                                        "bounds": [
+                                          198,
+                                          16,
+                                          1242,
+                                          207
+                                        ],
+                                        "children": null,
+                                        "clickable": true,
+                                        "name": "EditText",
+                                        "resource_id": "fragment_accontrol_edittext_name",
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": "Dining room",
+                                        "visible": true
+                                      },
+                                      {
+                                        "bounds": [
+                                          1242,
+                                          13,
+                                          1440,
+                                          211
+                                        ],
+                                        "children": [
+                                          {
+                                            "bounds": [
+                                              1249,
+                                              16,
+                                              1433,
+                                              207
+                                            ],
+                                            "children": null,
+                                            "clickable": true,
+                                            "name": "Button",
+                                            "resource_id": "fragment_accontrol_button_help",
+                                            "scrollable": {
+                                              "horizontal": false,
+                                              "vertical": false
+                                            },
+                                            "text": "",
+                                            "visible": true
+                                          },
+                                          {
+                                            "bounds": [
+                                              1275,
+                                              46,
+                                              1406,
+                                              177
+                                            ],
+                                            "children": null,
+                                            "clickable": false,
+                                            "name": "ImageView",
+                                            "resource_id": null,
+                                            "scrollable": {
+                                              "horizontal": false,
+                                              "vertical": false
+                                            },
+                                            "text": null,
+                                            "visible": true
+                                          }
+                                        ],
+                                        "clickable": false,
+                                        "name": "RelativeLayout",
+                                        "resource_id": "fragment_accontrol_layout_help",
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": null,
+                                        "visible": true
+                                      }
+                                    ],
+                                    "clickable": false,
+                                    "name": "RelativeLayout",
+                                    "resource_id": "fragment_accontrol_layout_header",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": true
+                                  },
+                                  {
+                                    "bounds": [
+                                      0,
+                                      224,
+                                      1440,
+                                      1548
+                                    ],
+                                    "children": [
+                                      {
+                                        "bounds": [
+                                          0,
+                                          233,
+                                          1440,
+                                          1539
+                                        ],
+                                        "children": [
+                                          {
+                                            "bounds": [
+                                              0,
+                                              233,
+                                              1440,
+                                              1539
+                                            ],
+                                            "children": null,
+                                            "clickable": false,
+                                            "name": "TempControlView",
+                                            "resource_id": "fragment_accontrol_imageview_tempchange",
+                                            "scrollable": {
+                                              "horizontal": false,
+                                              "vertical": false
+                                            },
+                                            "text": null,
+                                            "visible": true
+                                          }
+                                        ],
+                                        "clickable": false,
+                                        "name": "RelativeLayout",
+                                        "resource_id": null,
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": null,
+                                        "visible": true
+                                      }
+                                    ],
+                                    "clickable": false,
+                                    "name": "RelativeLayout",
+                                    "resource_id": "fragment_accontrol_layout_temp",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": true
+                                  },
+                                  {
+                                    "bounds": [
+                                      0,
+                                      1548,
+                                      1440,
+                                      1917
+                                    ],
+                                    "children": [
+                                      {
+                                        "bounds": [
+                                          0,
+                                          1548,
+                                          1440,
+                                          1917
+                                        ],
+                                        "children": [
+                                          {
+                                            "bounds": [
+                                              0,
+                                              1548,
+                                              360,
+                                              1917
+                                            ],
+                                            "children": [
+                                              {
+                                                "bounds": [
+                                                  5,
+                                                  1548,
+                                                  355,
+                                                  1693
+                                                ],
+                                                "children": null,
+                                                "clickable": true,
+                                                "name": "ImageView",
+                                                "resource_id": "fragment_accontrol_imageview_fanspeed_bar",
+                                                "scrollable": {
+                                                  "horizontal": false,
+                                                  "vertical": false
+                                                },
+                                                "text": null,
+                                                "visible": true
+                                              },
+                                              {
+                                                "bounds": [
+                                                  63,
+                                                  1618,
+                                                  296,
+                                                  1851
+                                                ],
+                                                "children": null,
+                                                "clickable": true,
+                                                "name": "ImageView",
+                                                "resource_id": "fragment_accontrol_imageview_fanspeed",
+                                                "scrollable": {
+                                                  "horizontal": false,
+                                                  "vertical": false
+                                                },
+                                                "text": null,
+                                                "visible": true
+                                              },
+                                              {
+                                                "bounds": [
+                                                  63,
+                                                  1618,
+                                                  296,
+                                                  1851
+                                                ],
+                                                "children": null,
+                                                "clickable": false,
+                                                "name": "ImageView",
+                                                "resource_id": "fragment_accontrol_imageview_fanspeed_icon",
+                                                "scrollable": {
+                                                  "horizontal": false,
+                                                  "vertical": false
+                                                },
+                                                "text": null,
+                                                "visible": true
+                                              },
+                                              {
+                                                "bounds": [
+                                                  68,
+                                                  1851,
+                                                  292,
+                                                  1917
+                                                ],
+                                                "children": null,
+                                                "clickable": false,
+                                                "name": "TextView",
+                                                "resource_id": null,
+                                                "scrollable": {
+                                                  "horizontal": false,
+                                                  "vertical": false
+                                                },
+                                                "text": "Fan speed",
+                                                "visible": true
+                                              }
+                                            ],
+                                            "clickable": false,
+                                            "name": "RelativeLayout",
+                                            "resource_id": null,
+                                            "scrollable": {
+                                              "horizontal": false,
+                                              "vertical": false
+                                            },
+                                            "text": null,
+                                            "visible": true
+                                          },
+                                          {
+                                            "bounds": [
+                                              360,
+                                              1618,
+                                              720,
+                                              1917
+                                            ],
+                                            "children": [
+                                              {
+                                                "bounds": [
+                                                  423,
+                                                  1618,
+                                                  656,
+                                                  1851
+                                                ],
+                                                "children": null,
+                                                "clickable": true,
+                                                "name": "ImageView",
+                                                "resource_id": "fragment_accontrol_imageview_plasma",
+                                                "scrollable": {
+                                                  "horizontal": false,
+                                                  "vertical": false
+                                                },
+                                                "text": null,
+                                                "visible": true
+                                              },
+                                              {
+                                                "bounds": [
+                                                  423,
+                                                  1618,
+                                                  656,
+                                                  1851
+                                                ],
+                                                "children": null,
+                                                "clickable": false,
+                                                "name": "ImageView",
+                                                "resource_id": "fragment_accontrol_imageview_plasma_icon",
+                                                "scrollable": {
+                                                  "horizontal": false,
+                                                  "vertical": false
+                                                },
+                                                "text": null,
+                                                "visible": true
+                                              },
+                                              {
+                                                "bounds": [
+                                                  458,
+                                                  1851,
+                                                  622,
+                                                  1917
+                                                ],
+                                                "children": null,
+                                                "clickable": false,
+                                                "name": "TextView",
+                                                "resource_id": null,
+                                                "scrollable": {
+                                                  "horizontal": false,
+                                                  "vertical": false
+                                                },
+                                                "text": "Plasma",
+                                                "visible": true
+                                              }
+                                            ],
+                                            "clickable": false,
+                                            "name": "RelativeLayout",
+                                            "resource_id": null,
+                                            "scrollable": {
+                                              "horizontal": false,
+                                              "vertical": false
+                                            },
+                                            "text": null,
+                                            "visible": true
+                                          },
+                                          {
+                                            "bounds": [
+                                              720,
+                                              1618,
+                                              1080,
+                                              1917
+                                            ],
+                                            "children": [
+                                              {
+                                                "bounds": [
+                                                  783,
+                                                  1618,
+                                                  1016,
+                                                  1851
+                                                ],
+                                                "children": null,
+                                                "clickable": true,
+                                                "name": "ImageView",
+                                                "resource_id": "fragment_accontrol_imageview_swing",
+                                                "scrollable": {
+                                                  "horizontal": false,
+                                                  "vertical": false
+                                                },
+                                                "text": null,
+                                                "visible": true
+                                              },
+                                              {
+                                                "bounds": [
+                                                  783,
+                                                  1618,
+                                                  1016,
+                                                  1851
+                                                ],
+                                                "children": null,
+                                                "clickable": false,
+                                                "name": "ImageView",
+                                                "resource_id": "fragment_accontrol_imageview_swing_icon",
+                                                "scrollable": {
+                                                  "horizontal": false,
+                                                  "vertical": false
+                                                },
+                                                "text": null,
+                                                "visible": true
+                                              },
+                                              {
+                                                "bounds": [
+                                                  833,
+                                                  1851,
+                                                  967,
+                                                  1917
+                                                ],
+                                                "children": null,
+                                                "clickable": false,
+                                                "name": "TextView",
+                                                "resource_id": null,
+                                                "scrollable": {
+                                                  "horizontal": false,
+                                                  "vertical": false
+                                                },
+                                                "text": "Swing",
+                                                "visible": true
+                                              }
+                                            ],
+                                            "clickable": false,
+                                            "name": "RelativeLayout",
+                                            "resource_id": null,
+                                            "scrollable": {
+                                              "horizontal": false,
+                                              "vertical": false
+                                            },
+                                            "text": null,
+                                            "visible": true
+                                          },
+                                          {
+                                            "bounds": [
+                                              1080,
+                                              1618,
+                                              1440,
+                                              1917
+                                            ],
+                                            "children": [
+                                              {
+                                                "bounds": [
+                                                  1143,
+                                                  1618,
+                                                  1376,
+                                                  1851
+                                                ],
+                                                "children": null,
+                                                "clickable": true,
+                                                "name": "ImageView",
+                                                "resource_id": "fragment_accontrol_imageview_power",
+                                                "scrollable": {
+                                                  "horizontal": false,
+                                                  "vertical": false
+                                                },
+                                                "text": null,
+                                                "visible": true
+                                              },
+                                              {
+                                                "bounds": [
+                                                  1143,
+                                                  1618,
+                                                  1376,
+                                                  1851
+                                                ],
+                                                "children": null,
+                                                "clickable": false,
+                                                "name": "ImageView",
+                                                "resource_id": "fragment_accontrol_imageview_power_icon",
+                                                "scrollable": {
+                                                  "horizontal": false,
+                                                  "vertical": false
+                                                },
+                                                "text": null,
+                                                "visible": true
+                                              },
+                                              {
+                                                "bounds": [
+                                                  1190,
+                                                  1851,
+                                                  1330,
+                                                  1917
+                                                ],
+                                                "children": null,
+                                                "clickable": false,
+                                                "name": "TextView",
+                                                "resource_id": null,
+                                                "scrollable": {
+                                                  "horizontal": false,
+                                                  "vertical": false
+                                                },
+                                                "text": "Power",
+                                                "visible": true
+                                              }
+                                            ],
+                                            "clickable": false,
+                                            "name": "RelativeLayout",
+                                            "resource_id": null,
+                                            "scrollable": {
+                                              "horizontal": false,
+                                              "vertical": false
+                                            },
+                                            "text": null,
+                                            "visible": true
+                                          }
+                                        ],
+                                        "clickable": false,
+                                        "name": "LinearLayout",
+                                        "resource_id": "fragment_accontrol_layout_buttons_top",
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": null,
+                                        "visible": true
+                                      }
+                                    ],
+                                    "clickable": false,
+                                    "name": "RelativeLayout",
+                                    "resource_id": "fragment_accontrol_layout_buttons",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": true
+                                  },
+                                  {
+                                    "bounds": [
+                                      0,
+                                      1917,
+                                      1440,
+                                      2178
+                                    ],
+                                    "children": [
+                                      {
+                                        "bounds": [
+                                          4,
+                                          1933,
+                                          284,
+                                          2162
+                                        ],
+                                        "children": null,
+                                        "clickable": true,
+                                        "name": "Button",
+                                        "resource_id": "fragment_accontrol_button_mode_0",
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": "AUTO",
+                                        "visible": true
+                                      },
+                                      {
+                                        "bounds": [
+                                          292,
+                                          1933,
+                                          572,
+                                          2162
+                                        ],
+                                        "children": null,
+                                        "clickable": true,
+                                        "name": "Button",
+                                        "resource_id": "fragment_accontrol_button_mode_1",
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": "COOL",
+                                        "visible": true
+                                      },
+                                      {
+                                        "bounds": [
+                                          580,
+                                          1933,
+                                          860,
+                                          2162
+                                        ],
+                                        "children": null,
+                                        "clickable": true,
+                                        "name": "Button",
+                                        "resource_id": "fragment_accontrol_button_mode_2",
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": "FAN",
+                                        "visible": true
+                                      },
+                                      {
+                                        "bounds": [
+                                          868,
+                                          1933,
+                                          1148,
+                                          2162
+                                        ],
+                                        "children": null,
+                                        "clickable": true,
+                                        "name": "Button",
+                                        "resource_id": "fragment_accontrol_button_mode_3",
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": "HEAT",
+                                        "visible": true
+                                      },
+                                      {
+                                        "bounds": [
+                                          1156,
+                                          1933,
+                                          1436,
+                                          2162
+                                        ],
+                                        "children": null,
+                                        "clickable": true,
+                                        "name": "Button",
+                                        "resource_id": "fragment_accontrol_button_mode_4",
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": "DRY",
+                                        "visible": true
+                                      }
+                                    ],
+                                    "clickable": false,
+                                    "name": "LinearLayout",
+                                    "resource_id": "fragment_accontrol_layout_mode",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": true
+                                  },
+                                  {
+                                    "bounds": [
+                                      0,
+                                      224,
+                                      1440,
+                                      2178
+                                    ],
+                                    "children": [
+                                      {
+                                        "bounds": [
+                                          253,
+                                          734,
+                                          1186,
+                                          1667
+                                        ],
+                                        "children": null,
+                                        "clickable": false,
+                                        "name": "ImageView",
+                                        "resource_id": "fragment_accontrol_imageview_off",
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": null,
+                                        "visible": true
+                                      },
+                                      {
+                                        "bounds": [
+                                          457,
+                                          1667,
+                                          983,
+                                          1825
+                                        ],
+                                        "children": null,
+                                        "clickable": false,
+                                        "name": "TextView",
+                                        "resource_id": null,
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": "This device is off.\nTap to turn it on.",
+                                        "visible": true
+                                      }
+                                    ],
+                                    "clickable": false,
+                                    "name": "RelativeLayout",
+                                    "resource_id": "fragment_accontrol_layout_off",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": true
+                                  }
+                                ],
+                                "clickable": false,
+                                "name": "RelativeLayout",
+                                "resource_id": null,
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": null,
+                                "visible": true
+                              }
+                            ],
+                            "clickable": false,
+                            "name": "NoSaveStateFrameLayout",
+                            "resource_id": null,
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": null,
+                            "visible": true
+                          }
+                        ],
+                        "clickable": false,
+                        "name": "FrameLayout",
+                        "resource_id": "realtabcontent",
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      },
+                      {
+                        "bounds": [
+                          0,
+                          2201,
+                          1440,
+                          2392
+                        ],
+                        "children": [
+                          {
+                            "bounds": [
+                              0,
+                              2201,
+                              720,
+                              2392
+                            ],
+                            "children": null,
+                            "clickable": true,
+                            "name": "Button",
+                            "resource_id": "devicedetails_button_tab_control",
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": "CONTROL",
+                            "visible": true
+                          },
+                          {
+                            "bounds": [
+                              720,
+                              2201,
+                              1440,
+                              2392
+                            ],
+                            "children": null,
+                            "clickable": true,
+                            "name": "Button",
+                            "resource_id": "devicedetails_button_tab_schedule",
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": "SCHEDULE",
+                            "visible": true
+                          }
+                        ],
+                        "clickable": false,
+                        "name": "LinearLayout",
+                        "resource_id": "devicedetails_layout_tabs",
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      },
+                      {
+                        "bounds": [
+                          0,
+                          2178,
+                          1440,
+                          2201
+                        ],
+                        "children": null,
+                        "clickable": false,
+                        "name": "ImageView",
+                        "resource_id": "devicedetails_div",
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      }
+                    ],
+                    "clickable": false,
+                    "name": "RelativeLayout",
+                    "resource_id": null,
+                    "scrollable": {
+                      "horizontal": false,
+                      "vertical": false
+                    },
+                    "text": null,
+                    "visible": true
+                  }
+                ],
+                "clickable": false,
+                "name": "RelativeLayout",
+                "resource_id": null,
+                "scrollable": {
+                  "horizontal": false,
+                  "vertical": false
+                },
+                "text": null,
+                "visible": true
+              }
+            ],
+            "clickable": false,
+            "name": "FrameLayout",
+            "resource_id": "content",
+            "scrollable": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "text": null,
+            "visible": true
+          }
+        ],
+        "clickable": false,
+        "name": "LinearLayout",
+        "resource_id": null,
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      }
+    ],
+    "clickable": false,
+    "name": "PhoneWindow$DecorView",
+    "resource_id": null,
+    "scrollable": {
+      "horizontal": false,
+      "vertical": false
+    },
+    "text": null,
+    "visible": true
+  },
+  "keyboard": false
+}

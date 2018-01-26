@@ -1,0 +1,455 @@
+{
+  "activity_name": "getLastPeriodData",
+  "app": {
+    "category": "Parenting",
+    "package_name": "com.g8n8.pregnancytracker",
+    "store_name": "Pregnancy Tracker"
+  },
+  "hierarchy": {
+    "bounds": [
+      0,
+      0,
+      1440,
+      2560
+    ],
+    "children": [
+      {
+        "bounds": [
+          0,
+          0,
+          1440,
+          2392
+        ],
+        "children": [
+          {
+            "bounds": [
+              0,
+              84,
+              1440,
+              2392
+            ],
+            "children": [
+              {
+                "bounds": [
+                  0,
+                  84,
+                  1440,
+                  2392
+                ],
+                "children": [
+                  {
+                    "bounds": [
+                      0,
+                      84,
+                      1440,
+                      2392
+                    ],
+                    "children": [
+                      {
+                        "bounds": [
+                          0,
+                          84,
+                          1440,
+                          1593
+                        ],
+                        "children": [
+                          {
+                            "bounds": [
+                              35,
+                              119,
+                              1405,
+                              311
+                            ],
+                            "children": null,
+                            "clickable": false,
+                            "name": "TextView",
+                            "resource_id": "textView",
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": "Based on the first day of your last menstrual period",
+                            "visible": true
+                          },
+                          {
+                            "bounds": [
+                              35,
+                              311,
+                              1405,
+                              1053
+                            ],
+                            "children": [
+                              {
+                                "bounds": [
+                                  286,
+                                  311,
+                                  1154,
+                                  1053
+                                ],
+                                "children": [
+                                  {
+                                    "bounds": [
+                                      286,
+                                      311,
+                                      1154,
+                                      1053
+                                    ],
+                                    "children": [
+                                      {
+                                        "bounds": [
+                                          314,
+                                          367,
+                                          538,
+                                          997
+                                        ],
+                                        "children": [
+                                          {
+                                            "bounds": [
+                                              314,
+                                              653,
+                                              538,
+                                              710
+                                            ],
+                                            "children": null,
+                                            "clickable": true,
+                                            "name": "NumberPicker$CustomEditText",
+                                            "resource_id": "numberpicker_input",
+                                            "scrollable": {
+                                              "horizontal": false,
+                                              "vertical": false
+                                            },
+                                            "text": "Feb",
+                                            "visible": true
+                                          }
+                                        ],
+                                        "clickable": false,
+                                        "name": "NumberPicker",
+                                        "resource_id": "month",
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": null,
+                                        "visible": true
+                                      },
+                                      {
+                                        "bounds": [
+                                          594,
+                                          367,
+                                          818,
+                                          997
+                                        ],
+                                        "children": [
+                                          {
+                                            "bounds": [
+                                              594,
+                                              653,
+                                              818,
+                                              710
+                                            ],
+                                            "children": null,
+                                            "clickable": true,
+                                            "name": "NumberPicker$CustomEditText",
+                                            "resource_id": "numberpicker_input",
+                                            "scrollable": {
+                                              "horizontal": false,
+                                              "vertical": false
+                                            },
+                                            "text": "13",
+                                            "visible": true
+                                          }
+                                        ],
+                                        "clickable": false,
+                                        "name": "NumberPicker",
+                                        "resource_id": "day",
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": null,
+                                        "visible": true
+                                      },
+                                      {
+                                        "bounds": [
+                                          874,
+                                          367,
+                                          1098,
+                                          997
+                                        ],
+                                        "children": [
+                                          {
+                                            "bounds": [
+                                              874,
+                                              653,
+                                              1098,
+                                              710
+                                            ],
+                                            "children": null,
+                                            "clickable": true,
+                                            "name": "NumberPicker$CustomEditText",
+                                            "resource_id": "numberpicker_input",
+                                            "scrollable": {
+                                              "horizontal": false,
+                                              "vertical": false
+                                            },
+                                            "text": "2017",
+                                            "visible": true
+                                          }
+                                        ],
+                                        "clickable": false,
+                                        "name": "NumberPicker",
+                                        "resource_id": "year",
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": null,
+                                        "visible": true
+                                      }
+                                    ],
+                                    "clickable": false,
+                                    "name": "LinearLayout",
+                                    "resource_id": "pickers",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": true
+                                  }
+                                ],
+                                "clickable": false,
+                                "name": "LinearLayout",
+                                "resource_id": null,
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": null,
+                                "visible": true
+                              }
+                            ],
+                            "clickable": false,
+                            "name": "DatePicker",
+                            "resource_id": "date_picker",
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": null,
+                            "visible": true
+                          },
+                          {
+                            "bounds": [
+                              35,
+                              1053,
+                              1405,
+                              1208
+                            ],
+                            "children": [
+                              {
+                                "bounds": [
+                                  35,
+                                  1053,
+                                  995,
+                                  1155
+                                ],
+                                "children": null,
+                                "clickable": false,
+                                "name": "TextView",
+                                "resource_id": "textView2",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": "Your menstrual period",
+                                "visible": true
+                              },
+                              {
+                                "bounds": [
+                                  1013,
+                                  1053,
+                                  1405,
+                                  1137
+                                ],
+                                "children": [
+                                  {
+                                    "bounds": [
+                                      1017,
+                                      1057,
+                                      1401,
+                                      1133
+                                    ],
+                                    "children": null,
+                                    "clickable": false,
+                                    "name": "TextView",
+                                    "resource_id": "text1",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": "Select",
+                                    "visible": true
+                                  }
+                                ],
+                                "clickable": true,
+                                "name": "Spinner",
+                                "resource_id": "spinner",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": null,
+                                "visible": true
+                              }
+                            ],
+                            "clickable": false,
+                            "name": "LinearLayout",
+                            "resource_id": null,
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": null,
+                            "visible": true
+                          },
+                          {
+                            "bounds": [
+                              35,
+                              1208,
+                              1405,
+                              1376
+                            ],
+                            "children": null,
+                            "clickable": true,
+                            "name": "Button",
+                            "resource_id": "bn",
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": "Save",
+                            "visible": true
+                          },
+                          {
+                            "bounds": [
+                              35,
+                              1383,
+                              1405,
+                              1551
+                            ],
+                            "children": null,
+                            "clickable": true,
+                            "name": "Button",
+                            "resource_id": "startAppWithoutSelectingDate",
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": "I will set the date later by options menu",
+                            "visible": true
+                          }
+                        ],
+                        "clickable": false,
+                        "name": "LinearLayout",
+                        "resource_id": null,
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      }
+                    ],
+                    "clickable": false,
+                    "name": "ScrollView",
+                    "resource_id": "forumMainScroll",
+                    "scrollable": {
+                      "horizontal": false,
+                      "vertical": true
+                    },
+                    "text": null,
+                    "visible": true
+                  }
+                ],
+                "clickable": false,
+                "name": "RelativeLayout",
+                "resource_id": null,
+                "scrollable": {
+                  "horizontal": false,
+                  "vertical": false
+                },
+                "text": null,
+                "visible": true
+              }
+            ],
+            "clickable": false,
+            "name": "FrameLayout",
+            "resource_id": "content",
+            "scrollable": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "text": null,
+            "visible": true
+          }
+        ],
+        "clickable": false,
+        "name": "LinearLayout",
+        "resource_id": null,
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      },
+      {
+        "bounds": [
+          0,
+          2392,
+          1440,
+          2560
+        ],
+        "children": null,
+        "clickable": false,
+        "name": "View",
+        "resource_id": "navigationBarBackground",
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      },
+      {
+        "bounds": [
+          0,
+          0,
+          1440,
+          84
+        ],
+        "children": null,
+        "clickable": false,
+        "name": "View",
+        "resource_id": "statusBarBackground",
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      }
+    ],
+    "clickable": false,
+    "name": "PhoneWindow$DecorView",
+    "resource_id": null,
+    "scrollable": {
+      "horizontal": false,
+      "vertical": false
+    },
+    "text": null,
+    "visible": true
+  },
+  "keyboard": false
+}

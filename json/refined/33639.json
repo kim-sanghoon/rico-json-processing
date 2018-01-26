@@ -1,0 +1,249 @@
+{
+  "activity_name": "SelectInputType",
+  "app": {
+    "category": "Parenting",
+    "package_name": "com.g8n8.pregnancytracker",
+    "store_name": "Pregnancy Tracker"
+  },
+  "hierarchy": {
+    "bounds": [
+      0,
+      0,
+      1440,
+      2560
+    ],
+    "children": [
+      {
+        "bounds": [
+          0,
+          0,
+          1440,
+          2392
+        ],
+        "children": [
+          {
+            "bounds": [
+              0,
+              84,
+              1440,
+              2392
+            ],
+            "children": [
+              {
+                "bounds": [
+                  0,
+                  84,
+                  1440,
+                  2392
+                ],
+                "children": [
+                  {
+                    "bounds": [
+                      70,
+                      154,
+                      1370,
+                      346
+                    ],
+                    "children": null,
+                    "clickable": false,
+                    "name": "TextView",
+                    "resource_id": "textView",
+                    "scrollable": {
+                      "horizontal": false,
+                      "vertical": false
+                    },
+                    "text": "Which data you want to use for calculation?",
+                    "visible": true
+                  },
+                  {
+                    "bounds": [
+                      70,
+                      416,
+                      1370,
+                      584
+                    ],
+                    "children": null,
+                    "clickable": true,
+                    "name": "Button",
+                    "resource_id": "bn",
+                    "scrollable": {
+                      "horizontal": false,
+                      "vertical": false
+                    },
+                    "text": "Based on the first day of your last menstrual period",
+                    "visible": true
+                  },
+                  {
+                    "bounds": [
+                      70,
+                      598,
+                      1370,
+                      766
+                    ],
+                    "children": null,
+                    "clickable": true,
+                    "name": "Button",
+                    "resource_id": "startUltrasoundButton",
+                    "scrollable": {
+                      "horizontal": false,
+                      "vertical": false
+                    },
+                    "text": "Based on ultrasound",
+                    "visible": true
+                  },
+                  {
+                    "bounds": [
+                      70,
+                      780,
+                      1370,
+                      955
+                    ],
+                    "children": [
+                      {
+                        "bounds": [
+                          70,
+                          780,
+                          1370,
+                          955
+                        ],
+                        "children": [
+                          {
+                            "bounds": [
+                              70,
+                              780,
+                              1370,
+                              955
+                            ],
+                            "children": [],
+                            "clickable": false,
+                            "name": "n",
+                            "resource_id": null,
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": null,
+                            "visible": true
+                          }
+                        ],
+                        "clickable": false,
+                        "name": "bp",
+                        "resource_id": null,
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      }
+                    ],
+                    "clickable": false,
+                    "name": "AdView",
+                    "resource_id": "adView",
+                    "scrollable": {
+                      "horizontal": false,
+                      "vertical": false
+                    },
+                    "text": null,
+                    "visible": true
+                  },
+                  {
+                    "bounds": [
+                      70,
+                      969,
+                      1370,
+                      1137
+                    ],
+                    "children": null,
+                    "clickable": true,
+                    "name": "Button",
+                    "resource_id": "bnmainpage",
+                    "scrollable": {
+                      "horizontal": false,
+                      "vertical": false
+                    },
+                    "text": "Main Page",
+                    "visible": true
+                  }
+                ],
+                "clickable": false,
+                "name": "LinearLayout",
+                "resource_id": null,
+                "scrollable": {
+                  "horizontal": false,
+                  "vertical": false
+                },
+                "text": null,
+                "visible": true
+              }
+            ],
+            "clickable": false,
+            "name": "FrameLayout",
+            "resource_id": "content",
+            "scrollable": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "text": null,
+            "visible": true
+          }
+        ],
+        "clickable": false,
+        "name": "LinearLayout",
+        "resource_id": null,
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      },
+      {
+        "bounds": [
+          0,
+          2392,
+          1440,
+          2560
+        ],
+        "children": null,
+        "clickable": false,
+        "name": "View",
+        "resource_id": "navigationBarBackground",
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      },
+      {
+        "bounds": [
+          0,
+          0,
+          1440,
+          84
+        ],
+        "children": null,
+        "clickable": false,
+        "name": "View",
+        "resource_id": "statusBarBackground",
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      }
+    ],
+    "clickable": false,
+    "name": "PhoneWindow$DecorView",
+    "resource_id": null,
+    "scrollable": {
+      "horizontal": false,
+      "vertical": false
+    },
+    "text": null,
+    "visible": true
+  },
+  "keyboard": false
+}

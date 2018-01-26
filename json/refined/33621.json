@@ -1,0 +1,1445 @@
+{
+  "activity_name": "SearchResultFragmentActivity",
+  "app": {
+    "category": "Shopping",
+    "package_name": "com.ebay.mobile",
+    "store_name": "eBay - Buy, Sell & Save Money"
+  },
+  "hierarchy": {
+    "bounds": [
+      0,
+      0,
+      1440,
+      2392
+    ],
+    "children": [
+      {
+        "bounds": [
+          0,
+          0,
+          1440,
+          2392
+        ],
+        "children": [
+          {
+            "bounds": [
+              0,
+              252,
+              1440,
+              2392
+            ],
+            "children": [
+              {
+                "bounds": [
+                  0,
+                  252,
+                  1440,
+                  2392
+                ],
+                "children": [
+                  {
+                    "bounds": [
+                      228,
+                      252,
+                      1440,
+                      2392
+                    ],
+                    "children": [
+                      {
+                        "bounds": [
+                          228,
+                          252,
+                          1440,
+                          490
+                        ],
+                        "children": [
+                          {
+                            "bounds": [
+                              580,
+                              296,
+                              1088,
+                              445
+                            ],
+                            "children": [
+                              {
+                                "bounds": [
+                                  580,
+                                  296,
+                                  1088,
+                                  388
+                                ],
+                                "children": null,
+                                "clickable": false,
+                                "name": "TextView",
+                                "resource_id": "search_refine_panel_title",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": "Refine",
+                                "visible": true
+                              },
+                              {
+                                "bounds": [
+                                  767,
+                                  388,
+                                  900,
+                                  445
+                                ],
+                                "children": [
+                                  {
+                                    "bounds": [
+                                      767,
+                                      388,
+                                      900,
+                                      445
+                                    ],
+                                    "children": null,
+                                    "clickable": false,
+                                    "name": "TextView",
+                                    "resource_id": "search_refine_panel_result_count",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": "(3,368)",
+                                    "visible": true
+                                  }
+                                ],
+                                "clickable": false,
+                                "name": "LinearLayout",
+                                "resource_id": null,
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": null,
+                                "visible": true
+                              }
+                            ],
+                            "clickable": false,
+                            "name": "LinearLayout",
+                            "resource_id": null,
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": null,
+                            "visible": true
+                          },
+                          {
+                            "bounds": [
+                              1216,
+                              252,
+                              1440,
+                              490
+                            ],
+                            "children": null,
+                            "clickable": true,
+                            "name": "Button",
+                            "resource_id": "search_refine_done",
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": "Done",
+                            "visible": true
+                          }
+                        ],
+                        "clickable": true,
+                        "name": "FrameLayout",
+                        "resource_id": "search_refine_header_layout",
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      },
+                      {
+                        "bounds": [
+                          228,
+                          490,
+                          1440,
+                          553
+                        ],
+                        "children": null,
+                        "clickable": false,
+                        "name": "View",
+                        "resource_id": null,
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      },
+                      {
+                        "bounds": [
+                          228,
+                          553,
+                          1440,
+                          2392
+                        ],
+                        "children": [
+                          {
+                            "bounds": [
+                              228,
+                              553,
+                              1440,
+                              2392
+                            ],
+                            "children": null,
+                            "clickable": true,
+                            "name": "ListView",
+                            "resource_id": "refine_details",
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": null,
+                            "visible": false
+                          },
+                          {
+                            "bounds": [
+                              228,
+                              553,
+                              1440,
+                              2392
+                            ],
+                            "children": [
+                              {
+                                "bounds": [
+                                  228,
+                                  553,
+                                  1440,
+                                  2392
+                                ],
+                                "children": [
+                                  {
+                                    "bounds": [
+                                      228,
+                                      553,
+                                      1440,
+                                      742
+                                    ],
+                                    "children": [
+                                      {
+                                        "bounds": [
+                                          263,
+                                          567,
+                                          515,
+                                          652
+                                        ],
+                                        "children": null,
+                                        "clickable": false,
+                                        "name": "TextView",
+                                        "resource_id": "search_category_label",
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": "Category",
+                                        "visible": true
+                                      },
+                                      {
+                                        "bounds": [
+                                          263,
+                                          652,
+                                          1440,
+                                          718
+                                        ],
+                                        "children": null,
+                                        "clickable": false,
+                                        "name": "TextView",
+                                        "resource_id": "category_textview",
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": "All",
+                                        "visible": true
+                                      }
+                                    ],
+                                    "clickable": true,
+                                    "name": "RelativeLayout",
+                                    "resource_id": "category_layout",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": true
+                                  },
+                                  {
+                                    "bounds": [
+                                      228,
+                                      742,
+                                      1440,
+                                      746
+                                    ],
+                                    "children": null,
+                                    "clickable": false,
+                                    "name": "View",
+                                    "resource_id": "refine_local_showmore_divider",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": true
+                                  },
+                                  {
+                                    "bounds": [
+                                      228,
+                                      746,
+                                      1440,
+                                      1325
+                                    ],
+                                    "children": [
+                                      {
+                                        "bounds": [
+                                          228,
+                                          746,
+                                          1440,
+                                          935
+                                        ],
+                                        "children": [
+                                          {
+                                            "bounds": [
+                                              256,
+                                              765,
+                                              1422,
+                                              916
+                                            ],
+                                            "children": [
+                                              {
+                                                "bounds": [
+                                                  256,
+                                                  765,
+                                                  633,
+                                                  850
+                                                ],
+                                                "children": null,
+                                                "clickable": false,
+                                                "name": "TextView",
+                                                "resource_id": "row_title",
+                                                "scrollable": {
+                                                  "horizontal": false,
+                                                  "vertical": false
+                                                },
+                                                "text": "Transmission",
+                                                "visible": true
+                                              },
+                                              {
+                                                "bounds": [
+                                                  256,
+                                                  850,
+                                                  978,
+                                                  916
+                                                ],
+                                                "children": null,
+                                                "clickable": false,
+                                                "name": "TextView",
+                                                "resource_id": "row_value",
+                                                "scrollable": {
+                                                  "horizontal": false,
+                                                  "vertical": false
+                                                },
+                                                "text": "Automatic, Manual, Not specified",
+                                                "visible": true
+                                              }
+                                            ],
+                                            "clickable": false,
+                                            "name": "LinearLayout",
+                                            "resource_id": null,
+                                            "scrollable": {
+                                              "horizontal": false,
+                                              "vertical": false
+                                            },
+                                            "text": null,
+                                            "visible": true
+                                          }
+                                        ],
+                                        "clickable": true,
+                                        "name": "RelativeLayout",
+                                        "resource_id": null,
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": null,
+                                        "visible": true
+                                      },
+                                      {
+                                        "bounds": [
+                                          228,
+                                          935,
+                                          1440,
+                                          939
+                                        ],
+                                        "children": null,
+                                        "clickable": false,
+                                        "name": "View",
+                                        "resource_id": null,
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": null,
+                                        "visible": true
+                                      },
+                                      {
+                                        "bounds": [
+                                          228,
+                                          939,
+                                          1440,
+                                          1128
+                                        ],
+                                        "children": [
+                                          {
+                                            "bounds": [
+                                              256,
+                                              958,
+                                              1422,
+                                              1109
+                                            ],
+                                            "children": [
+                                              {
+                                                "bounds": [
+                                                  256,
+                                                  958,
+                                                  571,
+                                                  1043
+                                                ],
+                                                "children": null,
+                                                "clickable": false,
+                                                "name": "TextView",
+                                                "resource_id": "row_title",
+                                                "scrollable": {
+                                                  "horizontal": false,
+                                                  "vertical": false
+                                                },
+                                                "text": "Model Year",
+                                                "visible": true
+                                              },
+                                              {
+                                                "bounds": [
+                                                  256,
+                                                  1043,
+                                                  1369,
+                                                  1109
+                                                ],
+                                                "children": null,
+                                                "clickable": false,
+                                                "name": "TextView",
+                                                "resource_id": "row_value",
+                                                "scrollable": {
+                                                  "horizontal": false,
+                                                  "vertical": false
+                                                },
+                                                "text": "2017, 2016, 2014, 1969, 1968, 1967, 1966, 1965, 2015, 2013",
+                                                "visible": true
+                                              }
+                                            ],
+                                            "clickable": false,
+                                            "name": "LinearLayout",
+                                            "resource_id": null,
+                                            "scrollable": {
+                                              "horizontal": false,
+                                              "vertical": false
+                                            },
+                                            "text": null,
+                                            "visible": true
+                                          }
+                                        ],
+                                        "clickable": true,
+                                        "name": "RelativeLayout",
+                                        "resource_id": null,
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": null,
+                                        "visible": true
+                                      },
+                                      {
+                                        "bounds": [
+                                          228,
+                                          1128,
+                                          1440,
+                                          1132
+                                        ],
+                                        "children": null,
+                                        "clickable": false,
+                                        "name": "View",
+                                        "resource_id": null,
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": null,
+                                        "visible": true
+                                      },
+                                      {
+                                        "bounds": [
+                                          228,
+                                          1132,
+                                          1440,
+                                          1321
+                                        ],
+                                        "children": [
+                                          {
+                                            "bounds": [
+                                              256,
+                                              1151,
+                                              1422,
+                                              1302
+                                            ],
+                                            "children": [
+                                              {
+                                                "bounds": [
+                                                  256,
+                                                  1151,
+                                                  695,
+                                                  1236
+                                                ],
+                                                "children": null,
+                                                "clickable": false,
+                                                "name": "TextView",
+                                                "resource_id": "row_title",
+                                                "scrollable": {
+                                                  "horizontal": false,
+                                                  "vertical": false
+                                                },
+                                                "text": "Vehicle Mileage",
+                                                "visible": true
+                                              },
+                                              {
+                                                "bounds": [
+                                                  256,
+                                                  1236,
+                                                  1369,
+                                                  1302
+                                                ],
+                                                "children": null,
+                                                "clickable": false,
+                                                "name": "TextView",
+                                                "resource_id": "row_value",
+                                                "scrollable": {
+                                                  "horizontal": false,
+                                                  "vertical": false
+                                                },
+                                                "text": "Less than 1,000 miles, Less than 5,000 miles, Less than 20,000 miles, Less than 36,000 miles, Less than 50,000 miles, Less than 75,000 miles, Less than 100,000 miles, Less than 125,000 miles, Less than 7,500 miles, Less than 10,000 miles",
+                                                "visible": true
+                                              }
+                                            ],
+                                            "clickable": false,
+                                            "name": "LinearLayout",
+                                            "resource_id": null,
+                                            "scrollable": {
+                                              "horizontal": false,
+                                              "vertical": false
+                                            },
+                                            "text": null,
+                                            "visible": true
+                                          }
+                                        ],
+                                        "clickable": true,
+                                        "name": "RelativeLayout",
+                                        "resource_id": null,
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": null,
+                                        "visible": true
+                                      },
+                                      {
+                                        "bounds": [
+                                          228,
+                                          1321,
+                                          1440,
+                                          1325
+                                        ],
+                                        "children": null,
+                                        "clickable": false,
+                                        "name": "View",
+                                        "resource_id": null,
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": null,
+                                        "visible": true
+                                      }
+                                    ],
+                                    "clickable": false,
+                                    "name": "LinearLayout",
+                                    "resource_id": "refine_local_aspect_container",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": true
+                                  },
+                                  {
+                                    "bounds": [
+                                      228,
+                                      1325,
+                                      1405,
+                                      1514
+                                    ],
+                                    "children": null,
+                                    "clickable": true,
+                                    "name": "TextView",
+                                    "resource_id": "refine_local_aspect_container_showmore",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": "Show more",
+                                    "visible": true
+                                  },
+                                  {
+                                    "bounds": [
+                                      228,
+                                      553,
+                                      228,
+                                      553
+                                    ],
+                                    "children": null,
+                                    "clickable": true,
+                                    "name": "TextView",
+                                    "resource_id": "refine_local_aspect_container_showfewer",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": "Show less",
+                                    "visible": false
+                                  },
+                                  {
+                                    "bounds": [
+                                      228,
+                                      1514,
+                                      1440,
+                                      1577
+                                    ],
+                                    "children": null,
+                                    "clickable": false,
+                                    "name": "View",
+                                    "resource_id": "refine_local_showfewer_section_divider",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": true
+                                  },
+                                  {
+                                    "bounds": [
+                                      228,
+                                      813,
+                                      1440,
+                                      876
+                                    ],
+                                    "children": null,
+                                    "clickable": false,
+                                    "name": "View",
+                                    "resource_id": "refine_no_local_section_divider",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": false
+                                  },
+                                  {
+                                    "bounds": [
+                                      228,
+                                      1577,
+                                      1440,
+                                      1581
+                                    ],
+                                    "children": null,
+                                    "clickable": false,
+                                    "name": "View",
+                                    "resource_id": null,
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": true
+                                  },
+                                  {
+                                    "bounds": [
+                                      228,
+                                      1581,
+                                      1440,
+                                      1770
+                                    ],
+                                    "children": [
+                                      {
+                                        "bounds": [
+                                          263,
+                                          1595,
+                                          542,
+                                          1680
+                                        ],
+                                        "children": null,
+                                        "clickable": false,
+                                        "name": "TextView",
+                                        "resource_id": "sort_order_label",
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": "Sort order",
+                                        "visible": true
+                                      },
+                                      {
+                                        "bounds": [
+                                          263,
+                                          1680,
+                                          1440,
+                                          1746
+                                        ],
+                                        "children": null,
+                                        "clickable": false,
+                                        "name": "TextView",
+                                        "resource_id": "sort_order_textview",
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": "Best Match",
+                                        "visible": true
+                                      }
+                                    ],
+                                    "clickable": true,
+                                    "name": "RelativeLayout",
+                                    "resource_id": "sort_order_layout",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": true
+                                  },
+                                  {
+                                    "bounds": [
+                                      228,
+                                      1770,
+                                      1440,
+                                      1774
+                                    ],
+                                    "children": null,
+                                    "clickable": false,
+                                    "name": "View",
+                                    "resource_id": null,
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": true
+                                  },
+                                  {
+                                    "bounds": [
+                                      228,
+                                      1774,
+                                      1440,
+                                      1963
+                                    ],
+                                    "children": [
+                                      {
+                                        "bounds": [
+                                          263,
+                                          1788,
+                                          657,
+                                          1873
+                                        ],
+                                        "children": null,
+                                        "clickable": false,
+                                        "name": "TextView",
+                                        "resource_id": "auction_type_label",
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": "Buying format",
+                                        "visible": true
+                                      },
+                                      {
+                                        "bounds": [
+                                          263,
+                                          1873,
+                                          1440,
+                                          1939
+                                        ],
+                                        "children": null,
+                                        "clickable": false,
+                                        "name": "TextView",
+                                        "resource_id": "auction_type_textview",
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": "Auction, Buy It Now, Best Offer",
+                                        "visible": true
+                                      }
+                                    ],
+                                    "clickable": true,
+                                    "name": "RelativeLayout",
+                                    "resource_id": "auction_type_layout",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": true
+                                  },
+                                  {
+                                    "bounds": [
+                                      228,
+                                      1963,
+                                      1440,
+                                      1967
+                                    ],
+                                    "children": null,
+                                    "clickable": false,
+                                    "name": "View",
+                                    "resource_id": null,
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": true
+                                  },
+                                  {
+                                    "bounds": [
+                                      228,
+                                      1967,
+                                      1440,
+                                      2156
+                                    ],
+                                    "children": [
+                                      {
+                                        "bounds": [
+                                          263,
+                                          1981,
+                                          533,
+                                          2066
+                                        ],
+                                        "children": null,
+                                        "clickable": false,
+                                        "name": "TextView",
+                                        "resource_id": "condition_label",
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": "Condition",
+                                        "visible": true
+                                      },
+                                      {
+                                        "bounds": [
+                                          263,
+                                          2066,
+                                          1440,
+                                          2132
+                                        ],
+                                        "children": null,
+                                        "clickable": false,
+                                        "name": "TextView",
+                                        "resource_id": "condition_textview",
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": "Any condition",
+                                        "visible": true
+                                      }
+                                    ],
+                                    "clickable": true,
+                                    "name": "RelativeLayout",
+                                    "resource_id": "condition_layout",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": true
+                                  },
+                                  {
+                                    "bounds": [
+                                      228,
+                                      2156,
+                                      1440,
+                                      2160
+                                    ],
+                                    "children": null,
+                                    "clickable": false,
+                                    "name": "View",
+                                    "resource_id": null,
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": true
+                                  },
+                                  {
+                                    "bounds": [
+                                      228,
+                                      2160,
+                                      1440,
+                                      2349
+                                    ],
+                                    "children": [
+                                      {
+                                        "bounds": [
+                                          263,
+                                          2174,
+                                          405,
+                                          2259
+                                        ],
+                                        "children": null,
+                                        "clickable": false,
+                                        "name": "TextView",
+                                        "resource_id": "price_range_label",
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": "Price",
+                                        "visible": true
+                                      },
+                                      {
+                                        "bounds": [
+                                          263,
+                                          2259,
+                                          1440,
+                                          2325
+                                        ],
+                                        "children": null,
+                                        "clickable": false,
+                                        "name": "TextView",
+                                        "resource_id": "price_range_textview",
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": "Item price range",
+                                        "visible": true
+                                      }
+                                    ],
+                                    "clickable": true,
+                                    "name": "RelativeLayout",
+                                    "resource_id": "price_range_layout",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": true
+                                  },
+                                  {
+                                    "bounds": [
+                                      228,
+                                      2349,
+                                      1440,
+                                      2353
+                                    ],
+                                    "children": null,
+                                    "clickable": false,
+                                    "name": "View",
+                                    "resource_id": null,
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": true
+                                  },
+                                  {
+                                    "bounds": [
+                                      228,
+                                      2353,
+                                      1440,
+                                      2392
+                                    ],
+                                    "children": [
+                                      {
+                                        "bounds": [
+                                          263,
+                                          2378,
+                                          387,
+                                          2392
+                                        ],
+                                        "children": null,
+                                        "clickable": true,
+                                        "name": "ImageView",
+                                        "resource_id": "near_lock",
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": null,
+                                        "visible": true
+                                      },
+                                      {
+                                        "bounds": [
+                                          422,
+                                          2367,
+                                          620,
+                                          2392
+                                        ],
+                                        "children": null,
+                                        "clickable": false,
+                                        "name": "TextView",
+                                        "resource_id": "near_label",
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": "Nearby",
+                                        "visible": true
+                                      }
+                                    ],
+                                    "clickable": true,
+                                    "name": "RelativeLayout",
+                                    "resource_id": "near_layout",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": true
+                                  },
+                                  {
+                                    "bounds": [
+                                      228,
+                                      2739,
+                                      1440,
+                                      2392
+                                    ],
+                                    "children": [],
+                                    "clickable": true,
+                                    "name": "RelativeLayout",
+                                    "resource_id": "item_location_layout",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": false
+                                  },
+                                  {
+                                    "bounds": [
+                                      228,
+                                      3184,
+                                      1440,
+                                      2392
+                                    ],
+                                    "children": [],
+                                    "clickable": false,
+                                    "name": "RelativeLayout",
+                                    "resource_id": null,
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": false
+                                  },
+                                  {
+                                    "bounds": [
+                                      228,
+                                      3570,
+                                      1440,
+                                      2392
+                                    ],
+                                    "children": [],
+                                    "clickable": false,
+                                    "name": "RelativeLayout",
+                                    "resource_id": "returns_accepted_layout",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": false
+                                  },
+                                  {
+                                    "bounds": [
+                                      228,
+                                      3956,
+                                      1440,
+                                      2392
+                                    ],
+                                    "children": null,
+                                    "clickable": true,
+                                    "name": "Button",
+                                    "resource_id": "reset_refinements",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": "Reset",
+                                    "visible": false
+                                  }
+                                ],
+                                "clickable": false,
+                                "name": "LinearLayout",
+                                "resource_id": "aspect_list",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": null,
+                                "visible": true
+                              }
+                            ],
+                            "clickable": false,
+                            "name": "ScrollView",
+                            "resource_id": "refine_root",
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": true
+                            },
+                            "text": null,
+                            "visible": true
+                          }
+                        ],
+                        "clickable": false,
+                        "name": "FrameLayout",
+                        "resource_id": null,
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      }
+                    ],
+                    "clickable": false,
+                    "name": "LinearLayout",
+                    "resource_id": "search_refine_fragment",
+                    "scrollable": {
+                      "horizontal": false,
+                      "vertical": false
+                    },
+                    "text": null,
+                    "visible": true
+                  }
+                ],
+                "clickable": false,
+                "name": "DrawerLayout",
+                "resource_id": "refine_drawer",
+                "scrollable": {
+                  "horizontal": false,
+                  "vertical": false
+                },
+                "text": null,
+                "visible": true
+              }
+            ],
+            "clickable": false,
+            "name": "FrameLayout",
+            "resource_id": "content",
+            "scrollable": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "text": null,
+            "visible": true
+          },
+          {
+            "bounds": [
+              0,
+              84,
+              1440,
+              252
+            ],
+            "children": [
+              {
+                "bounds": [
+                  0,
+                  84,
+                  1440,
+                  252
+                ],
+                "children": [
+                  {
+                    "bounds": [
+                      0,
+                      84,
+                      442,
+                      252
+                    ],
+                    "children": [
+                      {
+                        "bounds": [
+                          0,
+                          84,
+                          58,
+                          252
+                        ],
+                        "children": [
+                          {
+                            "bounds": [
+                              0,
+                              140,
+                              56,
+                              196
+                            ],
+                            "children": null,
+                            "clickable": false,
+                            "name": "ImageView",
+                            "resource_id": "up",
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": null,
+                            "visible": true
+                          },
+                          {
+                            "bounds": [
+                              43,
+                              168,
+                              44,
+                              169
+                            ],
+                            "children": null,
+                            "clickable": false,
+                            "name": "ImageView",
+                            "resource_id": "home",
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": null,
+                            "visible": true
+                          }
+                        ],
+                        "clickable": false,
+                        "name": "ActionBarView$HomeView",
+                        "resource_id": null,
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      },
+                      {
+                        "bounds": [
+                          58,
+                          125,
+                          442,
+                          210
+                        ],
+                        "children": [
+                          {
+                            "bounds": [
+                              58,
+                              125,
+                              414,
+                              210
+                            ],
+                            "children": null,
+                            "clickable": false,
+                            "name": "TextView",
+                            "resource_id": "action_bar_title",
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": "3,368 results",
+                            "visible": true
+                          }
+                        ],
+                        "clickable": false,
+                        "name": "LinearLayout",
+                        "resource_id": null,
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      }
+                    ],
+                    "clickable": true,
+                    "name": "LinearLayout",
+                    "resource_id": null,
+                    "scrollable": {
+                      "horizontal": false,
+                      "vertical": false
+                    },
+                    "text": null,
+                    "visible": true
+                  },
+                  {
+                    "bounds": [
+                      838,
+                      84,
+                      1440,
+                      252
+                    ],
+                    "children": [
+                      {
+                        "bounds": [
+                          838,
+                          84,
+                          1041,
+                          252
+                        ],
+                        "children": [
+                          {
+                            "bounds": [
+                              880,
+                              108,
+                              999,
+                              227
+                            ],
+                            "children": null,
+                            "clickable": false,
+                            "name": "ImageView",
+                            "resource_id": "action_view_icon",
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": null,
+                            "visible": true
+                          }
+                        ],
+                        "clickable": true,
+                        "name": "RelativeLayout",
+                        "resource_id": "menu_symban",
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      },
+                      {
+                        "bounds": [
+                          1041,
+                          84,
+                          1244,
+                          252
+                        ],
+                        "children": [
+                          {
+                            "bounds": [
+                              1083,
+                              108,
+                              1202,
+                              227
+                            ],
+                            "children": null,
+                            "clickable": false,
+                            "name": "ImageView",
+                            "resource_id": "action_view_icon",
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": null,
+                            "visible": true
+                          }
+                        ],
+                        "clickable": true,
+                        "name": "RelativeLayout",
+                        "resource_id": "menu_shopping_cart",
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      },
+                      {
+                        "bounds": [
+                          1244,
+                          84,
+                          1440,
+                          252
+                        ],
+                        "children": null,
+                        "clickable": true,
+                        "name": "ActionMenuPresenter$OverflowMenuButton",
+                        "resource_id": null,
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      }
+                    ],
+                    "clickable": false,
+                    "name": "ActionMenuView",
+                    "resource_id": null,
+                    "scrollable": {
+                      "horizontal": false,
+                      "vertical": false
+                    },
+                    "text": null,
+                    "visible": true
+                  }
+                ],
+                "clickable": false,
+                "name": "ActionBarView",
+                "resource_id": "action_bar",
+                "scrollable": {
+                  "horizontal": false,
+                  "vertical": false
+                },
+                "text": null,
+                "visible": true
+              }
+            ],
+            "clickable": false,
+            "name": "ActionBarContainer",
+            "resource_id": "action_bar_container",
+            "scrollable": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "text": null,
+            "visible": true
+          }
+        ],
+        "clickable": false,
+        "name": "ActionBarOverlayLayout",
+        "resource_id": "decor_content_parent",
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      }
+    ],
+    "clickable": false,
+    "name": "PhoneWindow$DecorView",
+    "resource_id": null,
+    "scrollable": {
+      "horizontal": false,
+      "vertical": false
+    },
+    "text": null,
+    "visible": true
+  },
+  "keyboard": false
+}

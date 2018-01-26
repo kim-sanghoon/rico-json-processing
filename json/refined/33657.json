@@ -1,0 +1,249 @@
+{
+  "activity_name": "MainActivity",
+  "app": {
+    "category": "Sports",
+    "package_name": "com.mobile.android.celtics",
+    "store_name": "Boston Celtics"
+  },
+  "hierarchy": {
+    "bounds": [
+      0,
+      0,
+      1440,
+      2560
+    ],
+    "children": [
+      {
+        "bounds": [
+          0,
+          0,
+          1440,
+          2392
+        ],
+        "children": [
+          {
+            "bounds": [
+              0,
+              84,
+              1440,
+              2392
+            ],
+            "children": [
+              {
+                "bounds": [
+                  0,
+                  84,
+                  1440,
+                  2392
+                ],
+                "children": [
+                  {
+                    "bounds": [
+                      0,
+                      84,
+                      1440,
+                      2392
+                    ],
+                    "children": [
+                      {
+                        "bounds": [
+                          0,
+                          84,
+                          1440,
+                          259
+                        ],
+                        "children": [
+                          {
+                            "bounds": [
+                              18,
+                              115,
+                              553,
+                              227
+                            ],
+                            "children": null,
+                            "clickable": true,
+                            "name": "ImageView",
+                            "resource_id": "webview_action_close",
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": null,
+                            "visible": true
+                          },
+                          {
+                            "bounds": [
+                              571,
+                              115,
+                              683,
+                              227
+                            ],
+                            "children": null,
+                            "clickable": true,
+                            "name": "ImageView",
+                            "resource_id": "webview_action_back",
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": null,
+                            "visible": true
+                          },
+                          {
+                            "bounds": [
+                              757,
+                              115,
+                              869,
+                              227
+                            ],
+                            "children": null,
+                            "clickable": true,
+                            "name": "ImageView",
+                            "resource_id": "webview_action_forward",
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": null,
+                            "visible": false
+                          },
+                          {
+                            "bounds": [
+                              887,
+                              115,
+                              1422,
+                              227
+                            ],
+                            "children": null,
+                            "clickable": true,
+                            "name": "ImageView",
+                            "resource_id": "webview_action_browser",
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": null,
+                            "visible": true
+                          }
+                        ],
+                        "clickable": false,
+                        "name": "RelativeLayout",
+                        "resource_id": "webview_actions",
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      },
+                      {
+                        "bounds": [
+                          0,
+                          259,
+                          1440,
+                          2392
+                        ],
+                        "children": null,
+                        "clickable": true,
+                        "name": "WebView",
+                        "resource_id": "dialog_webview",
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      }
+                    ],
+                    "clickable": false,
+                    "name": "RelativeLayout",
+                    "resource_id": "webview_container",
+                    "scrollable": {
+                      "horizontal": false,
+                      "vertical": false
+                    },
+                    "text": null,
+                    "visible": true
+                  }
+                ],
+                "clickable": false,
+                "name": "FrameLayout",
+                "resource_id": null,
+                "scrollable": {
+                  "horizontal": false,
+                  "vertical": false
+                },
+                "text": null,
+                "visible": true
+              }
+            ],
+            "clickable": false,
+            "name": "FrameLayout",
+            "resource_id": "content",
+            "scrollable": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "text": null,
+            "visible": true
+          }
+        ],
+        "clickable": false,
+        "name": "LinearLayout",
+        "resource_id": null,
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      },
+      {
+        "bounds": [
+          0,
+          2392,
+          1440,
+          2560
+        ],
+        "children": null,
+        "clickable": false,
+        "name": "View",
+        "resource_id": "navigationBarBackground",
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      },
+      {
+        "bounds": [
+          0,
+          0,
+          1440,
+          84
+        ],
+        "children": null,
+        "clickable": false,
+        "name": "View",
+        "resource_id": "statusBarBackground",
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      }
+    ],
+    "clickable": false,
+    "name": "PhoneWindow$DecorView",
+    "resource_id": null,
+    "scrollable": {
+      "horizontal": false,
+      "vertical": false
+    },
+    "text": null,
+    "visible": true
+  },
+  "keyboard": false
+}

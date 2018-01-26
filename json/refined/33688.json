@@ -1,0 +1,453 @@
+{
+  "activity_name": "HomeActivity",
+  "app": {
+    "category": "News & Magazines",
+    "package_name": "com.criticalhitsoftware.policeradio",
+    "store_name": "Police Scanner FREE"
+  },
+  "hierarchy": {
+    "bounds": [
+      0,
+      0,
+      1440,
+      2560
+    ],
+    "children": [
+      {
+        "bounds": [
+          0,
+          0,
+          1440,
+          2392
+        ],
+        "children": [
+          {
+            "bounds": [
+              0,
+              84,
+              1440,
+              2392
+            ],
+            "children": [
+              {
+                "bounds": [
+                  0,
+                  84,
+                  1440,
+                  2392
+                ],
+                "children": [
+                  {
+                    "bounds": [
+                      0,
+                      84,
+                      1440,
+                      1843
+                    ],
+                    "children": [
+                      {
+                        "bounds": [
+                          0,
+                          84,
+                          1440,
+                          201
+                        ],
+                        "children": null,
+                        "clickable": false,
+                        "name": "ImageView",
+                        "resource_id": null,
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      },
+                      {
+                        "bounds": [
+                          0,
+                          201,
+                          1440,
+                          397
+                        ],
+                        "children": [
+                          {
+                            "bounds": [
+                              213,
+                              224,
+                              1226,
+                              373
+                            ],
+                            "children": [
+                              {
+                                "bounds": [
+                                  243,
+                                  247,
+                                  1193,
+                                  332
+                                ],
+                                "children": null,
+                                "clickable": false,
+                                "name": "TextView",
+                                "resource_id": "nowPlayingLabel",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": "Chicago Police",
+                                "visible": true
+                              }
+                            ],
+                            "clickable": true,
+                            "name": "FrameLayout",
+                            "resource_id": "lcdMini",
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": null,
+                            "visible": true
+                          },
+                          {
+                            "bounds": [
+                              1226,
+                              201,
+                              1440,
+                              397
+                            ],
+                            "children": [
+                              {
+                                "bounds": [
+                                  1226,
+                                  201,
+                                  1422,
+                                  397
+                                ],
+                                "children": null,
+                                "clickable": true,
+                                "name": "ImageButton",
+                                "resource_id": "togglePlayButton",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": null,
+                                "visible": true
+                              }
+                            ],
+                            "clickable": false,
+                            "name": "FrameLayout",
+                            "resource_id": null,
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": null,
+                            "visible": true
+                          }
+                        ],
+                        "clickable": false,
+                        "name": "LinearLayout",
+                        "resource_id": null,
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      },
+                      {
+                        "bounds": [
+                          0,
+                          425,
+                          1440,
+                          830
+                        ],
+                        "children": [
+                          {
+                            "bounds": [
+                              7,
+                              443,
+                              720,
+                              830
+                            ],
+                            "children": null,
+                            "clickable": true,
+                            "name": "Button",
+                            "resource_id": null,
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": "Directory",
+                            "visible": true
+                          },
+                          {
+                            "bounds": [
+                              720,
+                              443,
+                              1433,
+                              830
+                            ],
+                            "children": null,
+                            "clickable": true,
+                            "name": "Button",
+                            "resource_id": null,
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": "Hot",
+                            "visible": true
+                          }
+                        ],
+                        "clickable": false,
+                        "name": "LinearLayout",
+                        "resource_id": null,
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      },
+                      {
+                        "bounds": [
+                          0,
+                          830,
+                          1440,
+                          1235
+                        ],
+                        "children": [
+                          {
+                            "bounds": [
+                              7,
+                              848,
+                              720,
+                              1235
+                            ],
+                            "children": null,
+                            "clickable": true,
+                            "name": "Button",
+                            "resource_id": null,
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": "Near Me",
+                            "visible": true
+                          },
+                          {
+                            "bounds": [
+                              720,
+                              848,
+                              1433,
+                              1235
+                            ],
+                            "children": null,
+                            "clickable": true,
+                            "name": "Button",
+                            "resource_id": null,
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": "Lingo",
+                            "visible": true
+                          }
+                        ],
+                        "clickable": false,
+                        "name": "LinearLayout",
+                        "resource_id": null,
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      },
+                      {
+                        "bounds": [
+                          0,
+                          1235,
+                          1440,
+                          1640
+                        ],
+                        "children": [
+                          {
+                            "bounds": [
+                              7,
+                              1253,
+                              720,
+                              1640
+                            ],
+                            "children": null,
+                            "clickable": true,
+                            "name": "Button",
+                            "resource_id": null,
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": "Favorites",
+                            "visible": true
+                          },
+                          {
+                            "bounds": [
+                              720,
+                              1253,
+                              1433,
+                              1640
+                            ],
+                            "children": null,
+                            "clickable": true,
+                            "name": "Button",
+                            "resource_id": null,
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": "Info",
+                            "visible": true
+                          }
+                        ],
+                        "clickable": false,
+                        "name": "LinearLayout",
+                        "resource_id": null,
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      },
+                      {
+                        "bounds": [
+                          0,
+                          1640,
+                          1440,
+                          1843
+                        ],
+                        "children": [
+                          {
+                            "bounds": [
+                              459,
+                              1675,
+                              980,
+                              1843
+                            ],
+                            "children": null,
+                            "clickable": true,
+                            "name": "Button",
+                            "resource_id": null,
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": "Upgrade",
+                            "visible": true
+                          }
+                        ],
+                        "clickable": false,
+                        "name": "FrameLayout",
+                        "resource_id": "upgradeButtonContainer",
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      }
+                    ],
+                    "clickable": false,
+                    "name": "LinearLayout",
+                    "resource_id": null,
+                    "scrollable": {
+                      "horizontal": false,
+                      "vertical": false
+                    },
+                    "text": null,
+                    "visible": true
+                  }
+                ],
+                "clickable": false,
+                "name": "ScrollView",
+                "resource_id": null,
+                "scrollable": {
+                  "horizontal": false,
+                  "vertical": true
+                },
+                "text": null,
+                "visible": true
+              }
+            ],
+            "clickable": false,
+            "name": "FrameLayout",
+            "resource_id": "content",
+            "scrollable": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "text": null,
+            "visible": true
+          }
+        ],
+        "clickable": false,
+        "name": "LinearLayout",
+        "resource_id": null,
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      },
+      {
+        "bounds": [
+          0,
+          2392,
+          1440,
+          2560
+        ],
+        "children": null,
+        "clickable": false,
+        "name": "View",
+        "resource_id": "navigationBarBackground",
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      },
+      {
+        "bounds": [
+          0,
+          0,
+          1440,
+          84
+        ],
+        "children": null,
+        "clickable": false,
+        "name": "View",
+        "resource_id": "statusBarBackground",
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      }
+    ],
+    "clickable": false,
+    "name": "PhoneWindow$DecorView",
+    "resource_id": null,
+    "scrollable": {
+      "horizontal": false,
+      "vertical": false
+    },
+    "text": null,
+    "visible": true
+  },
+  "keyboard": false
+}

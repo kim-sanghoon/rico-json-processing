@@ -1,0 +1,490 @@
+{
+  "activity_name": "Predictions",
+  "app": {
+    "category": "Maps & Navigation",
+    "package_name": "com.neces.lametro",
+    "store_name": "LA Metro Alerts"
+  },
+  "hierarchy": {
+    "bounds": [
+      0,
+      0,
+      1440,
+      2560
+    ],
+    "children": [
+      {
+        "bounds": [
+          0,
+          0,
+          1440,
+          2392
+        ],
+        "children": [
+          {
+            "bounds": [
+              0,
+              280,
+              1440,
+              2392
+            ],
+            "children": [
+              {
+                "bounds": [
+                  0,
+                  280,
+                  1440,
+                  2392
+                ],
+                "children": [
+                  {
+                    "bounds": [
+                      0,
+                      280,
+                      1440,
+                      2392
+                    ],
+                    "children": [
+                      {
+                        "bounds": [
+                          160,
+                          280,
+                          1280,
+                          455
+                        ],
+                        "children": [
+                          {
+                            "bounds": [
+                              160,
+                              280,
+                              1280,
+                              455
+                            ],
+                            "children": [
+                              {
+                                "bounds": [
+                                  160,
+                                  280,
+                                  1280,
+                                  455
+                                ],
+                                "children": [
+                                  {
+                                    "bounds": [
+                                      160,
+                                      280,
+                                      1280,
+                                      455
+                                    ],
+                                    "children": null,
+                                    "clickable": true,
+                                    "name": "o",
+                                    "resource_id": null,
+                                    "scrollable": {
+                                      "horizontal": true,
+                                      "vertical": true
+                                    },
+                                    "text": null,
+                                    "visible": true
+                                  }
+                                ],
+                                "clickable": false,
+                                "name": "n",
+                                "resource_id": null,
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": null,
+                                "visible": true
+                              }
+                            ],
+                            "clickable": false,
+                            "name": "bp",
+                            "resource_id": null,
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": null,
+                            "visible": true
+                          }
+                        ],
+                        "clickable": false,
+                        "name": "AdView",
+                        "resource_id": "adview",
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      },
+                      {
+                        "bounds": [
+                          0,
+                          455,
+                          1440,
+                          597
+                        ],
+                        "children": null,
+                        "clickable": false,
+                        "name": "TextView",
+                        "resource_id": "heading",
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": "45 Lincoln Heights - Dwntwn LA- Rosewoo - North to Lincoln Heights - Broadway / Avenue 18",
+                        "visible": true
+                      },
+                      {
+                        "bounds": [
+                          0,
+                          597,
+                          1440,
+                          2392
+                        ],
+                        "children": [
+                          {
+                            "bounds": [
+                              0,
+                              597,
+                              1440,
+                              2392
+                            ],
+                            "children": [
+                              {
+                                "bounds": [
+                                  0,
+                                  597,
+                                  1440,
+                                  765
+                                ],
+                                "children": null,
+                                "clickable": false,
+                                "name": "TextView",
+                                "resource_id": "text1",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": "8m 53s - North to Lincoln Heights",
+                                "visible": true
+                              },
+                              {
+                                "bounds": [
+                                  0,
+                                  769,
+                                  1440,
+                                  937
+                                ],
+                                "children": null,
+                                "clickable": false,
+                                "name": "TextView",
+                                "resource_id": "text1",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": "13m 0s - North to Lincoln Heights",
+                                "visible": true
+                              },
+                              {
+                                "bounds": [
+                                  0,
+                                  941,
+                                  1440,
+                                  1109
+                                ],
+                                "children": null,
+                                "clickable": false,
+                                "name": "TextView",
+                                "resource_id": "text1",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": "18m 38s - North to Lincoln Heights",
+                                "visible": true
+                              },
+                              {
+                                "bounds": [
+                                  0,
+                                  1113,
+                                  1440,
+                                  1281
+                                ],
+                                "children": null,
+                                "clickable": false,
+                                "name": "TextView",
+                                "resource_id": "text1",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": "31m 55s - North to Lincoln Heights",
+                                "visible": true
+                              },
+                              {
+                                "bounds": [
+                                  0,
+                                  1285,
+                                  1440,
+                                  1453
+                                ],
+                                "children": null,
+                                "clickable": false,
+                                "name": "TextView",
+                                "resource_id": "text1",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": "41m 39s - North to Lincoln Heights",
+                                "visible": true
+                              },
+                              {
+                                "bounds": [
+                                  0,
+                                  1457,
+                                  1440,
+                                  1625
+                                ],
+                                "children": null,
+                                "clickable": false,
+                                "name": "TextView",
+                                "resource_id": "text1",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": "updated at 10:17:41 PM",
+                                "visible": true
+                              },
+                              {
+                                "bounds": [
+                                  0,
+                                  1629,
+                                  1440,
+                                  1797
+                                ],
+                                "children": null,
+                                "clickable": false,
+                                "name": "TextView",
+                                "resource_id": "text1",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": "Messages:",
+                                "visible": true
+                              }
+                            ],
+                            "clickable": true,
+                            "name": "ListView",
+                            "resource_id": "list",
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": true
+                            },
+                            "text": null,
+                            "visible": true
+                          }
+                        ],
+                        "clickable": false,
+                        "name": "LinearLayout",
+                        "resource_id": null,
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      }
+                    ],
+                    "clickable": false,
+                    "name": "LinearLayout",
+                    "resource_id": null,
+                    "scrollable": {
+                      "horizontal": false,
+                      "vertical": false
+                    },
+                    "text": null,
+                    "visible": true
+                  }
+                ],
+                "clickable": false,
+                "name": "FrameLayout",
+                "resource_id": null,
+                "scrollable": {
+                  "horizontal": false,
+                  "vertical": false
+                },
+                "text": null,
+                "visible": true
+              }
+            ],
+            "clickable": false,
+            "name": "FrameLayout",
+            "resource_id": "content",
+            "scrollable": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "text": null,
+            "visible": true
+          },
+          {
+            "bounds": [
+              0,
+              84,
+              1440,
+              280
+            ],
+            "children": [
+              {
+                "bounds": [
+                  0,
+                  84,
+                  1440,
+                  280
+                ],
+                "children": [
+                  {
+                    "bounds": [
+                      56,
+                      135,
+                      551,
+                      228
+                    ],
+                    "children": null,
+                    "clickable": false,
+                    "name": "TextView",
+                    "resource_id": null,
+                    "scrollable": {
+                      "horizontal": false,
+                      "vertical": false
+                    },
+                    "text": "LA Metro Alerts",
+                    "visible": true
+                  },
+                  {
+                    "bounds": [
+                      1300,
+                      84,
+                      1440,
+                      280
+                    ],
+                    "children": [
+                      {
+                        "bounds": [
+                          1300,
+                          98,
+                          1440,
+                          266
+                        ],
+                        "children": null,
+                        "clickable": true,
+                        "name": "ActionMenuPresenter$OverflowMenuButton",
+                        "resource_id": null,
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      }
+                    ],
+                    "clickable": false,
+                    "name": "ActionMenuView",
+                    "resource_id": null,
+                    "scrollable": {
+                      "horizontal": false,
+                      "vertical": false
+                    },
+                    "text": null,
+                    "visible": true
+                  }
+                ],
+                "clickable": false,
+                "name": "Toolbar",
+                "resource_id": "action_bar",
+                "scrollable": {
+                  "horizontal": false,
+                  "vertical": false
+                },
+                "text": null,
+                "visible": true
+              }
+            ],
+            "clickable": false,
+            "name": "ActionBarContainer",
+            "resource_id": "action_bar_container",
+            "scrollable": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "text": null,
+            "visible": true
+          }
+        ],
+        "clickable": false,
+        "name": "ActionBarOverlayLayout",
+        "resource_id": "decor_content_parent",
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      },
+      {
+        "bounds": [
+          0,
+          2392,
+          1440,
+          2560
+        ],
+        "children": null,
+        "clickable": false,
+        "name": "View",
+        "resource_id": "navigationBarBackground",
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      },
+      {
+        "bounds": [
+          0,
+          0,
+          1440,
+          84
+        ],
+        "children": null,
+        "clickable": false,
+        "name": "View",
+        "resource_id": "statusBarBackground",
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      }
+    ],
+    "clickable": false,
+    "name": "PhoneWindow$DecorView",
+    "resource_id": null,
+    "scrollable": {
+      "horizontal": false,
+      "vertical": false
+    },
+    "text": null,
+    "visible": true
+  },
+  "keyboard": false
+}

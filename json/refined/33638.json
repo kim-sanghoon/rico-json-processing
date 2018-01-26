@@ -1,0 +1,210 @@
+{
+  "activity_name": "getLastPeriodData",
+  "app": {
+    "category": "Parenting",
+    "package_name": "com.g8n8.pregnancytracker",
+    "store_name": "Pregnancy Tracker"
+  },
+  "hierarchy": {
+    "bounds": [
+      1017,
+      1053,
+      1401,
+      2308
+    ],
+    "children": [
+      {
+        "bounds": [
+          1017,
+          1053,
+          1401,
+          2308
+        ],
+        "children": [
+          {
+            "bounds": [
+              1017,
+              1053,
+              1401,
+              2308
+            ],
+            "children": [
+              {
+                "bounds": [
+                  1017,
+                  1053,
+                  1401,
+                  1221
+                ],
+                "children": null,
+                "clickable": false,
+                "name": "CheckedTextView",
+                "resource_id": "text1",
+                "scrollable": {
+                  "horizontal": false,
+                  "vertical": false
+                },
+                "text": "Select",
+                "visible": true
+              },
+              {
+                "bounds": [
+                  1017,
+                  1221,
+                  1401,
+                  1389
+                ],
+                "children": null,
+                "clickable": false,
+                "name": "CheckedTextView",
+                "resource_id": "text1",
+                "scrollable": {
+                  "horizontal": false,
+                  "vertical": false
+                },
+                "text": "21 days",
+                "visible": true
+              },
+              {
+                "bounds": [
+                  1017,
+                  1389,
+                  1401,
+                  1557
+                ],
+                "children": null,
+                "clickable": false,
+                "name": "CheckedTextView",
+                "resource_id": "text1",
+                "scrollable": {
+                  "horizontal": false,
+                  "vertical": false
+                },
+                "text": "22 days",
+                "visible": true
+              },
+              {
+                "bounds": [
+                  1017,
+                  1557,
+                  1401,
+                  1725
+                ],
+                "children": null,
+                "clickable": false,
+                "name": "CheckedTextView",
+                "resource_id": "text1",
+                "scrollable": {
+                  "horizontal": false,
+                  "vertical": false
+                },
+                "text": "23 days",
+                "visible": true
+              },
+              {
+                "bounds": [
+                  1017,
+                  1725,
+                  1401,
+                  1893
+                ],
+                "children": null,
+                "clickable": false,
+                "name": "CheckedTextView",
+                "resource_id": "text1",
+                "scrollable": {
+                  "horizontal": false,
+                  "vertical": false
+                },
+                "text": "24 days",
+                "visible": true
+              },
+              {
+                "bounds": [
+                  1017,
+                  1893,
+                  1401,
+                  2061
+                ],
+                "children": null,
+                "clickable": false,
+                "name": "CheckedTextView",
+                "resource_id": "text1",
+                "scrollable": {
+                  "horizontal": false,
+                  "vertical": false
+                },
+                "text": "25 days",
+                "visible": true
+              },
+              {
+                "bounds": [
+                  1017,
+                  2061,
+                  1401,
+                  2229
+                ],
+                "children": null,
+                "clickable": false,
+                "name": "CheckedTextView",
+                "resource_id": "text1",
+                "scrollable": {
+                  "horizontal": false,
+                  "vertical": false
+                },
+                "text": "26 days",
+                "visible": true
+              },
+              {
+                "bounds": [
+                  1017,
+                  2229,
+                  1401,
+                  2308
+                ],
+                "children": null,
+                "clickable": false,
+                "name": "CheckedTextView",
+                "resource_id": "text1",
+                "scrollable": {
+                  "horizontal": false,
+                  "vertical": false
+                },
+                "text": "27 days",
+                "visible": true
+              }
+            ],
+            "clickable": true,
+            "name": "ListPopupWindow$DropDownListView",
+            "resource_id": null,
+            "scrollable": {
+              "horizontal": false,
+              "vertical": true
+            },
+            "text": null,
+            "visible": true
+          }
+        ],
+        "clickable": false,
+        "name": "PopupWindow$PopupBackgroundView",
+        "resource_id": null,
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      }
+    ],
+    "clickable": false,
+    "name": "PopupWindow$PopupDecorView",
+    "resource_id": null,
+    "scrollable": {
+      "horizontal": false,
+      "vertical": false
+    },
+    "text": null,
+    "visible": true
+  },
+  "keyboard": false
+}

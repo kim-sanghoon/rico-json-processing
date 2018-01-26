@@ -1,0 +1,399 @@
+{
+  "activity_name": "MainActivity",
+  "app": {
+    "category": "Comics",
+    "package_name": "com.gtp.nextlauncher.theme.magic",
+    "store_name": "Next Launcher Theme  3D Magic"
+  },
+  "hierarchy": {
+    "bounds": [
+      0,
+      0,
+      1440,
+      2392
+    ],
+    "children": [
+      {
+        "bounds": [
+          0,
+          0,
+          1440,
+          2392
+        ],
+        "children": [
+          {
+            "bounds": [
+              0,
+              84,
+              1440,
+              2392
+            ],
+            "children": [
+              {
+                "bounds": [
+                  0,
+                  84,
+                  1440,
+                  2392
+                ],
+                "children": [
+                  {
+                    "bounds": [
+                      0,
+                      84,
+                      1440,
+                      2392
+                    ],
+                    "children": [
+                      {
+                        "bounds": [
+                          0,
+                          84,
+                          1440,
+                          275
+                        ],
+                        "children": [
+                          {
+                            "bounds": [
+                              322,
+                              119,
+                              1118,
+                              240
+                            ],
+                            "children": null,
+                            "clickable": false,
+                            "name": "ImageView",
+                            "resource_id": null,
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": null,
+                            "visible": true
+                          }
+                        ],
+                        "clickable": false,
+                        "name": "LinearLayout",
+                        "resource_id": "download_top",
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      },
+                      {
+                        "bounds": [
+                          0,
+                          2187,
+                          1440,
+                          2392
+                        ],
+                        "children": [
+                          {
+                            "bounds": [
+                              343,
+                              2187,
+                              1097,
+                              2339
+                            ],
+                            "children": null,
+                            "clickable": true,
+                            "name": "Button",
+                            "resource_id": "download_button",
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": "",
+                            "visible": true
+                          }
+                        ],
+                        "clickable": false,
+                        "name": "LinearLayout",
+                        "resource_id": "show_button",
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      },
+                      {
+                        "bounds": [
+                          0,
+                          2085,
+                          1440,
+                          2148
+                        ],
+                        "children": [
+                          {
+                            "bounds": [
+                              233,
+                              2085,
+                              1207,
+                              2148
+                            ],
+                            "children": null,
+                            "clickable": false,
+                            "name": "TextView",
+                            "resource_id": null,
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": "The theme is exclusively for Next Launcher 3D.",
+                            "visible": true
+                          }
+                        ],
+                        "clickable": false,
+                        "name": "LinearLayout",
+                        "resource_id": "download_textview",
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      },
+                      {
+                        "bounds": [
+                          0,
+                          2023,
+                          1440,
+                          2046
+                        ],
+                        "children": [
+                          {
+                            "bounds": [
+                              0,
+                              2023,
+                              1440,
+                              2046
+                            ],
+                            "children": [
+                              {
+                                "bounds": [
+                                  665,
+                                  2023,
+                                  688,
+                                  2046
+                                ],
+                                "children": null,
+                                "clickable": false,
+                                "name": "ImageView",
+                                "resource_id": null,
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": null,
+                                "visible": true
+                              },
+                              {
+                                "bounds": [
+                                  695,
+                                  2023,
+                                  718,
+                                  2046
+                                ],
+                                "children": null,
+                                "clickable": false,
+                                "name": "ImageView",
+                                "resource_id": null,
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": null,
+                                "visible": true
+                              },
+                              {
+                                "bounds": [
+                                  725,
+                                  2023,
+                                  748,
+                                  2046
+                                ],
+                                "children": null,
+                                "clickable": false,
+                                "name": "ImageView",
+                                "resource_id": null,
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": null,
+                                "visible": true
+                              }
+                            ],
+                            "clickable": false,
+                            "name": "Indicator",
+                            "resource_id": null,
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": null,
+                            "visible": true
+                          }
+                        ],
+                        "clickable": false,
+                        "name": "LinearLayout",
+                        "resource_id": "indicator_container",
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      },
+                      {
+                        "bounds": [
+                          0,
+                          2046,
+                          1440,
+                          2046
+                        ],
+                        "children": null,
+                        "clickable": false,
+                        "name": "LinearLayout",
+                        "resource_id": "indicator_container",
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": false
+                      },
+                      {
+                        "bounds": [
+                          0,
+                          275,
+                          1440,
+                          1993
+                        ],
+                        "children": [
+                          {
+                            "bounds": [
+                              0,
+                              275,
+                              1440,
+                              1993
+                            ],
+                            "children": [
+                              {
+                                "bounds": [
+                                  0,
+                                  275,
+                                  860,
+                                  1993
+                                ],
+                                "children": null,
+                                "clickable": false,
+                                "name": "ImageView",
+                                "resource_id": null,
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": null,
+                                "visible": true
+                              },
+                              {
+                                "bounds": [
+                                  860,
+                                  275,
+                                  1440,
+                                  1993
+                                ],
+                                "children": null,
+                                "clickable": false,
+                                "name": "ImageView",
+                                "resource_id": null,
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": null,
+                                "visible": true
+                              }
+                            ],
+                            "clickable": false,
+                            "name": "WeatherDetailScrollGroup",
+                            "resource_id": "download_show_image",
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": null,
+                            "visible": true
+                          }
+                        ],
+                        "clickable": false,
+                        "name": "LinearLayout",
+                        "resource_id": "show_image",
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      }
+                    ],
+                    "clickable": false,
+                    "name": "RelativeLayout",
+                    "resource_id": null,
+                    "scrollable": {
+                      "horizontal": false,
+                      "vertical": false
+                    },
+                    "text": null,
+                    "visible": true
+                  }
+                ],
+                "clickable": false,
+                "name": "DownloadShowView",
+                "resource_id": null,
+                "scrollable": {
+                  "horizontal": false,
+                  "vertical": false
+                },
+                "text": null,
+                "visible": true
+              }
+            ],
+            "clickable": false,
+            "name": "FrameLayout",
+            "resource_id": "content",
+            "scrollable": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "text": null,
+            "visible": true
+          }
+        ],
+        "clickable": false,
+        "name": "LinearLayout",
+        "resource_id": null,
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      }
+    ],
+    "clickable": false,
+    "name": "PhoneWindow$DecorView",
+    "resource_id": null,
+    "scrollable": {
+      "horizontal": false,
+      "vertical": false
+    },
+    "text": null,
+    "visible": true
+  },
+  "keyboard": false
+}

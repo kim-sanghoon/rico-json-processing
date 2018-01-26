@@ -1,0 +1,799 @@
+{
+  "activity_name": "DirectoryCountryActivity",
+  "app": {
+    "category": "News & Magazines",
+    "package_name": "com.criticalhitsoftware.policeradio",
+    "store_name": "Police Scanner FREE"
+  },
+  "hierarchy": {
+    "bounds": [
+      0,
+      0,
+      1440,
+      2560
+    ],
+    "children": [
+      {
+        "bounds": [
+          0,
+          0,
+          1440,
+          2392
+        ],
+        "children": [
+          {
+            "bounds": [
+              0,
+              84,
+              1440,
+              2392
+            ],
+            "children": [
+              {
+                "bounds": [
+                  0,
+                  84,
+                  1440,
+                  2392
+                ],
+                "children": [
+                  {
+                    "bounds": [
+                      0,
+                      84,
+                      1440,
+                      201
+                    ],
+                    "children": null,
+                    "clickable": false,
+                    "name": "ImageView",
+                    "resource_id": null,
+                    "scrollable": {
+                      "horizontal": false,
+                      "vertical": false
+                    },
+                    "text": null,
+                    "visible": true
+                  },
+                  {
+                    "bounds": [
+                      0,
+                      201,
+                      1440,
+                      397
+                    ],
+                    "children": [
+                      {
+                        "bounds": [
+                          0,
+                          217,
+                          206,
+                          380
+                        ],
+                        "children": null,
+                        "clickable": true,
+                        "name": "ImageButton",
+                        "resource_id": "homeButton",
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      },
+                      {
+                        "bounds": [
+                          213,
+                          224,
+                          1226,
+                          373
+                        ],
+                        "children": [
+                          {
+                            "bounds": [
+                              243,
+                              247,
+                              1193,
+                              332
+                            ],
+                            "children": null,
+                            "clickable": false,
+                            "name": "TextView",
+                            "resource_id": "nowPlayingLabel",
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": "Chicago Police",
+                            "visible": true
+                          }
+                        ],
+                        "clickable": true,
+                        "name": "FrameLayout",
+                        "resource_id": "lcdMini",
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      },
+                      {
+                        "bounds": [
+                          1226,
+                          201,
+                          1440,
+                          397
+                        ],
+                        "children": [
+                          {
+                            "bounds": [
+                              1226,
+                              201,
+                              1422,
+                              397
+                            ],
+                            "children": null,
+                            "clickable": true,
+                            "name": "ImageButton",
+                            "resource_id": "togglePlayButton",
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": null,
+                            "visible": true
+                          }
+                        ],
+                        "clickable": false,
+                        "name": "FrameLayout",
+                        "resource_id": null,
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      }
+                    ],
+                    "clickable": false,
+                    "name": "LinearLayout",
+                    "resource_id": null,
+                    "scrollable": {
+                      "horizontal": false,
+                      "vertical": false
+                    },
+                    "text": null,
+                    "visible": true
+                  },
+                  {
+                    "bounds": [
+                      0,
+                      397,
+                      1440,
+                      2188
+                    ],
+                    "children": [
+                      {
+                        "bounds": [
+                          0,
+                          397,
+                          1440,
+                          2188
+                        ],
+                        "children": [
+                          {
+                            "bounds": [
+                              0,
+                              397,
+                              1440,
+                              677
+                            ],
+                            "children": [
+                              {
+                                "bounds": [
+                                  35,
+                                  432,
+                                  174,
+                                  571
+                                ],
+                                "children": null,
+                                "clickable": false,
+                                "name": "ImageView",
+                                "resource_id": "flagIcon",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": null,
+                                "visible": true
+                              },
+                              {
+                                "bounds": [
+                                  174,
+                                  432,
+                                  640,
+                                  535
+                                ],
+                                "children": null,
+                                "clickable": false,
+                                "name": "TextView",
+                                "resource_id": "countryName",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": "United States",
+                                "visible": true
+                              },
+                              {
+                                "bounds": [
+                                  174,
+                                  535,
+                                  767,
+                                  606
+                                ],
+                                "children": null,
+                                "clickable": false,
+                                "name": "TextView",
+                                "resource_id": "scannerCount",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": "Available Scanners: 5932",
+                                "visible": true
+                              }
+                            ],
+                            "clickable": false,
+                            "name": "RelativeLayout",
+                            "resource_id": null,
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": null,
+                            "visible": true
+                          },
+                          {
+                            "bounds": [
+                              0,
+                              681,
+                              1440,
+                              961
+                            ],
+                            "children": [
+                              {
+                                "bounds": [
+                                  35,
+                                  716,
+                                  174,
+                                  855
+                                ],
+                                "children": null,
+                                "clickable": false,
+                                "name": "ImageView",
+                                "resource_id": "flagIcon",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": null,
+                                "visible": true
+                              },
+                              {
+                                "bounds": [
+                                  174,
+                                  716,
+                                  433,
+                                  819
+                                ],
+                                "children": null,
+                                "clickable": false,
+                                "name": "TextView",
+                                "resource_id": "countryName",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": "Canada",
+                                "visible": true
+                              },
+                              {
+                                "bounds": [
+                                  174,
+                                  819,
+                                  737,
+                                  890
+                                ],
+                                "children": null,
+                                "clickable": false,
+                                "name": "TextView",
+                                "resource_id": "scannerCount",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": "Available Scanners: 223",
+                                "visible": true
+                              }
+                            ],
+                            "clickable": false,
+                            "name": "RelativeLayout",
+                            "resource_id": null,
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": null,
+                            "visible": true
+                          },
+                          {
+                            "bounds": [
+                              0,
+                              965,
+                              1440,
+                              1245
+                            ],
+                            "children": [
+                              {
+                                "bounds": [
+                                  35,
+                                  1000,
+                                  174,
+                                  1139
+                                ],
+                                "children": null,
+                                "clickable": false,
+                                "name": "ImageView",
+                                "resource_id": "flagIcon",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": null,
+                                "visible": true
+                              },
+                              {
+                                "bounds": [
+                                  174,
+                                  1000,
+                                  484,
+                                  1103
+                                ],
+                                "children": null,
+                                "clickable": false,
+                                "name": "TextView",
+                                "resource_id": "countryName",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": "Australia",
+                                "visible": true
+                              },
+                              {
+                                "bounds": [
+                                  174,
+                                  1103,
+                                  707,
+                                  1174
+                                ],
+                                "children": null,
+                                "clickable": false,
+                                "name": "TextView",
+                                "resource_id": "scannerCount",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": "Available Scanners: 86",
+                                "visible": true
+                              }
+                            ],
+                            "clickable": false,
+                            "name": "RelativeLayout",
+                            "resource_id": null,
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": null,
+                            "visible": true
+                          },
+                          {
+                            "bounds": [
+                              0,
+                              1249,
+                              1440,
+                              1529
+                            ],
+                            "children": [
+                              {
+                                "bounds": [
+                                  35,
+                                  1284,
+                                  174,
+                                  1423
+                                ],
+                                "children": null,
+                                "clickable": false,
+                                "name": "ImageView",
+                                "resource_id": "flagIcon",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": null,
+                                "visible": true
+                              },
+                              {
+                                "bounds": [
+                                  174,
+                                  1284,
+                                  349,
+                                  1387
+                                ],
+                                "children": null,
+                                "clickable": false,
+                                "name": "TextView",
+                                "resource_id": "countryName",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": "Chile",
+                                "visible": true
+                              },
+                              {
+                                "bounds": [
+                                  174,
+                                  1387,
+                                  707,
+                                  1458
+                                ],
+                                "children": null,
+                                "clickable": false,
+                                "name": "TextView",
+                                "resource_id": "scannerCount",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": "Available Scanners: 24",
+                                "visible": true
+                              }
+                            ],
+                            "clickable": false,
+                            "name": "RelativeLayout",
+                            "resource_id": null,
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": null,
+                            "visible": true
+                          },
+                          {
+                            "bounds": [
+                              0,
+                              1533,
+                              1440,
+                              1813
+                            ],
+                            "children": [
+                              {
+                                "bounds": [
+                                  35,
+                                  1568,
+                                  174,
+                                  1707
+                                ],
+                                "children": null,
+                                "clickable": false,
+                                "name": "ImageView",
+                                "resource_id": "flagIcon",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": null,
+                                "visible": true
+                              },
+                              {
+                                "bounds": [
+                                  174,
+                                  1568,
+                                  596,
+                                  1671
+                                ],
+                                "children": null,
+                                "clickable": false,
+                                "name": "TextView",
+                                "resource_id": "countryName",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": "Netherlands",
+                                "visible": true
+                              },
+                              {
+                                "bounds": [
+                                  174,
+                                  1671,
+                                  707,
+                                  1742
+                                ],
+                                "children": null,
+                                "clickable": false,
+                                "name": "TextView",
+                                "resource_id": "scannerCount",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": "Available Scanners: 20",
+                                "visible": true
+                              }
+                            ],
+                            "clickable": false,
+                            "name": "RelativeLayout",
+                            "resource_id": null,
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": null,
+                            "visible": true
+                          },
+                          {
+                            "bounds": [
+                              0,
+                              1817,
+                              1440,
+                              2097
+                            ],
+                            "children": [
+                              {
+                                "bounds": [
+                                  35,
+                                  1852,
+                                  174,
+                                  1991
+                                ],
+                                "children": null,
+                                "clickable": false,
+                                "name": "ImageView",
+                                "resource_id": "flagIcon",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": null,
+                                "visible": true
+                              },
+                              {
+                                "bounds": [
+                                  174,
+                                  1852,
+                                  728,
+                                  1955
+                                ],
+                                "children": null,
+                                "clickable": false,
+                                "name": "TextView",
+                                "resource_id": "countryName",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": "United Kingdom",
+                                "visible": true
+                              },
+                              {
+                                "bounds": [
+                                  174,
+                                  1955,
+                                  677,
+                                  2026
+                                ],
+                                "children": null,
+                                "clickable": false,
+                                "name": "TextView",
+                                "resource_id": "scannerCount",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": "Available Scanners: 8",
+                                "visible": true
+                              }
+                            ],
+                            "clickable": false,
+                            "name": "RelativeLayout",
+                            "resource_id": null,
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": null,
+                            "visible": true
+                          },
+                          {
+                            "bounds": [
+                              0,
+                              2101,
+                              1440,
+                              2188
+                            ],
+                            "children": [
+                              {
+                                "bounds": [
+                                  35,
+                                  2136,
+                                  174,
+                                  2188
+                                ],
+                                "children": null,
+                                "clickable": false,
+                                "name": "ImageView",
+                                "resource_id": "flagIcon",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": null,
+                                "visible": true
+                              },
+                              {
+                                "bounds": [
+                                  174,
+                                  2136,
+                                  267,
+                                  2188
+                                ],
+                                "children": null,
+                                "clickable": false,
+                                "name": "TextView",
+                                "resource_id": "countryName",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": "PE",
+                                "visible": true
+                              }
+                            ],
+                            "clickable": false,
+                            "name": "RelativeLayout",
+                            "resource_id": null,
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": null,
+                            "visible": true
+                          }
+                        ],
+                        "clickable": true,
+                        "name": "ListView",
+                        "resource_id": "list",
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": true
+                        },
+                        "text": null,
+                        "visible": true
+                      }
+                    ],
+                    "clickable": false,
+                    "name": "FrameLayout",
+                    "resource_id": null,
+                    "scrollable": {
+                      "horizontal": false,
+                      "vertical": false
+                    },
+                    "text": null,
+                    "visible": true
+                  },
+                  {
+                    "bounds": [
+                      459,
+                      2206,
+                      980,
+                      2374
+                    ],
+                    "children": null,
+                    "clickable": true,
+                    "name": "Button",
+                    "resource_id": "upgradeButton",
+                    "scrollable": {
+                      "horizontal": false,
+                      "vertical": false
+                    },
+                    "text": "Upgrade",
+                    "visible": true
+                  }
+                ],
+                "clickable": false,
+                "name": "LinearLayout",
+                "resource_id": null,
+                "scrollable": {
+                  "horizontal": false,
+                  "vertical": false
+                },
+                "text": null,
+                "visible": true
+              }
+            ],
+            "clickable": false,
+            "name": "FrameLayout",
+            "resource_id": "content",
+            "scrollable": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "text": null,
+            "visible": true
+          }
+        ],
+        "clickable": false,
+        "name": "LinearLayout",
+        "resource_id": null,
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      },
+      {
+        "bounds": [
+          0,
+          2392,
+          1440,
+          2560
+        ],
+        "children": null,
+        "clickable": false,
+        "name": "View",
+        "resource_id": "navigationBarBackground",
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      },
+      {
+        "bounds": [
+          0,
+          0,
+          1440,
+          84
+        ],
+        "children": null,
+        "clickable": false,
+        "name": "View",
+        "resource_id": "statusBarBackground",
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      }
+    ],
+    "clickable": false,
+    "name": "PhoneWindow$DecorView",
+    "resource_id": null,
+    "scrollable": {
+      "horizontal": false,
+      "vertical": false
+    },
+    "text": null,
+    "visible": true
+  },
+  "keyboard": false
+}

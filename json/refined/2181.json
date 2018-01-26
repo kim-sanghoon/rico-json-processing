@@ -1,0 +1,288 @@
+{
+  "activity_name": "MoneyWise",
+  "app": {
+    "category": "Finance",
+    "package_name": "com.handynorth.moneywise_free",
+    "store_name": "MoneyWise"
+  },
+  "hierarchy": {
+    "bounds": [
+      80,
+      597,
+      1360,
+      1879
+    ],
+    "children": [
+      {
+        "bounds": [
+          108,
+          625,
+          1332,
+          1851
+        ],
+        "children": [
+          {
+            "bounds": [
+              108,
+              625,
+              1332,
+              849
+            ],
+            "children": [
+              {
+                "bounds": [
+                  164,
+                  681,
+                  276,
+                  793
+                ],
+                "children": null,
+                "clickable": false,
+                "name": "ImageView",
+                "resource_id": "left_icon",
+                "scrollable": {
+                  "horizontal": false,
+                  "vertical": false
+                },
+                "text": null,
+                "visible": true
+              },
+              {
+                "bounds": [
+                  304,
+                  685,
+                  702,
+                  788
+                ],
+                "children": null,
+                "clickable": false,
+                "name": "TextView",
+                "resource_id": "title",
+                "scrollable": {
+                  "horizontal": false,
+                  "vertical": false
+                },
+                "text": "MoneyWise",
+                "visible": true
+              },
+              {
+                "bounds": [
+                  730,
+                  681,
+                  842,
+                  793
+                ],
+                "children": null,
+                "clickable": false,
+                "name": "ImageView",
+                "resource_id": "right_icon",
+                "scrollable": {
+                  "horizontal": false,
+                  "vertical": false
+                },
+                "text": null,
+                "visible": true
+              }
+            ],
+            "clickable": false,
+            "name": "LinearLayout",
+            "resource_id": "title_container",
+            "scrollable": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "text": null,
+            "visible": true
+          },
+          {
+            "bounds": [
+              108,
+              849,
+              1332,
+              853
+            ],
+            "children": null,
+            "clickable": false,
+            "name": "View",
+            "resource_id": "titleDivider",
+            "scrollable": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "text": null,
+            "visible": true
+          },
+          {
+            "bounds": [
+              108,
+              853,
+              1332,
+              1851
+            ],
+            "children": [
+              {
+                "bounds": [
+                  108,
+                  853,
+                  1332,
+                  1851
+                ],
+                "children": [
+                  {
+                    "bounds": [
+                      108,
+                      853,
+                      1332,
+                      1851
+                    ],
+                    "children": [
+                      {
+                        "bounds": [
+                          108,
+                          853,
+                          1332,
+                          1676
+                        ],
+                        "children": [
+                          {
+                            "bounds": [
+                              143,
+                              871,
+                              1297,
+                              1641
+                            ],
+                            "children": [
+                              {
+                                "bounds": [
+                                  143,
+                                  871,
+                                  1297,
+                                  1641
+                                ],
+                                "children": null,
+                                "clickable": true,
+                                "name": "TextView",
+                                "resource_id": "change_history_html",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": "Welcome!\n\nMoneyWise is ready for use right from start! Just register an expense and click save.\n\nConfiguring the app:\n\u2022 In the rightmost tab you can add multiple accounts.\n\u2022 Open the Settings menu to configure currency, activate PIN protection and more.\n\u2022 From the Operations menu (cogwheel icon) you can perform operations such as Backup or export your data via e-mail.\n",
+                                "visible": true
+                              }
+                            ],
+                            "clickable": false,
+                            "name": "LinearLayout",
+                            "resource_id": null,
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": null,
+                            "visible": true
+                          }
+                        ],
+                        "clickable": false,
+                        "name": "ScrollView",
+                        "resource_id": null,
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": true
+                        },
+                        "text": null,
+                        "visible": true
+                      },
+                      {
+                        "bounds": [
+                          108,
+                          1677,
+                          1332,
+                          1851
+                        ],
+                        "children": [
+                          {
+                            "bounds": [
+                              122,
+                              1695,
+                              1318,
+                              1847
+                            ],
+                            "children": null,
+                            "clickable": true,
+                            "name": "Button",
+                            "resource_id": "about_ok_btn",
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": "OK",
+                            "visible": true
+                          }
+                        ],
+                        "clickable": false,
+                        "name": "LinearLayout",
+                        "resource_id": null,
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      }
+                    ],
+                    "clickable": false,
+                    "name": "LinearLayout",
+                    "resource_id": null,
+                    "scrollable": {
+                      "horizontal": false,
+                      "vertical": false
+                    },
+                    "text": null,
+                    "visible": true
+                  }
+                ],
+                "clickable": false,
+                "name": "FrameLayout",
+                "resource_id": "content",
+                "scrollable": {
+                  "horizontal": false,
+                  "vertical": false
+                },
+                "text": null,
+                "visible": true
+              }
+            ],
+            "clickable": false,
+            "name": "FrameLayout",
+            "resource_id": null,
+            "scrollable": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "text": null,
+            "visible": true
+          }
+        ],
+        "clickable": false,
+        "name": "LinearLayout",
+        "resource_id": null,
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      }
+    ],
+    "clickable": false,
+    "name": "PhoneWindow$DecorView",
+    "resource_id": null,
+    "scrollable": {
+      "horizontal": false,
+      "vertical": false
+    },
+    "text": null,
+    "visible": true
+  },
+  "keyboard": false
+}

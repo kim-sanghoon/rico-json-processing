@@ -1,0 +1,140 @@
+{
+  "activity_name": "ConnectionTypeActivity",
+  "app": {
+    "category": "House & Home",
+    "package_name": "com.infigate.accontrol",
+    "store_name": "AC Mobile Control"
+  },
+  "hierarchy": {
+    "bounds": [
+      163,
+      7,
+      1276,
+      2385
+    ],
+    "children": [
+      {
+        "bounds": [
+          207,
+          42,
+          1232,
+          2332
+        ],
+        "children": [
+          {
+            "bounds": [
+              207,
+              42,
+              1232,
+              2332
+            ],
+            "children": [
+              {
+                "bounds": [
+                  207,
+                  42,
+                  1232,
+                  2332
+                ],
+                "children": [
+                  {
+                    "bounds": [
+                      214,
+                      49,
+                      1232,
+                      2143
+                    ],
+                    "children": [
+                      {
+                        "bounds": [
+                          214,
+                          49,
+                          1232,
+                          2014
+                        ],
+                        "children": null,
+                        "clickable": true,
+                        "name": "TextView",
+                        "resource_id": "dialog_connection_failed_textview_description",
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": "Connection with the AC Mobile Control gateway failed.\n\nChecklist:\n1. do you have active network connection (WiFi and/or 3G);\n2. the air conditioning system is powered;\n3. AC Mobile Control gateway is properly installed and configured;\n4. the AC Mobile Control application is configured to work with AC Mobile Control gateway;\n5. you have selected connection method proper for your location (home network or remote access).\n\n\nIf you are trying to connect remotely: The correct operation of this function requires a static and public IP address and the correct configuration of the home router. In order to verify the possibility of remote access, contact your Internet Service Provider (ISP). \n\nMore help online infigate.com \n\n",
+                        "visible": true
+                      }
+                    ],
+                    "clickable": false,
+                    "name": "ScrollView",
+                    "resource_id": "dialog_connection_failed_scrollview",
+                    "scrollable": {
+                      "horizontal": false,
+                      "vertical": true
+                    },
+                    "text": null,
+                    "visible": true
+                  },
+                  {
+                    "bounds": [
+                      544,
+                      2164,
+                      894,
+                      2332
+                    ],
+                    "children": null,
+                    "clickable": true,
+                    "name": "Button",
+                    "resource_id": "dialog_connection_failed_button_ok",
+                    "scrollable": {
+                      "horizontal": false,
+                      "vertical": false
+                    },
+                    "text": "OK",
+                    "visible": true
+                  }
+                ],
+                "clickable": false,
+                "name": "RelativeLayout",
+                "resource_id": null,
+                "scrollable": {
+                  "horizontal": false,
+                  "vertical": false
+                },
+                "text": null,
+                "visible": true
+              }
+            ],
+            "clickable": false,
+            "name": "FrameLayout",
+            "resource_id": "content",
+            "scrollable": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "text": null,
+            "visible": true
+          }
+        ],
+        "clickable": false,
+        "name": "FrameLayout",
+        "resource_id": null,
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      }
+    ],
+    "clickable": false,
+    "name": "PhoneWindow$DecorView",
+    "resource_id": null,
+    "scrollable": {
+      "horizontal": false,
+      "vertical": false
+    },
+    "text": null,
+    "visible": true
+  },
+  "keyboard": false
+}

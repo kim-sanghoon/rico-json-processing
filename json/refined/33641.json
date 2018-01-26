@@ -1,0 +1,342 @@
+{
+  "activity_name": "ApplicationOptions",
+  "app": {
+    "category": "Parenting",
+    "package_name": "com.g8n8.pregnancytracker",
+    "store_name": "Pregnancy Tracker"
+  },
+  "hierarchy": {
+    "bounds": [
+      0,
+      0,
+      1440,
+      2560
+    ],
+    "children": [
+      {
+        "bounds": [
+          0,
+          0,
+          1440,
+          2392
+        ],
+        "children": [
+          {
+            "bounds": [
+              0,
+              84,
+              1440,
+              2392
+            ],
+            "children": [
+              {
+                "bounds": [
+                  0,
+                  84,
+                  1440,
+                  2392
+                ],
+                "children": [
+                  {
+                    "bounds": [
+                      0,
+                      84,
+                      1440,
+                      2392
+                    ],
+                    "children": [
+                      {
+                        "bounds": [
+                          0,
+                          84,
+                          1440,
+                          2392
+                        ],
+                        "children": [
+                          {
+                            "bounds": [
+                              0,
+                              84,
+                              1440,
+                              2392
+                            ],
+                            "children": [
+                              {
+                                "bounds": [
+                                  0,
+                                  84,
+                                  1440,
+                                  1344
+                                ],
+                                "children": [
+                                  {
+                                    "bounds": [
+                                      589,
+                                      119,
+                                      850,
+                                      221
+                                    ],
+                                    "children": null,
+                                    "clickable": false,
+                                    "name": "TextView",
+                                    "resource_id": "optionsTitle",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": "Options",
+                                    "visible": true
+                                  },
+                                  {
+                                    "bounds": [
+                                      35,
+                                      291,
+                                      1405,
+                                      786
+                                    ],
+                                    "children": [
+                                      {
+                                        "bounds": [
+                                          35,
+                                          344,
+                                          543,
+                                          456
+                                        ],
+                                        "children": null,
+                                        "clickable": true,
+                                        "name": "CheckBox",
+                                        "resource_id": "notif_sound",
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": "Notification Sound",
+                                        "visible": true
+                                      },
+                                      {
+                                        "bounds": [
+                                          35,
+                                          509,
+                                          598,
+                                          621
+                                        ],
+                                        "children": null,
+                                        "clickable": true,
+                                        "name": "CheckBox",
+                                        "resource_id": "notif_vibration",
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": "Notification Vibration",
+                                        "visible": true
+                                      },
+                                      {
+                                        "bounds": [
+                                          35,
+                                          674,
+                                          583,
+                                          786
+                                        ],
+                                        "children": null,
+                                        "clickable": true,
+                                        "name": "CheckBox",
+                                        "resource_id": "weekly_notif",
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": "Weekly Notifications",
+                                        "visible": true
+                                      }
+                                    ],
+                                    "clickable": false,
+                                    "name": "LinearLayout",
+                                    "resource_id": null,
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": true
+                                  },
+                                  {
+                                    "bounds": [
+                                      35,
+                                      926,
+                                      1405,
+                                      1094
+                                    ],
+                                    "children": null,
+                                    "clickable": true,
+                                    "name": "Button",
+                                    "resource_id": "bnmainpage",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": "Main Page",
+                                    "visible": true
+                                  },
+                                  {
+                                    "bounds": [
+                                      666,
+                                      1129,
+                                      773,
+                                      1186
+                                    ],
+                                    "children": null,
+                                    "clickable": false,
+                                    "name": "TextView",
+                                    "resource_id": "note",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": "NOTE",
+                                    "visible": true
+                                  },
+                                  {
+                                    "bounds": [
+                                      35,
+                                      1186,
+                                      1405,
+                                      1309
+                                    ],
+                                    "children": null,
+                                    "clickable": false,
+                                    "name": "TextView",
+                                    "resource_id": "noteContent",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": "If you have problems receiving notifications, let us know by contact page",
+                                    "visible": true
+                                  }
+                                ],
+                                "clickable": false,
+                                "name": "LinearLayout",
+                                "resource_id": null,
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": null,
+                                "visible": true
+                              }
+                            ],
+                            "clickable": false,
+                            "name": "ScrollView",
+                            "resource_id": "forumMainScroll",
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": true
+                            },
+                            "text": null,
+                            "visible": true
+                          }
+                        ],
+                        "clickable": false,
+                        "name": "RelativeLayout",
+                        "resource_id": null,
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      }
+                    ],
+                    "clickable": false,
+                    "name": "NativeActionModeAwareLayout",
+                    "resource_id": "content",
+                    "scrollable": {
+                      "horizontal": false,
+                      "vertical": false
+                    },
+                    "text": null,
+                    "visible": true
+                  }
+                ],
+                "clickable": false,
+                "name": "ActionBarOverlayLayout",
+                "resource_id": "decor_content_parent",
+                "scrollable": {
+                  "horizontal": false,
+                  "vertical": false
+                },
+                "text": null,
+                "visible": true
+              }
+            ],
+            "clickable": false,
+            "name": "FrameLayout",
+            "resource_id": null,
+            "scrollable": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "text": null,
+            "visible": true
+          }
+        ],
+        "clickable": false,
+        "name": "LinearLayout",
+        "resource_id": null,
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      },
+      {
+        "bounds": [
+          0,
+          2392,
+          1440,
+          2560
+        ],
+        "children": null,
+        "clickable": false,
+        "name": "View",
+        "resource_id": "navigationBarBackground",
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      },
+      {
+        "bounds": [
+          0,
+          0,
+          1440,
+          84
+        ],
+        "children": null,
+        "clickable": false,
+        "name": "View",
+        "resource_id": "statusBarBackground",
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      }
+    ],
+    "clickable": false,
+    "name": "PhoneWindow$DecorView",
+    "resource_id": null,
+    "scrollable": {
+      "horizontal": false,
+      "vertical": false
+    },
+    "text": null,
+    "visible": true
+  },
+  "keyboard": false
+}

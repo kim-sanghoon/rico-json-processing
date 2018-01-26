@@ -1,0 +1,599 @@
+{
+  "activity_name": "CameraLauncher",
+  "app": {
+    "category": "Art & Design",
+    "package_name": "com.android.camera2",
+    "store_name": "Android Camera"
+  },
+  "hierarchy": {
+    "bounds": [
+      0,
+      0,
+      1440,
+      2560
+    ],
+    "children": [
+      {
+        "bounds": [
+          0,
+          0,
+          1440,
+          2392
+        ],
+        "children": [
+          {
+            "bounds": [
+              0,
+              0,
+              1440,
+              2392
+            ],
+            "children": [
+              {
+                "bounds": [
+                  0,
+                  0,
+                  1440,
+                  2392
+                ],
+                "children": [
+                  {
+                    "bounds": [
+                      0,
+                      0,
+                      1440,
+                      2392
+                    ],
+                    "children": [
+                      {
+                        "bounds": [
+                          0,
+                          0,
+                          1440,
+                          2392
+                        ],
+                        "children": null,
+                        "clickable": false,
+                        "name": "TextureView",
+                        "resource_id": "preview_content",
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      },
+                      {
+                        "bounds": [
+                          0,
+                          0,
+                          1440,
+                          2392
+                        ],
+                        "children": null,
+                        "clickable": false,
+                        "name": "FocusRingView",
+                        "resource_id": "focus_ring",
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      },
+                      {
+                        "bounds": [
+                          0,
+                          0,
+                          1440,
+                          2392
+                        ],
+                        "children": null,
+                        "clickable": false,
+                        "name": "PreviewOverlay",
+                        "resource_id": "preview_overlay",
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      },
+                      {
+                        "bounds": [
+                          0,
+                          0,
+                          1440,
+                          2392
+                        ],
+                        "children": null,
+                        "clickable": false,
+                        "name": "FaceView",
+                        "resource_id": "face_view",
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      },
+                      {
+                        "bounds": [
+                          0,
+                          0,
+                          0,
+                          0
+                        ],
+                        "children": null,
+                        "clickable": false,
+                        "name": "ImageView",
+                        "resource_id": "intent_review_imageview",
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": false
+                      },
+                      {
+                        "bounds": [
+                          0,
+                          0,
+                          1440,
+                          2392
+                        ],
+                        "children": [
+                          {
+                            "bounds": [
+                              0,
+                              0,
+                              1440,
+                              2392
+                            ],
+                            "children": [
+                              {
+                                "bounds": [
+                                  0,
+                                  52,
+                                  1440,
+                                  1972
+                                ],
+                                "children": null,
+                                "clickable": false,
+                                "name": "ProgressOverlay",
+                                "resource_id": "progress_overlay",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": null,
+                                "visible": true
+                              },
+                              {
+                                "bounds": [
+                                  0,
+                                  0,
+                                  1440,
+                                  2392
+                                ],
+                                "children": [],
+                                "clickable": false,
+                                "name": "CountDownView",
+                                "resource_id": "count_down_view",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": null,
+                                "visible": false
+                              }
+                            ],
+                            "clickable": false,
+                            "name": "FrameLayout",
+                            "resource_id": null,
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": null,
+                            "visible": true
+                          }
+                        ],
+                        "clickable": false,
+                        "name": "FrameLayout",
+                        "resource_id": "module_layout",
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      },
+                      {
+                        "bounds": [
+                          0,
+                          0,
+                          1440,
+                          2392
+                        ],
+                        "children": [
+                          {
+                            "bounds": [
+                              1191,
+                              1513,
+                              1436,
+                              1758
+                            ],
+                            "children": null,
+                            "clickable": true,
+                            "name": "RoundedThumbnailView",
+                            "resource_id": "rounded_thumbnail_view",
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": null,
+                            "visible": true
+                          },
+                          {
+                            "bounds": [
+                              0,
+                              52,
+                              1440,
+                              1972
+                            ],
+                            "children": [
+                              {
+                                "bounds": [
+                                  1146,
+                                  1760,
+                                  1398,
+                                  1930
+                                ],
+                                "children": [
+                                  {
+                                    "bounds": [
+                                      1146,
+                                      1760,
+                                      1146,
+                                      1760
+                                    ],
+                                    "children": null,
+                                    "clickable": false,
+                                    "name": "ImageView",
+                                    "resource_id": "exposure_n1_indicator",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": false
+                                  },
+                                  {
+                                    "bounds": [
+                                      1146,
+                                      1760,
+                                      1146,
+                                      1760
+                                    ],
+                                    "children": null,
+                                    "clickable": false,
+                                    "name": "ImageView",
+                                    "resource_id": "exposure_p2_indicator",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": false
+                                  },
+                                  {
+                                    "bounds": [
+                                      1146,
+                                      1760,
+                                      1146,
+                                      1760
+                                    ],
+                                    "children": null,
+                                    "clickable": false,
+                                    "name": "ImageView",
+                                    "resource_id": "hdr_indicator",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": false
+                                  },
+                                  {
+                                    "bounds": [
+                                      1188,
+                                      1802,
+                                      1272,
+                                      1886
+                                    ],
+                                    "children": null,
+                                    "clickable": false,
+                                    "name": "ImageView",
+                                    "resource_id": "flash_indicator",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": true
+                                  },
+                                  {
+                                    "bounds": [
+                                      1272,
+                                      1802,
+                                      1356,
+                                      1886
+                                    ],
+                                    "children": null,
+                                    "clickable": false,
+                                    "name": "ImageView",
+                                    "resource_id": "three_dots",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": true
+                                  }
+                                ],
+                                "clickable": true,
+                                "name": "LinearLayout",
+                                "resource_id": "mode_options_toggle",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": null,
+                                "visible": true
+                              }
+                            ],
+                            "clickable": false,
+                            "name": "ModeOptionsOverlay",
+                            "resource_id": "mode_options_overlay",
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": null,
+                            "visible": true
+                          },
+                          {
+                            "bounds": [
+                              0,
+                              1972,
+                              1440,
+                              2392
+                            ],
+                            "children": [
+                              {
+                                "bounds": [
+                                  0,
+                                  1972,
+                                  1440,
+                                  2392
+                                ],
+                                "children": [
+                                  {
+                                    "bounds": [
+                                      0,
+                                      1972,
+                                      1440,
+                                      2392
+                                    ],
+                                    "children": null,
+                                    "clickable": true,
+                                    "name": "ShutterButton",
+                                    "resource_id": "shutter_button",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": true
+                                  }
+                                ],
+                                "clickable": false,
+                                "name": "FrameLayout",
+                                "resource_id": "bottombar_capture",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": null,
+                                "visible": true
+                              },
+                              {
+                                "bounds": [
+                                  0,
+                                  1972,
+                                  1440,
+                                  2392
+                                ],
+                                "children": [
+                                  {
+                                    "bounds": [
+                                      280,
+                                      2035,
+                                      1160,
+                                      2329
+                                    ],
+                                    "children": [],
+                                    "clickable": false,
+                                    "name": "FrameLayout",
+                                    "resource_id": null,
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": false
+                                  }
+                                ],
+                                "clickable": false,
+                                "name": "TopRightWeightedLayout",
+                                "resource_id": "bottombar_intent_review",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": null,
+                                "visible": false
+                              }
+                            ],
+                            "clickable": false,
+                            "name": "BottomBar",
+                            "resource_id": "bottom_bar",
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": null,
+                            "visible": true
+                          }
+                        ],
+                        "clickable": false,
+                        "name": "StickyBottomCaptureLayout",
+                        "resource_id": "sticky_bottom_capture_layout",
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      },
+                      {
+                        "bounds": [
+                          0,
+                          0,
+                          1440,
+                          2392
+                        ],
+                        "children": [
+                          {
+                            "bounds": [
+                              1230,
+                              1762,
+                              1398,
+                              1930
+                            ],
+                            "children": null,
+                            "clickable": true,
+                            "name": "ImageView",
+                            "resource_id": "settings_button",
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": null,
+                            "visible": false
+                          }
+                        ],
+                        "clickable": false,
+                        "name": "ModeListView",
+                        "resource_id": "mode_list_layout",
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": false
+                      }
+                    ],
+                    "clickable": false,
+                    "name": "FrameLayout",
+                    "resource_id": "camera_app_root",
+                    "scrollable": {
+                      "horizontal": false,
+                      "vertical": false
+                    },
+                    "text": null,
+                    "visible": true
+                  },
+                  {
+                    "bounds": [
+                      0,
+                      0,
+                      1440,
+                      2392
+                    ],
+                    "children": null,
+                    "clickable": false,
+                    "name": "ModeTransitionView",
+                    "resource_id": "mode_transition_view",
+                    "scrollable": {
+                      "horizontal": false,
+                      "vertical": false
+                    },
+                    "text": null,
+                    "visible": false
+                  }
+                ],
+                "clickable": false,
+                "name": "MainActivityLayout",
+                "resource_id": "activity_root_view",
+                "scrollable": {
+                  "horizontal": false,
+                  "vertical": false
+                },
+                "text": null,
+                "visible": true
+              }
+            ],
+            "clickable": false,
+            "name": "FrameLayout",
+            "resource_id": "content",
+            "scrollable": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "text": null,
+            "visible": true
+          }
+        ],
+        "clickable": false,
+        "name": "ActionBarOverlayLayout",
+        "resource_id": "decor_content_parent",
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      },
+      {
+        "bounds": [
+          0,
+          2392,
+          1440,
+          2560
+        ],
+        "children": null,
+        "clickable": false,
+        "name": "View",
+        "resource_id": "navigationBarBackground",
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      }
+    ],
+    "clickable": false,
+    "name": "PhoneWindow$DecorView",
+    "resource_id": null,
+    "scrollable": {
+      "horizontal": false,
+      "vertical": false
+    },
+    "text": null,
+    "visible": true
+  },
+  "keyboard": false
+}

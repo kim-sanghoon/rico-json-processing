@@ -1,0 +1,305 @@
+{
+  "activity_name": "AboutModuleActivity",
+  "app": {
+    "category": "Books & Reference",
+    "package_name": "com.riversoft.android.mysword",
+    "store_name": "MySword Bible"
+  },
+  "hierarchy": {
+    "bounds": [
+      0,
+      0,
+      1440,
+      2560
+    ],
+    "children": [
+      {
+        "bounds": [
+          0,
+          0,
+          1440,
+          2392
+        ],
+        "children": [
+          {
+            "bounds": [
+              0,
+              280,
+              1440,
+              2392
+            ],
+            "children": [
+              {
+                "bounds": [
+                  0,
+                  280,
+                  1440,
+                  2392
+                ],
+                "children": [
+                  {
+                    "bounds": [
+                      0,
+                      280,
+                      1440,
+                      2224
+                    ],
+                    "children": null,
+                    "clickable": true,
+                    "name": "WebView",
+                    "resource_id": "webview",
+                    "scrollable": {
+                      "horizontal": true,
+                      "vertical": true
+                    },
+                    "text": null,
+                    "visible": true
+                  },
+                  {
+                    "bounds": [
+                      1272,
+                      1888,
+                      1440,
+                      2224
+                    ],
+                    "children": [
+                      {
+                        "bounds": [
+                          1272,
+                          1888,
+                          1440,
+                          2056
+                        ],
+                        "children": null,
+                        "clickable": true,
+                        "name": "ImageButton",
+                        "resource_id": "btnFSPageUp",
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      },
+                      {
+                        "bounds": [
+                          1272,
+                          2056,
+                          1440,
+                          2224
+                        ],
+                        "children": null,
+                        "clickable": true,
+                        "name": "ImageButton",
+                        "resource_id": "btnFSPageDown",
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      }
+                    ],
+                    "clickable": false,
+                    "name": "LinearLayout",
+                    "resource_id": "llScrollNav",
+                    "scrollable": {
+                      "horizontal": false,
+                      "vertical": false
+                    },
+                    "text": null,
+                    "visible": true
+                  },
+                  {
+                    "bounds": [
+                      0,
+                      2224,
+                      1440,
+                      2392
+                    ],
+                    "children": null,
+                    "clickable": true,
+                    "name": "Button",
+                    "resource_id": "btnOk",
+                    "scrollable": {
+                      "horizontal": false,
+                      "vertical": false
+                    },
+                    "text": "OK",
+                    "visible": true
+                  }
+                ],
+                "clickable": false,
+                "name": "RelativeLayout",
+                "resource_id": null,
+                "scrollable": {
+                  "horizontal": false,
+                  "vertical": false
+                },
+                "text": null,
+                "visible": true
+              }
+            ],
+            "clickable": false,
+            "name": "FrameLayout",
+            "resource_id": "content",
+            "scrollable": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "text": null,
+            "visible": true
+          },
+          {
+            "bounds": [
+              0,
+              84,
+              1440,
+              280
+            ],
+            "children": [
+              {
+                "bounds": [
+                  0,
+                  84,
+                  1440,
+                  280
+                ],
+                "children": [
+                  {
+                    "bounds": [
+                      56,
+                      135,
+                      518,
+                      228
+                    ],
+                    "children": null,
+                    "clickable": false,
+                    "name": "TextView",
+                    "resource_id": null,
+                    "scrollable": {
+                      "horizontal": false,
+                      "vertical": false
+                    },
+                    "text": "Other modules",
+                    "visible": true
+                  },
+                  {
+                    "bounds": [
+                      1272,
+                      84,
+                      1440,
+                      280
+                    ],
+                    "children": [
+                      {
+                        "bounds": [
+                          1272,
+                          98,
+                          1440,
+                          266
+                        ],
+                        "children": null,
+                        "clickable": true,
+                        "name": "ActionMenuItemView",
+                        "resource_id": "print",
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": "",
+                        "visible": true
+                      }
+                    ],
+                    "clickable": false,
+                    "name": "ActionMenuView",
+                    "resource_id": null,
+                    "scrollable": {
+                      "horizontal": false,
+                      "vertical": false
+                    },
+                    "text": null,
+                    "visible": true
+                  }
+                ],
+                "clickable": false,
+                "name": "Toolbar",
+                "resource_id": "action_bar",
+                "scrollable": {
+                  "horizontal": false,
+                  "vertical": false
+                },
+                "text": null,
+                "visible": true
+              }
+            ],
+            "clickable": false,
+            "name": "ActionBarContainer",
+            "resource_id": "action_bar_container",
+            "scrollable": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "text": null,
+            "visible": true
+          }
+        ],
+        "clickable": false,
+        "name": "ActionBarOverlayLayout",
+        "resource_id": "decor_content_parent",
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      },
+      {
+        "bounds": [
+          0,
+          2392,
+          1440,
+          2560
+        ],
+        "children": null,
+        "clickable": false,
+        "name": "View",
+        "resource_id": "navigationBarBackground",
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      },
+      {
+        "bounds": [
+          0,
+          0,
+          1440,
+          84
+        ],
+        "children": null,
+        "clickable": false,
+        "name": "View",
+        "resource_id": "statusBarBackground",
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      }
+    ],
+    "clickable": false,
+    "name": "PhoneWindow$DecorView",
+    "resource_id": null,
+    "scrollable": {
+      "horizontal": false,
+      "vertical": false
+    },
+    "text": null,
+    "visible": true
+  },
+  "keyboard": false
+}

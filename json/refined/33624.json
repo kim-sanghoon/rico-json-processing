@@ -1,0 +1,986 @@
+{
+  "activity_name": "DeviceDetailsActivity",
+  "app": {
+    "category": "House & Home",
+    "package_name": "com.infigate.accontrol",
+    "store_name": "AC Mobile Control"
+  },
+  "hierarchy": {
+    "bounds": [
+      0,
+      0,
+      1440,
+      2392
+    ],
+    "children": [
+      {
+        "bounds": [
+          0,
+          0,
+          1440,
+          2392
+        ],
+        "children": [
+          {
+            "bounds": [
+              0,
+              0,
+              1440,
+              2392
+            ],
+            "children": [
+              {
+                "bounds": [
+                  0,
+                  0,
+                  1440,
+                  2392
+                ],
+                "children": [
+                  {
+                    "bounds": [
+                      0,
+                      0,
+                      1440,
+                      2392
+                    ],
+                    "children": [
+                      {
+                        "bounds": [
+                          0,
+                          0,
+                          1440,
+                          2178
+                        ],
+                        "children": [
+                          {
+                            "bounds": [
+                              0,
+                              0,
+                              1440,
+                              2178
+                            ],
+                            "children": [
+                              {
+                                "bounds": [
+                                  0,
+                                  0,
+                                  1440,
+                                  2178
+                                ],
+                                "children": [
+                                  {
+                                    "bounds": [
+                                      0,
+                                      0,
+                                      1440,
+                                      224
+                                    ],
+                                    "children": [
+                                      {
+                                        "bounds": [
+                                          0,
+                                          13,
+                                          198,
+                                          211
+                                        ],
+                                        "children": [
+                                          {
+                                            "bounds": [
+                                              7,
+                                              16,
+                                              191,
+                                              207
+                                            ],
+                                            "children": null,
+                                            "clickable": true,
+                                            "name": "Button",
+                                            "resource_id": "fragment_acschedule_button_back",
+                                            "scrollable": {
+                                              "horizontal": false,
+                                              "vertical": false
+                                            },
+                                            "text": "",
+                                            "visible": true
+                                          },
+                                          {
+                                            "bounds": [
+                                              33,
+                                              46,
+                                              164,
+                                              177
+                                            ],
+                                            "children": null,
+                                            "clickable": false,
+                                            "name": "ImageView",
+                                            "resource_id": null,
+                                            "scrollable": {
+                                              "horizontal": false,
+                                              "vertical": false
+                                            },
+                                            "text": null,
+                                            "visible": true
+                                          }
+                                        ],
+                                        "clickable": false,
+                                        "name": "RelativeLayout",
+                                        "resource_id": "fragment_acschedule_layout_back",
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": null,
+                                        "visible": true
+                                      },
+                                      {
+                                        "bounds": [
+                                          198,
+                                          16,
+                                          1242,
+                                          207
+                                        ],
+                                        "children": null,
+                                        "clickable": true,
+                                        "name": "TextView",
+                                        "resource_id": "fragment_acschedule_textview_name",
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": "Schedule 1",
+                                        "visible": true
+                                      },
+                                      {
+                                        "bounds": [
+                                          1242,
+                                          13,
+                                          1440,
+                                          211
+                                        ],
+                                        "children": [
+                                          {
+                                            "bounds": [
+                                              1249,
+                                              16,
+                                              1433,
+                                              207
+                                            ],
+                                            "children": null,
+                                            "clickable": true,
+                                            "name": "Button",
+                                            "resource_id": "fragment_acschedule_button_off",
+                                            "scrollable": {
+                                              "horizontal": false,
+                                              "vertical": false
+                                            },
+                                            "text": "",
+                                            "visible": true
+                                          },
+                                          {
+                                            "bounds": [
+                                              1275,
+                                              46,
+                                              1406,
+                                              177
+                                            ],
+                                            "children": null,
+                                            "clickable": false,
+                                            "name": "ImageView",
+                                            "resource_id": null,
+                                            "scrollable": {
+                                              "horizontal": false,
+                                              "vertical": false
+                                            },
+                                            "text": null,
+                                            "visible": true
+                                          }
+                                        ],
+                                        "clickable": false,
+                                        "name": "RelativeLayout",
+                                        "resource_id": "fragment_acschedule_layout_off",
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": null,
+                                        "visible": true
+                                      }
+                                    ],
+                                    "clickable": false,
+                                    "name": "RelativeLayout",
+                                    "resource_id": "fragment_acschedule_layout_header",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": true
+                                  },
+                                  {
+                                    "bounds": [
+                                      0,
+                                      224,
+                                      1440,
+                                      1879
+                                    ],
+                                    "children": [
+                                      {
+                                        "bounds": [
+                                          35,
+                                          564,
+                                          1405,
+                                          960
+                                        ],
+                                        "children": [
+                                          {
+                                            "bounds": [
+                                              35,
+                                              564,
+                                              1405,
+                                              960
+                                            ],
+                                            "children": [
+                                              {
+                                                "bounds": [
+                                                  224,
+                                                  564,
+                                                  654,
+                                                  960
+                                                ],
+                                                "children": [
+                                                  {
+                                                    "bounds": [
+                                                      224,
+                                                      564,
+                                                      654,
+                                                      867
+                                                    ],
+                                                    "children": null,
+                                                    "clickable": true,
+                                                    "name": "Button",
+                                                    "resource_id": "fragment_acschedule_button_from",
+                                                    "scrollable": {
+                                                      "horizontal": false,
+                                                      "vertical": false
+                                                    },
+                                                    "text": "10:30",
+                                                    "visible": true
+                                                  },
+                                                  {
+                                                    "bounds": [
+                                                      281,
+                                                      867,
+                                                      597,
+                                                      960
+                                                    ],
+                                                    "children": null,
+                                                    "clickable": false,
+                                                    "name": "TextView",
+                                                    "resource_id": null,
+                                                    "scrollable": {
+                                                      "horizontal": false,
+                                                      "vertical": false
+                                                    },
+                                                    "text": "Start time",
+                                                    "visible": true
+                                                  }
+                                                ],
+                                                "clickable": false,
+                                                "name": "LinearLayout",
+                                                "resource_id": "fragment_acschedule_layout_timefrom",
+                                                "scrollable": {
+                                                  "horizontal": false,
+                                                  "vertical": false
+                                                },
+                                                "text": null,
+                                                "visible": true
+                                              },
+                                              {
+                                                "bounds": [
+                                                  654,
+                                                  643,
+                                                  785,
+                                                  774
+                                                ],
+                                                "children": null,
+                                                "clickable": false,
+                                                "name": "ImageView",
+                                                "resource_id": null,
+                                                "scrollable": {
+                                                  "horizontal": false,
+                                                  "vertical": false
+                                                },
+                                                "text": null,
+                                                "visible": true
+                                              },
+                                              {
+                                                "bounds": [
+                                                  785,
+                                                  564,
+                                                  1215,
+                                                  960
+                                                ],
+                                                "children": [
+                                                  {
+                                                    "bounds": [
+                                                      785,
+                                                      564,
+                                                      1215,
+                                                      867
+                                                    ],
+                                                    "children": null,
+                                                    "clickable": true,
+                                                    "name": "Button",
+                                                    "resource_id": "fragment_acschedule_button_to",
+                                                    "scrollable": {
+                                                      "horizontal": false,
+                                                      "vertical": false
+                                                    },
+                                                    "text": "16:00",
+                                                    "visible": true
+                                                  },
+                                                  {
+                                                    "bounds": [
+                                                      862,
+                                                      867,
+                                                      1138,
+                                                      960
+                                                    ],
+                                                    "children": null,
+                                                    "clickable": false,
+                                                    "name": "TextView",
+                                                    "resource_id": null,
+                                                    "scrollable": {
+                                                      "horizontal": false,
+                                                      "vertical": false
+                                                    },
+                                                    "text": "End time",
+                                                    "visible": true
+                                                  }
+                                                ],
+                                                "clickable": false,
+                                                "name": "LinearLayout",
+                                                "resource_id": "fragment_acschedule_layout_timeto",
+                                                "scrollable": {
+                                                  "horizontal": false,
+                                                  "vertical": false
+                                                },
+                                                "text": null,
+                                                "visible": true
+                                              }
+                                            ],
+                                            "clickable": false,
+                                            "name": "LinearLayout",
+                                            "resource_id": "fragment_acschedule_layout_time",
+                                            "scrollable": {
+                                              "horizontal": false,
+                                              "vertical": false
+                                            },
+                                            "text": null,
+                                            "visible": true
+                                          }
+                                        ],
+                                        "clickable": false,
+                                        "name": "RelativeLayout",
+                                        "resource_id": "fragment_acschedule_layout_time_temp",
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": null,
+                                        "visible": true
+                                      },
+                                      {
+                                        "bounds": [
+                                          35,
+                                          995,
+                                          1405,
+                                          1305
+                                        ],
+                                        "children": null,
+                                        "clickable": false,
+                                        "name": "TempHorizControlView",
+                                        "resource_id": "fragment_acschedule_imageview_tempset",
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": null,
+                                        "visible": true
+                                      },
+                                      {
+                                        "bounds": [
+                                          35,
+                                          1340,
+                                          1405,
+                                          1573
+                                        ],
+                                        "children": [
+                                          {
+                                            "bounds": [
+                                              35,
+                                              1340,
+                                              1405,
+                                              1573
+                                            ],
+                                            "children": [
+                                              {
+                                                "bounds": [
+                                                  35,
+                                                  1340,
+                                                  1405,
+                                                  1573
+                                                ],
+                                                "children": [
+                                                  {
+                                                    "bounds": [
+                                                      35,
+                                                      1340,
+                                                      230,
+                                                      1573
+                                                    ],
+                                                    "children": null,
+                                                    "clickable": false,
+                                                    "name": "ImageView",
+                                                    "resource_id": "fragment_acschedule_imageview_day0",
+                                                    "scrollable": {
+                                                      "horizontal": false,
+                                                      "vertical": false
+                                                    },
+                                                    "text": null,
+                                                    "visible": true
+                                                  },
+                                                  {
+                                                    "bounds": [
+                                                      230,
+                                                      1340,
+                                                      425,
+                                                      1573
+                                                    ],
+                                                    "children": null,
+                                                    "clickable": false,
+                                                    "name": "ImageView",
+                                                    "resource_id": "fragment_acschedule_imageview_day1",
+                                                    "scrollable": {
+                                                      "horizontal": false,
+                                                      "vertical": false
+                                                    },
+                                                    "text": null,
+                                                    "visible": true
+                                                  },
+                                                  {
+                                                    "bounds": [
+                                                      425,
+                                                      1340,
+                                                      621,
+                                                      1573
+                                                    ],
+                                                    "children": null,
+                                                    "clickable": false,
+                                                    "name": "ImageView",
+                                                    "resource_id": "fragment_acschedule_imageview_day2",
+                                                    "scrollable": {
+                                                      "horizontal": false,
+                                                      "vertical": false
+                                                    },
+                                                    "text": null,
+                                                    "visible": true
+                                                  },
+                                                  {
+                                                    "bounds": [
+                                                      621,
+                                                      1340,
+                                                      817,
+                                                      1573
+                                                    ],
+                                                    "children": null,
+                                                    "clickable": false,
+                                                    "name": "ImageView",
+                                                    "resource_id": "fragment_acschedule_imageview_day3",
+                                                    "scrollable": {
+                                                      "horizontal": false,
+                                                      "vertical": false
+                                                    },
+                                                    "text": null,
+                                                    "visible": true
+                                                  },
+                                                  {
+                                                    "bounds": [
+                                                      817,
+                                                      1340,
+                                                      1013,
+                                                      1573
+                                                    ],
+                                                    "children": null,
+                                                    "clickable": false,
+                                                    "name": "ImageView",
+                                                    "resource_id": "fragment_acschedule_imageview_day4",
+                                                    "scrollable": {
+                                                      "horizontal": false,
+                                                      "vertical": false
+                                                    },
+                                                    "text": null,
+                                                    "visible": true
+                                                  },
+                                                  {
+                                                    "bounds": [
+                                                      1013,
+                                                      1340,
+                                                      1209,
+                                                      1573
+                                                    ],
+                                                    "children": null,
+                                                    "clickable": false,
+                                                    "name": "ImageView",
+                                                    "resource_id": "fragment_acschedule_imageview_day5",
+                                                    "scrollable": {
+                                                      "horizontal": false,
+                                                      "vertical": false
+                                                    },
+                                                    "text": null,
+                                                    "visible": true
+                                                  },
+                                                  {
+                                                    "bounds": [
+                                                      1209,
+                                                      1340,
+                                                      1405,
+                                                      1573
+                                                    ],
+                                                    "children": null,
+                                                    "clickable": false,
+                                                    "name": "ImageView",
+                                                    "resource_id": "fragment_acschedule_imageview_day6",
+                                                    "scrollable": {
+                                                      "horizontal": false,
+                                                      "vertical": false
+                                                    },
+                                                    "text": null,
+                                                    "visible": true
+                                                  }
+                                                ],
+                                                "clickable": false,
+                                                "name": "LinearLayout",
+                                                "resource_id": null,
+                                                "scrollable": {
+                                                  "horizontal": false,
+                                                  "vertical": false
+                                                },
+                                                "text": null,
+                                                "visible": true
+                                              },
+                                              {
+                                                "bounds": [
+                                                  35,
+                                                  1423,
+                                                  1405,
+                                                  1489
+                                                ],
+                                                "children": [
+                                                  {
+                                                    "bounds": [
+                                                      35,
+                                                      1423,
+                                                      230,
+                                                      1489
+                                                    ],
+                                                    "children": null,
+                                                    "clickable": false,
+                                                    "name": "TextView",
+                                                    "resource_id": null,
+                                                    "scrollable": {
+                                                      "horizontal": false,
+                                                      "vertical": false
+                                                    },
+                                                    "text": "Mon",
+                                                    "visible": true
+                                                  },
+                                                  {
+                                                    "bounds": [
+                                                      230,
+                                                      1423,
+                                                      425,
+                                                      1489
+                                                    ],
+                                                    "children": null,
+                                                    "clickable": false,
+                                                    "name": "TextView",
+                                                    "resource_id": null,
+                                                    "scrollable": {
+                                                      "horizontal": false,
+                                                      "vertical": false
+                                                    },
+                                                    "text": "Tue",
+                                                    "visible": true
+                                                  },
+                                                  {
+                                                    "bounds": [
+                                                      425,
+                                                      1423,
+                                                      621,
+                                                      1489
+                                                    ],
+                                                    "children": null,
+                                                    "clickable": false,
+                                                    "name": "TextView",
+                                                    "resource_id": null,
+                                                    "scrollable": {
+                                                      "horizontal": false,
+                                                      "vertical": false
+                                                    },
+                                                    "text": "Wed",
+                                                    "visible": true
+                                                  },
+                                                  {
+                                                    "bounds": [
+                                                      621,
+                                                      1423,
+                                                      817,
+                                                      1489
+                                                    ],
+                                                    "children": null,
+                                                    "clickable": false,
+                                                    "name": "TextView",
+                                                    "resource_id": null,
+                                                    "scrollable": {
+                                                      "horizontal": false,
+                                                      "vertical": false
+                                                    },
+                                                    "text": "Thu",
+                                                    "visible": true
+                                                  },
+                                                  {
+                                                    "bounds": [
+                                                      817,
+                                                      1423,
+                                                      1013,
+                                                      1489
+                                                    ],
+                                                    "children": null,
+                                                    "clickable": false,
+                                                    "name": "TextView",
+                                                    "resource_id": null,
+                                                    "scrollable": {
+                                                      "horizontal": false,
+                                                      "vertical": false
+                                                    },
+                                                    "text": "Fri",
+                                                    "visible": true
+                                                  },
+                                                  {
+                                                    "bounds": [
+                                                      1013,
+                                                      1423,
+                                                      1209,
+                                                      1489
+                                                    ],
+                                                    "children": null,
+                                                    "clickable": false,
+                                                    "name": "TextView",
+                                                    "resource_id": null,
+                                                    "scrollable": {
+                                                      "horizontal": false,
+                                                      "vertical": false
+                                                    },
+                                                    "text": "Sat",
+                                                    "visible": true
+                                                  },
+                                                  {
+                                                    "bounds": [
+                                                      1209,
+                                                      1423,
+                                                      1405,
+                                                      1489
+                                                    ],
+                                                    "children": null,
+                                                    "clickable": false,
+                                                    "name": "TextView",
+                                                    "resource_id": null,
+                                                    "scrollable": {
+                                                      "horizontal": false,
+                                                      "vertical": false
+                                                    },
+                                                    "text": "Sun",
+                                                    "visible": true
+                                                  }
+                                                ],
+                                                "clickable": false,
+                                                "name": "LinearLayout",
+                                                "resource_id": "fragment_acschedule_layout_dayslabels",
+                                                "scrollable": {
+                                                  "horizontal": false,
+                                                  "vertical": false
+                                                },
+                                                "text": null,
+                                                "visible": true
+                                              }
+                                            ],
+                                            "clickable": false,
+                                            "name": "RelativeLayout",
+                                            "resource_id": "fragment_acschedule_layout_days",
+                                            "scrollable": {
+                                              "horizontal": false,
+                                              "vertical": false
+                                            },
+                                            "text": null,
+                                            "visible": true
+                                          }
+                                        ],
+                                        "clickable": false,
+                                        "name": "LinearLayout",
+                                        "resource_id": null,
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": null,
+                                        "visible": true
+                                      }
+                                    ],
+                                    "clickable": false,
+                                    "name": "LinearLayout",
+                                    "resource_id": "fragment_acschedule_layout_body",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": true
+                                  },
+                                  {
+                                    "bounds": [
+                                      35,
+                                      1914,
+                                      1405,
+                                      2143
+                                    ],
+                                    "children": [
+                                      {
+                                        "bounds": [
+                                          35,
+                                          1914,
+                                          1405,
+                                          2143
+                                        ],
+                                        "children": null,
+                                        "clickable": true,
+                                        "name": "Button",
+                                        "resource_id": "fragment_acschedule_button_save",
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": "Save schedule 1",
+                                        "visible": true
+                                      }
+                                    ],
+                                    "clickable": false,
+                                    "name": "RelativeLayout",
+                                    "resource_id": "fragment_acschedule_layout_save",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": true
+                                  },
+                                  {
+                                    "bounds": [
+                                      0,
+                                      224,
+                                      1440,
+                                      2178
+                                    ],
+                                    "children": [
+                                      {
+                                        "bounds": [
+                                          35,
+                                          1386,
+                                          1405,
+                                          1631
+                                        ],
+                                        "children": null,
+                                        "clickable": true,
+                                        "name": "Button",
+                                        "resource_id": "fragment_acschedule_button_buypro",
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": "Buy full version of AC Mobile Control application",
+                                        "visible": false
+                                      }
+                                    ],
+                                    "clickable": true,
+                                    "name": "RelativeLayout",
+                                    "resource_id": "fragment_acschedule_layout_pro",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": false
+                                  }
+                                ],
+                                "clickable": false,
+                                "name": "RelativeLayout",
+                                "resource_id": null,
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": null,
+                                "visible": true
+                              }
+                            ],
+                            "clickable": false,
+                            "name": "NoSaveStateFrameLayout",
+                            "resource_id": null,
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": null,
+                            "visible": true
+                          }
+                        ],
+                        "clickable": false,
+                        "name": "FrameLayout",
+                        "resource_id": "realtabcontent",
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      },
+                      {
+                        "bounds": [
+                          0,
+                          2201,
+                          1440,
+                          2392
+                        ],
+                        "children": [
+                          {
+                            "bounds": [
+                              0,
+                              2201,
+                              720,
+                              2392
+                            ],
+                            "children": null,
+                            "clickable": true,
+                            "name": "Button",
+                            "resource_id": "devicedetails_button_tab_control",
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": "CONTROL",
+                            "visible": true
+                          },
+                          {
+                            "bounds": [
+                              720,
+                              2201,
+                              1440,
+                              2392
+                            ],
+                            "children": null,
+                            "clickable": true,
+                            "name": "Button",
+                            "resource_id": "devicedetails_button_tab_schedule",
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": "SCHEDULE",
+                            "visible": true
+                          }
+                        ],
+                        "clickable": false,
+                        "name": "LinearLayout",
+                        "resource_id": "devicedetails_layout_tabs",
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      },
+                      {
+                        "bounds": [
+                          0,
+                          2178,
+                          1440,
+                          2201
+                        ],
+                        "children": null,
+                        "clickable": false,
+                        "name": "ImageView",
+                        "resource_id": "devicedetails_div",
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      }
+                    ],
+                    "clickable": false,
+                    "name": "RelativeLayout",
+                    "resource_id": null,
+                    "scrollable": {
+                      "horizontal": false,
+                      "vertical": false
+                    },
+                    "text": null,
+                    "visible": true
+                  }
+                ],
+                "clickable": false,
+                "name": "RelativeLayout",
+                "resource_id": null,
+                "scrollable": {
+                  "horizontal": false,
+                  "vertical": false
+                },
+                "text": null,
+                "visible": true
+              }
+            ],
+            "clickable": false,
+            "name": "FrameLayout",
+            "resource_id": "content",
+            "scrollable": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "text": null,
+            "visible": true
+          }
+        ],
+        "clickable": false,
+        "name": "LinearLayout",
+        "resource_id": null,
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      }
+    ],
+    "clickable": false,
+    "name": "PhoneWindow$DecorView",
+    "resource_id": null,
+    "scrollable": {
+      "horizontal": false,
+      "vertical": false
+    },
+    "text": null,
+    "visible": true
+  },
+  "keyboard": false
+}

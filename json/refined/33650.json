@@ -1,0 +1,1525 @@
+{
+  "activity_name": "MainActivity",
+  "app": {
+    "category": "Sports",
+    "package_name": "com.mobile.android.celtics",
+    "store_name": "Boston Celtics"
+  },
+  "hierarchy": {
+    "bounds": [
+      0,
+      0,
+      1440,
+      2560
+    ],
+    "children": [
+      {
+        "bounds": [
+          0,
+          0,
+          1440,
+          2392
+        ],
+        "children": [
+          {
+            "bounds": [
+              0,
+              84,
+              1440,
+              2392
+            ],
+            "children": [
+              {
+                "bounds": [
+                  0,
+                  84,
+                  1440,
+                  2392
+                ],
+                "children": [
+                  {
+                    "bounds": [
+                      0,
+                      84,
+                      1440,
+                      2392
+                    ],
+                    "children": [
+                      {
+                        "bounds": [
+                          0,
+                          84,
+                          1440,
+                          2392
+                        ],
+                        "children": [
+                          {
+                            "bounds": [
+                              0,
+                              84,
+                              1440,
+                              2392
+                            ],
+                            "children": [
+                              {
+                                "bounds": [
+                                  0,
+                                  84,
+                                  1440,
+                                  280
+                                ],
+                                "children": [
+                                  {
+                                    "bounds": [
+                                      617,
+                                      140,
+                                      824,
+                                      223
+                                    ],
+                                    "children": null,
+                                    "clickable": false,
+                                    "name": "AppCompatTextView",
+                                    "resource_id": "toolbar_title",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": "Roster",
+                                    "visible": true
+                                  },
+                                  {
+                                    "bounds": [
+                                      0,
+                                      84,
+                                      196,
+                                      280
+                                    ],
+                                    "children": null,
+                                    "clickable": true,
+                                    "name": "ImageButton",
+                                    "resource_id": null,
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": true
+                                  },
+                                  {
+                                    "bounds": [
+                                      1272,
+                                      84,
+                                      1440,
+                                      280
+                                    ],
+                                    "children": [
+                                      {
+                                        "bounds": [
+                                          1272,
+                                          98,
+                                          1440,
+                                          266
+                                        ],
+                                        "children": null,
+                                        "clickable": true,
+                                        "name": "ActionMenuItemView",
+                                        "resource_id": "menu_item_logo",
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": "",
+                                        "visible": true
+                                      }
+                                    ],
+                                    "clickable": false,
+                                    "name": "ActionMenuView",
+                                    "resource_id": null,
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": true
+                                  }
+                                ],
+                                "clickable": false,
+                                "name": "Toolbar",
+                                "resource_id": "main_actionbar",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": null,
+                                "visible": true
+                              },
+                              {
+                                "bounds": [
+                                  0,
+                                  280,
+                                  1440,
+                                  2392
+                                ],
+                                "children": [
+                                  {
+                                    "bounds": [
+                                      0,
+                                      280,
+                                      1440,
+                                      2392
+                                    ],
+                                    "children": [
+                                      {
+                                        "bounds": [
+                                          0,
+                                          280,
+                                          1440,
+                                          2392
+                                        ],
+                                        "children": [
+                                          {
+                                            "bounds": [
+                                              0,
+                                              280,
+                                              0,
+                                              280
+                                            ],
+                                            "children": [],
+                                            "clickable": false,
+                                            "name": "RelativeLayout",
+                                            "resource_id": "basic_empty_view",
+                                            "scrollable": {
+                                              "horizontal": false,
+                                              "vertical": false
+                                            },
+                                            "text": null,
+                                            "visible": false
+                                          },
+                                          {
+                                            "bounds": [
+                                              0,
+                                              280,
+                                              1440,
+                                              2392
+                                            ],
+                                            "children": [
+                                              {
+                                                "bounds": [
+                                                  0,
+                                                  280,
+                                                  1440,
+                                                  654
+                                                ],
+                                                "children": [
+                                                  {
+                                                    "bounds": [
+                                                      0,
+                                                      280,
+                                                      1440,
+                                                      363
+                                                    ],
+                                                    "children": [
+                                                      {
+                                                        "bounds": [
+                                                          370,
+                                                          280,
+                                                          1070,
+                                                          363
+                                                        ],
+                                                        "children": null,
+                                                        "clickable": false,
+                                                        "name": "ImageView",
+                                                        "resource_id": "listview_roster_image",
+                                                        "scrollable": {
+                                                          "horizontal": false,
+                                                          "vertical": false
+                                                        },
+                                                        "text": null,
+                                                        "visible": true
+                                                      }
+                                                    ],
+                                                    "clickable": false,
+                                                    "name": "RelativeLayout",
+                                                    "resource_id": "listview_roster_image_container",
+                                                    "scrollable": {
+                                                      "horizontal": false,
+                                                      "vertical": false
+                                                    },
+                                                    "text": null,
+                                                    "visible": true
+                                                  },
+                                                  {
+                                                    "bounds": [
+                                                      0,
+                                                      311,
+                                                      1440,
+                                                      486
+                                                    ],
+                                                    "children": [
+                                                      {
+                                                        "bounds": [
+                                                          0,
+                                                          311,
+                                                          700,
+                                                          486
+                                                        ],
+                                                        "children": [
+                                                          {
+                                                            "bounds": [
+                                                              53,
+                                                              311,
+                                                              475,
+                                                              399
+                                                            ],
+                                                            "children": null,
+                                                            "clickable": false,
+                                                            "name": "AppCompatTextView",
+                                                            "resource_id": "listview_roster_name",
+                                                            "scrollable": {
+                                                              "horizontal": false,
+                                                              "vertical": false
+                                                            },
+                                                            "text": "Isaiah Thomas",
+                                                            "visible": true
+                                                          },
+                                                          {
+                                                            "bounds": [
+                                                              53,
+                                                              399,
+                                                              214,
+                                                              486
+                                                            ],
+                                                            "children": null,
+                                                            "clickable": false,
+                                                            "name": "AppCompatTextView",
+                                                            "resource_id": "listview_roster_position",
+                                                            "scrollable": {
+                                                              "horizontal": false,
+                                                              "vertical": false
+                                                            },
+                                                            "text": "Guard",
+                                                            "visible": true
+                                                          }
+                                                        ],
+                                                        "clickable": false,
+                                                        "name": "LinearLayout",
+                                                        "resource_id": null,
+                                                        "scrollable": {
+                                                          "horizontal": false,
+                                                          "vertical": false
+                                                        },
+                                                        "text": null,
+                                                        "visible": true
+                                                      },
+                                                      {
+                                                        "bounds": [
+                                                          1301,
+                                                          311,
+                                                          1440,
+                                                          486
+                                                        ],
+                                                        "children": null,
+                                                        "clickable": false,
+                                                        "name": "AppCompatTextView",
+                                                        "resource_id": "listview_roster_jersey",
+                                                        "scrollable": {
+                                                          "horizontal": false,
+                                                          "vertical": false
+                                                        },
+                                                        "text": "#4",
+                                                        "visible": true
+                                                      }
+                                                    ],
+                                                    "clickable": false,
+                                                    "name": "RelativeLayout",
+                                                    "resource_id": "listview_roster_name_container",
+                                                    "scrollable": {
+                                                      "horizontal": false,
+                                                      "vertical": false
+                                                    },
+                                                    "text": null,
+                                                    "visible": true
+                                                  },
+                                                  {
+                                                    "bounds": [
+                                                      0,
+                                                      486,
+                                                      1440,
+                                                      654
+                                                    ],
+                                                    "children": [
+                                                      {
+                                                        "bounds": [
+                                                          0,
+                                                          486,
+                                                          360,
+                                                          654
+                                                        ],
+                                                        "children": [
+                                                          {
+                                                            "bounds": [
+                                                              0,
+                                                              486,
+                                                              360,
+                                                              556
+                                                            ],
+                                                            "children": null,
+                                                            "clickable": false,
+                                                            "name": "AppCompatTextView",
+                                                            "resource_id": "qs_title_gp",
+                                                            "scrollable": {
+                                                              "horizontal": false,
+                                                              "vertical": false
+                                                            },
+                                                            "text": "Games",
+                                                            "visible": true
+                                                          },
+                                                          {
+                                                            "bounds": [
+                                                              0,
+                                                              556,
+                                                              360,
+                                                              654
+                                                            ],
+                                                            "children": null,
+                                                            "clickable": false,
+                                                            "name": "AppCompatTextView",
+                                                            "resource_id": "qs_stat_gp",
+                                                            "scrollable": {
+                                                              "horizontal": false,
+                                                              "vertical": false
+                                                            },
+                                                            "text": "67",
+                                                            "visible": true
+                                                          }
+                                                        ],
+                                                        "clickable": false,
+                                                        "name": "RelativeLayout",
+                                                        "resource_id": null,
+                                                        "scrollable": {
+                                                          "horizontal": false,
+                                                          "vertical": false
+                                                        },
+                                                        "text": null,
+                                                        "visible": true
+                                                      },
+                                                      {
+                                                        "bounds": [
+                                                          360,
+                                                          486,
+                                                          720,
+                                                          654
+                                                        ],
+                                                        "children": [
+                                                          {
+                                                            "bounds": [
+                                                              360,
+                                                              486,
+                                                              720,
+                                                              556
+                                                            ],
+                                                            "children": null,
+                                                            "clickable": false,
+                                                            "name": "AppCompatTextView",
+                                                            "resource_id": "qs_title_ppg",
+                                                            "scrollable": {
+                                                              "horizontal": false,
+                                                              "vertical": false
+                                                            },
+                                                            "text": "PPG",
+                                                            "visible": true
+                                                          },
+                                                          {
+                                                            "bounds": [
+                                                              360,
+                                                              556,
+                                                              720,
+                                                              654
+                                                            ],
+                                                            "children": null,
+                                                            "clickable": false,
+                                                            "name": "AppCompatTextView",
+                                                            "resource_id": "qs_stat_ppg",
+                                                            "scrollable": {
+                                                              "horizontal": false,
+                                                              "vertical": false
+                                                            },
+                                                            "text": "29.1",
+                                                            "visible": true
+                                                          }
+                                                        ],
+                                                        "clickable": false,
+                                                        "name": "RelativeLayout",
+                                                        "resource_id": null,
+                                                        "scrollable": {
+                                                          "horizontal": false,
+                                                          "vertical": false
+                                                        },
+                                                        "text": null,
+                                                        "visible": true
+                                                      },
+                                                      {
+                                                        "bounds": [
+                                                          720,
+                                                          486,
+                                                          1080,
+                                                          654
+                                                        ],
+                                                        "children": [
+                                                          {
+                                                            "bounds": [
+                                                              720,
+                                                              486,
+                                                              1080,
+                                                              556
+                                                            ],
+                                                            "children": null,
+                                                            "clickable": false,
+                                                            "name": "AppCompatTextView",
+                                                            "resource_id": "qs_title_rpg",
+                                                            "scrollable": {
+                                                              "horizontal": false,
+                                                              "vertical": false
+                                                            },
+                                                            "text": "RPG",
+                                                            "visible": true
+                                                          },
+                                                          {
+                                                            "bounds": [
+                                                              720,
+                                                              556,
+                                                              1080,
+                                                              654
+                                                            ],
+                                                            "children": null,
+                                                            "clickable": false,
+                                                            "name": "AppCompatTextView",
+                                                            "resource_id": "qs_stat_rpg",
+                                                            "scrollable": {
+                                                              "horizontal": false,
+                                                              "vertical": false
+                                                            },
+                                                            "text": "2.6",
+                                                            "visible": true
+                                                          }
+                                                        ],
+                                                        "clickable": false,
+                                                        "name": "RelativeLayout",
+                                                        "resource_id": null,
+                                                        "scrollable": {
+                                                          "horizontal": false,
+                                                          "vertical": false
+                                                        },
+                                                        "text": null,
+                                                        "visible": true
+                                                      },
+                                                      {
+                                                        "bounds": [
+                                                          1080,
+                                                          486,
+                                                          1440,
+                                                          654
+                                                        ],
+                                                        "children": [
+                                                          {
+                                                            "bounds": [
+                                                              1080,
+                                                              486,
+                                                              1440,
+                                                              556
+                                                            ],
+                                                            "children": null,
+                                                            "clickable": false,
+                                                            "name": "AppCompatTextView",
+                                                            "resource_id": "qs_title_apg",
+                                                            "scrollable": {
+                                                              "horizontal": false,
+                                                              "vertical": false
+                                                            },
+                                                            "text": "APG",
+                                                            "visible": true
+                                                          },
+                                                          {
+                                                            "bounds": [
+                                                              1080,
+                                                              556,
+                                                              1440,
+                                                              654
+                                                            ],
+                                                            "children": null,
+                                                            "clickable": false,
+                                                            "name": "AppCompatTextView",
+                                                            "resource_id": "qs_stat_apg",
+                                                            "scrollable": {
+                                                              "horizontal": false,
+                                                              "vertical": false
+                                                            },
+                                                            "text": "6.0",
+                                                            "visible": true
+                                                          }
+                                                        ],
+                                                        "clickable": false,
+                                                        "name": "RelativeLayout",
+                                                        "resource_id": null,
+                                                        "scrollable": {
+                                                          "horizontal": false,
+                                                          "vertical": false
+                                                        },
+                                                        "text": null,
+                                                        "visible": true
+                                                      }
+                                                    ],
+                                                    "clickable": false,
+                                                    "name": "LinearLayout",
+                                                    "resource_id": "listview_roster_quickstat_container",
+                                                    "scrollable": {
+                                                      "horizontal": false,
+                                                      "vertical": false
+                                                    },
+                                                    "text": null,
+                                                    "visible": true
+                                                  }
+                                                ],
+                                                "clickable": false,
+                                                "name": "FrameLayout",
+                                                "resource_id": "content_card",
+                                                "scrollable": {
+                                                  "horizontal": false,
+                                                  "vertical": false
+                                                },
+                                                "text": null,
+                                                "visible": true
+                                              },
+                                              {
+                                                "bounds": [
+                                                  0,
+                                                  672,
+                                                  1440,
+                                                  1523
+                                                ],
+                                                "children": [
+                                                  {
+                                                    "bounds": [
+                                                      0,
+                                                      672,
+                                                      1440,
+                                                      1232
+                                                    ],
+                                                    "children": [
+                                                      {
+                                                        "bounds": [
+                                                          370,
+                                                          672,
+                                                          1070,
+                                                          1232
+                                                        ],
+                                                        "children": null,
+                                                        "clickable": false,
+                                                        "name": "ImageView",
+                                                        "resource_id": "listview_roster_image",
+                                                        "scrollable": {
+                                                          "horizontal": false,
+                                                          "vertical": false
+                                                        },
+                                                        "text": null,
+                                                        "visible": true
+                                                      }
+                                                    ],
+                                                    "clickable": false,
+                                                    "name": "RelativeLayout",
+                                                    "resource_id": "listview_roster_image_container",
+                                                    "scrollable": {
+                                                      "horizontal": false,
+                                                      "vertical": false
+                                                    },
+                                                    "text": null,
+                                                    "visible": true
+                                                  },
+                                                  {
+                                                    "bounds": [
+                                                      0,
+                                                      1180,
+                                                      1440,
+                                                      1355
+                                                    ],
+                                                    "children": [
+                                                      {
+                                                        "bounds": [
+                                                          0,
+                                                          1180,
+                                                          700,
+                                                          1355
+                                                        ],
+                                                        "children": [
+                                                          {
+                                                            "bounds": [
+                                                              53,
+                                                              1180,
+                                                              437,
+                                                              1268
+                                                            ],
+                                                            "children": null,
+                                                            "clickable": false,
+                                                            "name": "AppCompatTextView",
+                                                            "resource_id": "listview_roster_name",
+                                                            "scrollable": {
+                                                              "horizontal": false,
+                                                              "vertical": false
+                                                            },
+                                                            "text": "James Young",
+                                                            "visible": true
+                                                          },
+                                                          {
+                                                            "bounds": [
+                                                              53,
+                                                              1268,
+                                                              452,
+                                                              1355
+                                                            ],
+                                                            "children": null,
+                                                            "clickable": false,
+                                                            "name": "AppCompatTextView",
+                                                            "resource_id": "listview_roster_position",
+                                                            "scrollable": {
+                                                              "horizontal": false,
+                                                              "vertical": false
+                                                            },
+                                                            "text": "Guard-Forward",
+                                                            "visible": true
+                                                          }
+                                                        ],
+                                                        "clickable": false,
+                                                        "name": "LinearLayout",
+                                                        "resource_id": null,
+                                                        "scrollable": {
+                                                          "horizontal": false,
+                                                          "vertical": false
+                                                        },
+                                                        "text": null,
+                                                        "visible": true
+                                                      },
+                                                      {
+                                                        "bounds": [
+                                                          1258,
+                                                          1180,
+                                                          1440,
+                                                          1355
+                                                        ],
+                                                        "children": null,
+                                                        "clickable": false,
+                                                        "name": "AppCompatTextView",
+                                                        "resource_id": "listview_roster_jersey",
+                                                        "scrollable": {
+                                                          "horizontal": false,
+                                                          "vertical": false
+                                                        },
+                                                        "text": "#13",
+                                                        "visible": true
+                                                      }
+                                                    ],
+                                                    "clickable": false,
+                                                    "name": "RelativeLayout",
+                                                    "resource_id": "listview_roster_name_container",
+                                                    "scrollable": {
+                                                      "horizontal": false,
+                                                      "vertical": false
+                                                    },
+                                                    "text": null,
+                                                    "visible": true
+                                                  },
+                                                  {
+                                                    "bounds": [
+                                                      0,
+                                                      1355,
+                                                      1440,
+                                                      1523
+                                                    ],
+                                                    "children": [
+                                                      {
+                                                        "bounds": [
+                                                          0,
+                                                          1355,
+                                                          360,
+                                                          1523
+                                                        ],
+                                                        "children": [
+                                                          {
+                                                            "bounds": [
+                                                              0,
+                                                              1355,
+                                                              360,
+                                                              1425
+                                                            ],
+                                                            "children": null,
+                                                            "clickable": false,
+                                                            "name": "AppCompatTextView",
+                                                            "resource_id": "qs_title_gp",
+                                                            "scrollable": {
+                                                              "horizontal": false,
+                                                              "vertical": false
+                                                            },
+                                                            "text": "Games",
+                                                            "visible": true
+                                                          },
+                                                          {
+                                                            "bounds": [
+                                                              0,
+                                                              1425,
+                                                              360,
+                                                              1523
+                                                            ],
+                                                            "children": null,
+                                                            "clickable": false,
+                                                            "name": "AppCompatTextView",
+                                                            "resource_id": "qs_stat_gp",
+                                                            "scrollable": {
+                                                              "horizontal": false,
+                                                              "vertical": false
+                                                            },
+                                                            "text": "25",
+                                                            "visible": true
+                                                          }
+                                                        ],
+                                                        "clickable": false,
+                                                        "name": "RelativeLayout",
+                                                        "resource_id": null,
+                                                        "scrollable": {
+                                                          "horizontal": false,
+                                                          "vertical": false
+                                                        },
+                                                        "text": null,
+                                                        "visible": true
+                                                      },
+                                                      {
+                                                        "bounds": [
+                                                          360,
+                                                          1355,
+                                                          720,
+                                                          1523
+                                                        ],
+                                                        "children": [
+                                                          {
+                                                            "bounds": [
+                                                              360,
+                                                              1355,
+                                                              720,
+                                                              1425
+                                                            ],
+                                                            "children": null,
+                                                            "clickable": false,
+                                                            "name": "AppCompatTextView",
+                                                            "resource_id": "qs_title_ppg",
+                                                            "scrollable": {
+                                                              "horizontal": false,
+                                                              "vertical": false
+                                                            },
+                                                            "text": "PPG",
+                                                            "visible": true
+                                                          },
+                                                          {
+                                                            "bounds": [
+                                                              360,
+                                                              1425,
+                                                              720,
+                                                              1523
+                                                            ],
+                                                            "children": null,
+                                                            "clickable": false,
+                                                            "name": "AppCompatTextView",
+                                                            "resource_id": "qs_stat_ppg",
+                                                            "scrollable": {
+                                                              "horizontal": false,
+                                                              "vertical": false
+                                                            },
+                                                            "text": "2.6",
+                                                            "visible": true
+                                                          }
+                                                        ],
+                                                        "clickable": false,
+                                                        "name": "RelativeLayout",
+                                                        "resource_id": null,
+                                                        "scrollable": {
+                                                          "horizontal": false,
+                                                          "vertical": false
+                                                        },
+                                                        "text": null,
+                                                        "visible": true
+                                                      },
+                                                      {
+                                                        "bounds": [
+                                                          720,
+                                                          1355,
+                                                          1080,
+                                                          1523
+                                                        ],
+                                                        "children": [
+                                                          {
+                                                            "bounds": [
+                                                              720,
+                                                              1355,
+                                                              1080,
+                                                              1425
+                                                            ],
+                                                            "children": null,
+                                                            "clickable": false,
+                                                            "name": "AppCompatTextView",
+                                                            "resource_id": "qs_title_rpg",
+                                                            "scrollable": {
+                                                              "horizontal": false,
+                                                              "vertical": false
+                                                            },
+                                                            "text": "RPG",
+                                                            "visible": true
+                                                          },
+                                                          {
+                                                            "bounds": [
+                                                              720,
+                                                              1425,
+                                                              1080,
+                                                              1523
+                                                            ],
+                                                            "children": null,
+                                                            "clickable": false,
+                                                            "name": "AppCompatTextView",
+                                                            "resource_id": "qs_stat_rpg",
+                                                            "scrollable": {
+                                                              "horizontal": false,
+                                                              "vertical": false
+                                                            },
+                                                            "text": "1.0",
+                                                            "visible": true
+                                                          }
+                                                        ],
+                                                        "clickable": false,
+                                                        "name": "RelativeLayout",
+                                                        "resource_id": null,
+                                                        "scrollable": {
+                                                          "horizontal": false,
+                                                          "vertical": false
+                                                        },
+                                                        "text": null,
+                                                        "visible": true
+                                                      },
+                                                      {
+                                                        "bounds": [
+                                                          1080,
+                                                          1355,
+                                                          1440,
+                                                          1523
+                                                        ],
+                                                        "children": [
+                                                          {
+                                                            "bounds": [
+                                                              1080,
+                                                              1355,
+                                                              1440,
+                                                              1425
+                                                            ],
+                                                            "children": null,
+                                                            "clickable": false,
+                                                            "name": "AppCompatTextView",
+                                                            "resource_id": "qs_title_apg",
+                                                            "scrollable": {
+                                                              "horizontal": false,
+                                                              "vertical": false
+                                                            },
+                                                            "text": "APG",
+                                                            "visible": true
+                                                          },
+                                                          {
+                                                            "bounds": [
+                                                              1080,
+                                                              1425,
+                                                              1440,
+                                                              1523
+                                                            ],
+                                                            "children": null,
+                                                            "clickable": false,
+                                                            "name": "AppCompatTextView",
+                                                            "resource_id": "qs_stat_apg",
+                                                            "scrollable": {
+                                                              "horizontal": false,
+                                                              "vertical": false
+                                                            },
+                                                            "text": "0.2",
+                                                            "visible": true
+                                                          }
+                                                        ],
+                                                        "clickable": false,
+                                                        "name": "RelativeLayout",
+                                                        "resource_id": null,
+                                                        "scrollable": {
+                                                          "horizontal": false,
+                                                          "vertical": false
+                                                        },
+                                                        "text": null,
+                                                        "visible": true
+                                                      }
+                                                    ],
+                                                    "clickable": false,
+                                                    "name": "LinearLayout",
+                                                    "resource_id": "listview_roster_quickstat_container",
+                                                    "scrollable": {
+                                                      "horizontal": false,
+                                                      "vertical": false
+                                                    },
+                                                    "text": null,
+                                                    "visible": true
+                                                  }
+                                                ],
+                                                "clickable": false,
+                                                "name": "FrameLayout",
+                                                "resource_id": "content_card",
+                                                "scrollable": {
+                                                  "horizontal": false,
+                                                  "vertical": false
+                                                },
+                                                "text": null,
+                                                "visible": true
+                                              },
+                                              {
+                                                "bounds": [
+                                                  0,
+                                                  1541,
+                                                  1440,
+                                                  2392
+                                                ],
+                                                "children": [
+                                                  {
+                                                    "bounds": [
+                                                      0,
+                                                      1541,
+                                                      1440,
+                                                      2101
+                                                    ],
+                                                    "children": [
+                                                      {
+                                                        "bounds": [
+                                                          370,
+                                                          1541,
+                                                          1070,
+                                                          2101
+                                                        ],
+                                                        "children": null,
+                                                        "clickable": false,
+                                                        "name": "ImageView",
+                                                        "resource_id": "listview_roster_image",
+                                                        "scrollable": {
+                                                          "horizontal": false,
+                                                          "vertical": false
+                                                        },
+                                                        "text": null,
+                                                        "visible": true
+                                                      }
+                                                    ],
+                                                    "clickable": false,
+                                                    "name": "RelativeLayout",
+                                                    "resource_id": "listview_roster_image_container",
+                                                    "scrollable": {
+                                                      "horizontal": false,
+                                                      "vertical": false
+                                                    },
+                                                    "text": null,
+                                                    "visible": true
+                                                  },
+                                                  {
+                                                    "bounds": [
+                                                      0,
+                                                      2049,
+                                                      1440,
+                                                      2224
+                                                    ],
+                                                    "children": [
+                                                      {
+                                                        "bounds": [
+                                                          0,
+                                                          2049,
+                                                          700,
+                                                          2224
+                                                        ],
+                                                        "children": [
+                                                          {
+                                                            "bounds": [
+                                                              53,
+                                                              2049,
+                                                              378,
+                                                              2137
+                                                            ],
+                                                            "children": null,
+                                                            "clickable": false,
+                                                            "name": "AppCompatTextView",
+                                                            "resource_id": "listview_roster_name",
+                                                            "scrollable": {
+                                                              "horizontal": false,
+                                                              "vertical": false
+                                                            },
+                                                            "text": "Tyler Zeller",
+                                                            "visible": true
+                                                          },
+                                                          {
+                                                            "bounds": [
+                                                              53,
+                                                              2137,
+                                                              217,
+                                                              2224
+                                                            ],
+                                                            "children": null,
+                                                            "clickable": false,
+                                                            "name": "AppCompatTextView",
+                                                            "resource_id": "listview_roster_position",
+                                                            "scrollable": {
+                                                              "horizontal": false,
+                                                              "vertical": false
+                                                            },
+                                                            "text": "Center",
+                                                            "visible": true
+                                                          }
+                                                        ],
+                                                        "clickable": false,
+                                                        "name": "LinearLayout",
+                                                        "resource_id": null,
+                                                        "scrollable": {
+                                                          "horizontal": false,
+                                                          "vertical": false
+                                                        },
+                                                        "text": null,
+                                                        "visible": true
+                                                      },
+                                                      {
+                                                        "bounds": [
+                                                          1258,
+                                                          2049,
+                                                          1440,
+                                                          2224
+                                                        ],
+                                                        "children": null,
+                                                        "clickable": false,
+                                                        "name": "AppCompatTextView",
+                                                        "resource_id": "listview_roster_jersey",
+                                                        "scrollable": {
+                                                          "horizontal": false,
+                                                          "vertical": false
+                                                        },
+                                                        "text": "#44",
+                                                        "visible": true
+                                                      }
+                                                    ],
+                                                    "clickable": false,
+                                                    "name": "RelativeLayout",
+                                                    "resource_id": "listview_roster_name_container",
+                                                    "scrollable": {
+                                                      "horizontal": false,
+                                                      "vertical": false
+                                                    },
+                                                    "text": null,
+                                                    "visible": true
+                                                  },
+                                                  {
+                                                    "bounds": [
+                                                      0,
+                                                      2224,
+                                                      1440,
+                                                      2392
+                                                    ],
+                                                    "children": [
+                                                      {
+                                                        "bounds": [
+                                                          0,
+                                                          2224,
+                                                          360,
+                                                          2392
+                                                        ],
+                                                        "children": [
+                                                          {
+                                                            "bounds": [
+                                                              0,
+                                                              2224,
+                                                              360,
+                                                              2294
+                                                            ],
+                                                            "children": null,
+                                                            "clickable": false,
+                                                            "name": "AppCompatTextView",
+                                                            "resource_id": "qs_title_gp",
+                                                            "scrollable": {
+                                                              "horizontal": false,
+                                                              "vertical": false
+                                                            },
+                                                            "text": "Games",
+                                                            "visible": true
+                                                          },
+                                                          {
+                                                            "bounds": [
+                                                              0,
+                                                              2294,
+                                                              360,
+                                                              2392
+                                                            ],
+                                                            "children": null,
+                                                            "clickable": false,
+                                                            "name": "AppCompatTextView",
+                                                            "resource_id": "qs_stat_gp",
+                                                            "scrollable": {
+                                                              "horizontal": false,
+                                                              "vertical": false
+                                                            },
+                                                            "text": "46",
+                                                            "visible": true
+                                                          }
+                                                        ],
+                                                        "clickable": false,
+                                                        "name": "RelativeLayout",
+                                                        "resource_id": null,
+                                                        "scrollable": {
+                                                          "horizontal": false,
+                                                          "vertical": false
+                                                        },
+                                                        "text": null,
+                                                        "visible": true
+                                                      },
+                                                      {
+                                                        "bounds": [
+                                                          360,
+                                                          2224,
+                                                          720,
+                                                          2392
+                                                        ],
+                                                        "children": [
+                                                          {
+                                                            "bounds": [
+                                                              360,
+                                                              2224,
+                                                              720,
+                                                              2294
+                                                            ],
+                                                            "children": null,
+                                                            "clickable": false,
+                                                            "name": "AppCompatTextView",
+                                                            "resource_id": "qs_title_ppg",
+                                                            "scrollable": {
+                                                              "horizontal": false,
+                                                              "vertical": false
+                                                            },
+                                                            "text": "PPG",
+                                                            "visible": true
+                                                          },
+                                                          {
+                                                            "bounds": [
+                                                              360,
+                                                              2294,
+                                                              720,
+                                                              2392
+                                                            ],
+                                                            "children": null,
+                                                            "clickable": false,
+                                                            "name": "AppCompatTextView",
+                                                            "resource_id": "qs_stat_ppg",
+                                                            "scrollable": {
+                                                              "horizontal": false,
+                                                              "vertical": false
+                                                            },
+                                                            "text": "3.4",
+                                                            "visible": true
+                                                          }
+                                                        ],
+                                                        "clickable": false,
+                                                        "name": "RelativeLayout",
+                                                        "resource_id": null,
+                                                        "scrollable": {
+                                                          "horizontal": false,
+                                                          "vertical": false
+                                                        },
+                                                        "text": null,
+                                                        "visible": true
+                                                      },
+                                                      {
+                                                        "bounds": [
+                                                          720,
+                                                          2224,
+                                                          1080,
+                                                          2392
+                                                        ],
+                                                        "children": [
+                                                          {
+                                                            "bounds": [
+                                                              720,
+                                                              2224,
+                                                              1080,
+                                                              2294
+                                                            ],
+                                                            "children": null,
+                                                            "clickable": false,
+                                                            "name": "AppCompatTextView",
+                                                            "resource_id": "qs_title_rpg",
+                                                            "scrollable": {
+                                                              "horizontal": false,
+                                                              "vertical": false
+                                                            },
+                                                            "text": "RPG",
+                                                            "visible": true
+                                                          },
+                                                          {
+                                                            "bounds": [
+                                                              720,
+                                                              2294,
+                                                              1080,
+                                                              2392
+                                                            ],
+                                                            "children": null,
+                                                            "clickable": false,
+                                                            "name": "AppCompatTextView",
+                                                            "resource_id": "qs_stat_rpg",
+                                                            "scrollable": {
+                                                              "horizontal": false,
+                                                              "vertical": false
+                                                            },
+                                                            "text": "2.5",
+                                                            "visible": true
+                                                          }
+                                                        ],
+                                                        "clickable": false,
+                                                        "name": "RelativeLayout",
+                                                        "resource_id": null,
+                                                        "scrollable": {
+                                                          "horizontal": false,
+                                                          "vertical": false
+                                                        },
+                                                        "text": null,
+                                                        "visible": true
+                                                      },
+                                                      {
+                                                        "bounds": [
+                                                          1080,
+                                                          2224,
+                                                          1440,
+                                                          2392
+                                                        ],
+                                                        "children": [
+                                                          {
+                                                            "bounds": [
+                                                              1080,
+                                                              2224,
+                                                              1440,
+                                                              2294
+                                                            ],
+                                                            "children": null,
+                                                            "clickable": false,
+                                                            "name": "AppCompatTextView",
+                                                            "resource_id": "qs_title_apg",
+                                                            "scrollable": {
+                                                              "horizontal": false,
+                                                              "vertical": false
+                                                            },
+                                                            "text": "APG",
+                                                            "visible": true
+                                                          },
+                                                          {
+                                                            "bounds": [
+                                                              1080,
+                                                              2294,
+                                                              1440,
+                                                              2392
+                                                            ],
+                                                            "children": null,
+                                                            "clickable": false,
+                                                            "name": "AppCompatTextView",
+                                                            "resource_id": "qs_stat_apg",
+                                                            "scrollable": {
+                                                              "horizontal": false,
+                                                              "vertical": false
+                                                            },
+                                                            "text": "0.8",
+                                                            "visible": true
+                                                          }
+                                                        ],
+                                                        "clickable": false,
+                                                        "name": "RelativeLayout",
+                                                        "resource_id": null,
+                                                        "scrollable": {
+                                                          "horizontal": false,
+                                                          "vertical": false
+                                                        },
+                                                        "text": null,
+                                                        "visible": true
+                                                      }
+                                                    ],
+                                                    "clickable": false,
+                                                    "name": "LinearLayout",
+                                                    "resource_id": "listview_roster_quickstat_container",
+                                                    "scrollable": {
+                                                      "horizontal": false,
+                                                      "vertical": false
+                                                    },
+                                                    "text": null,
+                                                    "visible": true
+                                                  }
+                                                ],
+                                                "clickable": false,
+                                                "name": "FrameLayout",
+                                                "resource_id": "content_card",
+                                                "scrollable": {
+                                                  "horizontal": false,
+                                                  "vertical": false
+                                                },
+                                                "text": null,
+                                                "visible": true
+                                              }
+                                            ],
+                                            "clickable": true,
+                                            "name": "ListView",
+                                            "resource_id": "list",
+                                            "scrollable": {
+                                              "horizontal": false,
+                                              "vertical": false
+                                            },
+                                            "text": null,
+                                            "visible": true
+                                          }
+                                        ],
+                                        "clickable": false,
+                                        "name": "RelativeLayout",
+                                        "resource_id": null,
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": null,
+                                        "visible": true
+                                      }
+                                    ],
+                                    "clickable": false,
+                                    "name": "FrameLayout",
+                                    "resource_id": "list_container_can_contain_ad",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": true
+                                  }
+                                ],
+                                "clickable": false,
+                                "name": "FrameLayout",
+                                "resource_id": "content_frame",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": null,
+                                "visible": true
+                              }
+                            ],
+                            "clickable": false,
+                            "name": "LinearLayout",
+                            "resource_id": null,
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": null,
+                            "visible": true
+                          }
+                        ],
+                        "clickable": false,
+                        "name": "DrawerLayout",
+                        "resource_id": "drawer_layout",
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      }
+                    ],
+                    "clickable": false,
+                    "name": "ContentFrameLayout",
+                    "resource_id": "content",
+                    "scrollable": {
+                      "horizontal": false,
+                      "vertical": false
+                    },
+                    "text": null,
+                    "visible": true
+                  }
+                ],
+                "clickable": false,
+                "name": "FitWindowsLinearLayout",
+                "resource_id": "action_bar_root",
+                "scrollable": {
+                  "horizontal": false,
+                  "vertical": false
+                },
+                "text": null,
+                "visible": true
+              }
+            ],
+            "clickable": false,
+            "name": "FrameLayout",
+            "resource_id": null,
+            "scrollable": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "text": null,
+            "visible": true
+          }
+        ],
+        "clickable": false,
+        "name": "LinearLayout",
+        "resource_id": null,
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      },
+      {
+        "bounds": [
+          0,
+          2392,
+          1440,
+          2560
+        ],
+        "children": null,
+        "clickable": false,
+        "name": "View",
+        "resource_id": "navigationBarBackground",
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      },
+      {
+        "bounds": [
+          0,
+          0,
+          1440,
+          84
+        ],
+        "children": null,
+        "clickable": false,
+        "name": "View",
+        "resource_id": "statusBarBackground",
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      }
+    ],
+    "clickable": false,
+    "name": "PhoneWindow$DecorView",
+    "resource_id": null,
+    "scrollable": {
+      "horizontal": false,
+      "vertical": false
+    },
+    "text": null,
+    "visible": true
+  },
+  "keyboard": false
+}

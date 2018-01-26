@@ -1,0 +1,510 @@
+{
+  "activity_name": "Activity_Main",
+  "app": {
+    "category": "Food & Drink",
+    "package_name": "com.done.faasos",
+    "store_name": "FAASOS - Order Food Online"
+  },
+  "hierarchy": {
+    "bounds": [
+      0,
+      0,
+      1440,
+      2560
+    ],
+    "children": [
+      {
+        "bounds": [
+          0,
+          0,
+          1440,
+          2392
+        ],
+        "children": [
+          {
+            "bounds": [
+              0,
+              0,
+              1440,
+              2392
+            ],
+            "children": [
+              {
+                "bounds": [
+                  0,
+                  0,
+                  1440,
+                  2392
+                ],
+                "children": [
+                  {
+                    "bounds": [
+                      0,
+                      0,
+                      1440,
+                      2392
+                    ],
+                    "children": [
+                      {
+                        "bounds": [
+                          0,
+                          0,
+                          1440,
+                          2392
+                        ],
+                        "children": [
+                          {
+                            "bounds": [
+                              0,
+                              0,
+                              1440,
+                              2392
+                            ],
+                            "children": [
+                              {
+                                "bounds": [
+                                  0,
+                                  84,
+                                  1440,
+                                  2392
+                                ],
+                                "children": [
+                                  {
+                                    "bounds": [
+                                      0,
+                                      84,
+                                      1440,
+                                      2392
+                                    ],
+                                    "children": [
+                                      {
+                                        "bounds": [
+                                          0,
+                                          84,
+                                          1440,
+                                          280
+                                        ],
+                                        "children": [
+                                          {
+                                            "bounds": [
+                                              196,
+                                              84,
+                                              1440,
+                                              280
+                                            ],
+                                            "children": [
+                                              {
+                                                "bounds": [
+                                                  1436,
+                                                  84,
+                                                  1440,
+                                                  280
+                                                ],
+                                                "children": null,
+                                                "clickable": false,
+                                                "name": "View",
+                                                "resource_id": "menu_info_tooltip",
+                                                "scrollable": {
+                                                  "horizontal": false,
+                                                  "vertical": false
+                                                },
+                                                "text": null,
+                                                "visible": true
+                                              },
+                                              {
+                                                "bounds": [
+                                                  196,
+                                                  84,
+                                                  1436,
+                                                  280
+                                                ],
+                                                "children": [
+                                                  {
+                                                    "bounds": [
+                                                      196,
+                                                      96,
+                                                      635,
+                                                      166
+                                                    ],
+                                                    "children": null,
+                                                    "clickable": false,
+                                                    "name": "TextView_Faasos",
+                                                    "resource_id": "aa_tv_DeliverHeading",
+                                                    "scrollable": {
+                                                      "horizontal": false,
+                                                      "vertical": false
+                                                    },
+                                                    "text": "YOUR LOCALITY",
+                                                    "visible": true
+                                                  },
+                                                  {
+                                                    "bounds": [
+                                                      196,
+                                                      166,
+                                                      1436,
+                                                      268
+                                                    ],
+                                                    "children": null,
+                                                    "clickable": false,
+                                                    "name": "TextView_Faasos",
+                                                    "resource_id": "aa_tv_DeliverLocation",
+                                                    "scrollable": {
+                                                      "horizontal": false,
+                                                      "vertical": false
+                                                    },
+                                                    "text": "32 Aquavista Way, San Francisco, CA 94131, USA.",
+                                                    "visible": true
+                                                  }
+                                                ],
+                                                "clickable": true,
+                                                "name": "LinearLayout",
+                                                "resource_id": "fr_ll_localityContainer",
+                                                "scrollable": {
+                                                  "horizontal": false,
+                                                  "vertical": false
+                                                },
+                                                "text": null,
+                                                "visible": true
+                                              }
+                                            ],
+                                            "clickable": false,
+                                            "name": "RelativeLayout",
+                                            "resource_id": null,
+                                            "scrollable": {
+                                              "horizontal": false,
+                                              "vertical": false
+                                            },
+                                            "text": null,
+                                            "visible": true
+                                          },
+                                          {
+                                            "bounds": [
+                                              0,
+                                              84,
+                                              196,
+                                              280
+                                            ],
+                                            "children": null,
+                                            "clickable": true,
+                                            "name": "ImageButton",
+                                            "resource_id": null,
+                                            "scrollable": {
+                                              "horizontal": false,
+                                              "vertical": false
+                                            },
+                                            "text": null,
+                                            "visible": true
+                                          },
+                                          {
+                                            "bounds": [
+                                              1440,
+                                              84,
+                                              1440,
+                                              280
+                                            ],
+                                            "children": null,
+                                            "clickable": false,
+                                            "name": "ActionMenuView",
+                                            "resource_id": null,
+                                            "scrollable": {
+                                              "horizontal": false,
+                                              "vertical": false
+                                            },
+                                            "text": null,
+                                            "visible": false
+                                          }
+                                        ],
+                                        "clickable": false,
+                                        "name": "Toolbar",
+                                        "resource_id": "toolbar_StoreNotFound",
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": null,
+                                        "visible": true
+                                      },
+                                      {
+                                        "bounds": [
+                                          0,
+                                          280,
+                                          1440,
+                                          2392
+                                        ],
+                                        "children": [
+                                          {
+                                            "bounds": [
+                                              0,
+                                              280,
+                                              1440,
+                                              1965
+                                            ],
+                                            "children": [
+                                              {
+                                                "bounds": [
+                                                  399,
+                                                  350,
+                                                  1041,
+                                                  992
+                                                ],
+                                                "children": null,
+                                                "clickable": false,
+                                                "name": "AppCompatImageView",
+                                                "resource_id": null,
+                                                "scrollable": {
+                                                  "horizontal": false,
+                                                  "vertical": false
+                                                },
+                                                "text": null,
+                                                "visible": true
+                                              },
+                                              {
+                                                "bounds": [
+                                                  35,
+                                                  1080,
+                                                  1405,
+                                                  1278
+                                                ],
+                                                "children": null,
+                                                "clickable": false,
+                                                "name": "TextView_Faasos",
+                                                "resource_id": "fr_store_not_found_message",
+                                                "scrollable": {
+                                                  "horizontal": false,
+                                                  "vertical": false
+                                                },
+                                                "text": "We are not delivering in this area yet. Please give us your email Id (We won\u2019t spam you, God Promise!) if you want us to be there. We will keep you updated.",
+                                                "visible": true
+                                              },
+                                              {
+                                                "bounds": [
+                                                  35,
+                                                  1296,
+                                                  1405,
+                                                  1506
+                                                ],
+                                                "children": [
+                                                  {
+                                                    "bounds": [
+                                                      35,
+                                                      1348,
+                                                      1405,
+                                                      1506
+                                                    ],
+                                                    "children": null,
+                                                    "clickable": true,
+                                                    "name": "EditText_Faasos",
+                                                    "resource_id": "fr_et_email",
+                                                    "scrollable": {
+                                                      "horizontal": false,
+                                                      "vertical": false
+                                                    },
+                                                    "text": "appcrawler2@gmail.com",
+                                                    "visible": true
+                                                  }
+                                                ],
+                                                "clickable": false,
+                                                "name": "TextInputLayoutFaasos",
+                                                "resource_id": "fr_til_flatno",
+                                                "scrollable": {
+                                                  "horizontal": false,
+                                                  "vertical": false
+                                                },
+                                                "text": null,
+                                                "visible": true
+                                              },
+                                              {
+                                                "bounds": [
+                                                  35,
+                                                  1559,
+                                                  1405,
+                                                  1727
+                                                ],
+                                                "children": null,
+                                                "clickable": true,
+                                                "name": "Button_Faasos",
+                                                "resource_id": "btnNotifyMe",
+                                                "scrollable": {
+                                                  "horizontal": false,
+                                                  "vertical": false
+                                                },
+                                                "text": "NOTIFY ME",
+                                                "visible": true
+                                              },
+                                              {
+                                                "bounds": [
+                                                  35,
+                                                  1762,
+                                                  1405,
+                                                  1930
+                                                ],
+                                                "children": null,
+                                                "clickable": true,
+                                                "name": "Button_Faasos",
+                                                "resource_id": "btnBrowse",
+                                                "scrollable": {
+                                                  "horizontal": false,
+                                                  "vertical": false
+                                                },
+                                                "text": "MANUALLY SELECT LOCATION",
+                                                "visible": true
+                                              }
+                                            ],
+                                            "clickable": false,
+                                            "name": "LinearLayout",
+                                            "resource_id": "fr_ll_storeNotFoundHeader",
+                                            "scrollable": {
+                                              "horizontal": false,
+                                              "vertical": false
+                                            },
+                                            "text": null,
+                                            "visible": true
+                                          }
+                                        ],
+                                        "clickable": false,
+                                        "name": "ScrollView",
+                                        "resource_id": null,
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": true
+                                        },
+                                        "text": null,
+                                        "visible": true
+                                      }
+                                    ],
+                                    "clickable": false,
+                                    "name": "RelativeLayout",
+                                    "resource_id": null,
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": true
+                                  }
+                                ],
+                                "clickable": false,
+                                "name": "FrameLayout",
+                                "resource_id": "am_fragmentContainer",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": null,
+                                "visible": true
+                              }
+                            ],
+                            "clickable": false,
+                            "name": "FrameLayout",
+                            "resource_id": null,
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": null,
+                            "visible": true
+                          }
+                        ],
+                        "clickable": false,
+                        "name": "DrawerLayout",
+                        "resource_id": "drawer_layout",
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      }
+                    ],
+                    "clickable": false,
+                    "name": "ContentFrameLayout",
+                    "resource_id": "content",
+                    "scrollable": {
+                      "horizontal": false,
+                      "vertical": false
+                    },
+                    "text": null,
+                    "visible": true
+                  }
+                ],
+                "clickable": false,
+                "name": "FitWindowsFrameLayout",
+                "resource_id": "action_bar_root",
+                "scrollable": {
+                  "horizontal": false,
+                  "vertical": false
+                },
+                "text": null,
+                "visible": true
+              }
+            ],
+            "clickable": false,
+            "name": "FrameLayout",
+            "resource_id": null,
+            "scrollable": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "text": null,
+            "visible": true
+          }
+        ],
+        "clickable": false,
+        "name": "LinearLayout",
+        "resource_id": null,
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      },
+      {
+        "bounds": [
+          0,
+          2392,
+          1440,
+          2560
+        ],
+        "children": null,
+        "clickable": false,
+        "name": "View",
+        "resource_id": "navigationBarBackground",
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      },
+      {
+        "bounds": [
+          0,
+          0,
+          1440,
+          84
+        ],
+        "children": null,
+        "clickable": false,
+        "name": "View",
+        "resource_id": "statusBarBackground",
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      }
+    ],
+    "clickable": false,
+    "name": "PhoneWindow$DecorView",
+    "resource_id": null,
+    "scrollable": {
+      "horizontal": false,
+      "vertical": false
+    },
+    "text": null,
+    "visible": true
+  },
+  "keyboard": false
+}

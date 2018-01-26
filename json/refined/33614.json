@@ -1,0 +1,324 @@
+{
+  "activity_name": "Activity_ShareAndEarn",
+  "app": {
+    "category": "Food & Drink",
+    "package_name": "com.done.faasos",
+    "store_name": "FAASOS - Order Food Online"
+  },
+  "hierarchy": {
+    "bounds": [
+      0,
+      0,
+      1440,
+      2560
+    ],
+    "children": [
+      {
+        "bounds": [
+          0,
+          0,
+          1440,
+          2392
+        ],
+        "children": [
+          {
+            "bounds": [
+              0,
+              0,
+              1440,
+              2392
+            ],
+            "children": [
+              {
+                "bounds": [
+                  0,
+                  0,
+                  1440,
+                  2392
+                ],
+                "children": [
+                  {
+                    "bounds": [
+                      0,
+                      0,
+                      1440,
+                      2392
+                    ],
+                    "children": [
+                      {
+                        "bounds": [
+                          0,
+                          0,
+                          1440,
+                          2392
+                        ],
+                        "children": [
+                          {
+                            "bounds": [
+                              0,
+                              0,
+                              1440,
+                              2392
+                            ],
+                            "children": [
+                              {
+                                "bounds": [
+                                  0,
+                                  84,
+                                  1440,
+                                  280
+                                ],
+                                "children": [
+                                  {
+                                    "bounds": [
+                                      0,
+                                      84,
+                                      196,
+                                      280
+                                    ],
+                                    "children": null,
+                                    "clickable": true,
+                                    "name": "ImageButton",
+                                    "resource_id": null,
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": true
+                                  },
+                                  {
+                                    "bounds": [
+                                      196,
+                                      147,
+                                      621,
+                                      217
+                                    ],
+                                    "children": null,
+                                    "clickable": false,
+                                    "name": "TextView_Faasos",
+                                    "resource_id": "title",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": "INVITE & EARN",
+                                    "visible": true
+                                  }
+                                ],
+                                "clickable": false,
+                                "name": "Toolbar",
+                                "resource_id": "toolbar",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": null,
+                                "visible": true
+                              },
+                              {
+                                "bounds": [
+                                  0,
+                                  280,
+                                  1440,
+                                  2392
+                                ],
+                                "children": [
+                                  {
+                                    "bounds": [
+                                      421,
+                                      877,
+                                      1018,
+                                      1474
+                                    ],
+                                    "children": null,
+                                    "clickable": false,
+                                    "name": "AppCompatImageView",
+                                    "resource_id": "preLoginErrorImage",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": true
+                                  },
+                                  {
+                                    "bounds": [
+                                      0,
+                                      1530,
+                                      1440,
+                                      1596
+                                    ],
+                                    "children": null,
+                                    "clickable": false,
+                                    "name": "TextView_Faasos",
+                                    "resource_id": "preLoginErrorText",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": "You need to sign in to do that :)",
+                                    "visible": true
+                                  },
+                                  {
+                                    "bounds": [
+                                      281,
+                                      1652,
+                                      1159,
+                                      1830
+                                    ],
+                                    "children": null,
+                                    "clickable": true,
+                                    "name": "Button_Faasos",
+                                    "resource_id": "preLoginSignInButton",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": "SIGN IN",
+                                    "visible": true
+                                  }
+                                ],
+                                "clickable": false,
+                                "name": "LinearLayout",
+                                "resource_id": null,
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": null,
+                                "visible": true
+                              },
+                              {
+                                "bounds": [
+                                  0,
+                                  280,
+                                  1440,
+                                  280
+                                ],
+                                "children": [],
+                                "clickable": false,
+                                "name": "ScrollView",
+                                "resource_id": null,
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": true
+                                },
+                                "text": null,
+                                "visible": false
+                              }
+                            ],
+                            "clickable": false,
+                            "name": "RelativeLayout",
+                            "resource_id": null,
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": null,
+                            "visible": true
+                          }
+                        ],
+                        "clickable": false,
+                        "name": "CoordinatorLayout",
+                        "resource_id": null,
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      }
+                    ],
+                    "clickable": false,
+                    "name": "ContentFrameLayout",
+                    "resource_id": "content",
+                    "scrollable": {
+                      "horizontal": false,
+                      "vertical": false
+                    },
+                    "text": null,
+                    "visible": true
+                  }
+                ],
+                "clickable": false,
+                "name": "FitWindowsFrameLayout",
+                "resource_id": "action_bar_root",
+                "scrollable": {
+                  "horizontal": false,
+                  "vertical": false
+                },
+                "text": null,
+                "visible": true
+              }
+            ],
+            "clickable": false,
+            "name": "FrameLayout",
+            "resource_id": null,
+            "scrollable": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "text": null,
+            "visible": true
+          }
+        ],
+        "clickable": false,
+        "name": "LinearLayout",
+        "resource_id": null,
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      },
+      {
+        "bounds": [
+          0,
+          2392,
+          1440,
+          2560
+        ],
+        "children": null,
+        "clickable": false,
+        "name": "View",
+        "resource_id": "navigationBarBackground",
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      },
+      {
+        "bounds": [
+          0,
+          0,
+          1440,
+          84
+        ],
+        "children": null,
+        "clickable": false,
+        "name": "View",
+        "resource_id": "statusBarBackground",
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      }
+    ],
+    "clickable": false,
+    "name": "PhoneWindow$DecorView",
+    "resource_id": null,
+    "scrollable": {
+      "horizontal": false,
+      "vertical": false
+    },
+    "text": null,
+    "visible": true
+  },
+  "keyboard": false
+}

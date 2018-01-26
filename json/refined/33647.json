@@ -1,0 +1,400 @@
+{
+  "activity_name": "BrowserActivity",
+  "app": {
+    "category": "Communication",
+    "package_name": "com.android.browser",
+    "store_name": "Android Browser"
+  },
+  "hierarchy": {
+    "bounds": [
+      0,
+      0,
+      1440,
+      2392
+    ],
+    "children": [
+      {
+        "bounds": [
+          0,
+          0,
+          1440,
+          2392
+        ],
+        "children": [
+          {
+            "bounds": [
+              0,
+              84,
+              1440,
+              2392
+            ],
+            "children": [
+              {
+                "bounds": [
+                  0,
+                  84,
+                  1440,
+                  2392
+                ],
+                "children": [
+                  {
+                    "bounds": [
+                      0,
+                      84,
+                      1440,
+                      266
+                    ],
+                    "children": [
+                      {
+                        "bounds": [
+                          0,
+                          84,
+                          1440,
+                          266
+                        ],
+                        "children": [
+                          {
+                            "bounds": [
+                              0,
+                              84,
+                              1440,
+                              266
+                            ],
+                            "children": [
+                              {
+                                "bounds": [
+                                  0,
+                                  84,
+                                  1440,
+                                  266
+                                ],
+                                "children": [
+                                  {
+                                    "bounds": [
+                                      28,
+                                      84,
+                                      1076,
+                                      266
+                                    ],
+                                    "children": [
+                                      {
+                                        "bounds": [
+                                          28,
+                                          84,
+                                          28,
+                                          84
+                                        ],
+                                        "children": null,
+                                        "clickable": false,
+                                        "name": "ImageView",
+                                        "resource_id": "incognito_icon",
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": null,
+                                        "visible": false
+                                      },
+                                      {
+                                        "bounds": [
+                                          33,
+                                          84,
+                                          187,
+                                          266
+                                        ],
+                                        "children": [
+                                          {
+                                            "bounds": [
+                                              54,
+                                              119,
+                                              166,
+                                              231
+                                            ],
+                                            "children": null,
+                                            "clickable": false,
+                                            "name": "ImageView",
+                                            "resource_id": "favicon",
+                                            "scrollable": {
+                                              "horizontal": false,
+                                              "vertical": false
+                                            },
+                                            "text": null,
+                                            "visible": true
+                                          }
+                                        ],
+                                        "clickable": true,
+                                        "name": "FrameLayout",
+                                        "resource_id": "iconcombo",
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": null,
+                                        "visible": true
+                                      },
+                                      {
+                                        "bounds": [
+                                          187,
+                                          84,
+                                          1072,
+                                          266
+                                        ],
+                                        "children": null,
+                                        "clickable": true,
+                                        "name": "UrlInputView",
+                                        "resource_id": "url",
+                                        "scrollable": {
+                                          "horizontal": false,
+                                          "vertical": false
+                                        },
+                                        "text": "https://www.google.com/?gws_rd=ssl",
+                                        "visible": true
+                                      }
+                                    ],
+                                    "clickable": false,
+                                    "name": "LinearLayout",
+                                    "resource_id": "title_bg",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": true
+                                  },
+                                  {
+                                    "bounds": [
+                                      1104,
+                                      84,
+                                      1272,
+                                      266
+                                    ],
+                                    "children": null,
+                                    "clickable": true,
+                                    "name": "ImageButton",
+                                    "resource_id": "tab_switcher",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": true
+                                  },
+                                  {
+                                    "bounds": [
+                                      1272,
+                                      84,
+                                      1440,
+                                      266
+                                    ],
+                                    "children": null,
+                                    "clickable": true,
+                                    "name": "ImageButton",
+                                    "resource_id": "more",
+                                    "scrollable": {
+                                      "horizontal": false,
+                                      "vertical": false
+                                    },
+                                    "text": null,
+                                    "visible": true
+                                  }
+                                ],
+                                "clickable": false,
+                                "name": "NavigationBarPhone",
+                                "resource_id": "taburlbar",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": null,
+                                "visible": true
+                              },
+                              {
+                                "bounds": [
+                                  0,
+                                  84,
+                                  0,
+                                  84
+                                ],
+                                "children": null,
+                                "clickable": false,
+                                "name": "ViewStub",
+                                "resource_id": "autologin_stub",
+                                "scrollable": {
+                                  "horizontal": false,
+                                  "vertical": false
+                                },
+                                "text": null,
+                                "visible": false
+                              }
+                            ],
+                            "clickable": false,
+                            "name": "RelativeLayout",
+                            "resource_id": "titlebar",
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": null,
+                            "visible": true
+                          }
+                        ],
+                        "clickable": false,
+                        "name": "TitleBar",
+                        "resource_id": null,
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      }
+                    ],
+                    "clickable": false,
+                    "name": "FrameLayout",
+                    "resource_id": "fixed_titlebar_container",
+                    "scrollable": {
+                      "horizontal": false,
+                      "vertical": false
+                    },
+                    "text": null,
+                    "visible": true
+                  },
+                  {
+                    "bounds": [
+                      0,
+                      266,
+                      1440,
+                      2392
+                    ],
+                    "children": [
+                      {
+                        "bounds": [
+                          0,
+                          266,
+                          1440,
+                          2392
+                        ],
+                        "children": [
+                          {
+                            "bounds": [
+                              0,
+                              266,
+                              1440,
+                              2392
+                            ],
+                            "children": [
+                              {
+                                "bounds": [
+                                  0,
+                                  266,
+                                  1440,
+                                  2392
+                                ],
+                                "children": null,
+                                "clickable": true,
+                                "name": "BrowserWebView",
+                                "resource_id": null,
+                                "scrollable": {
+                                  "horizontal": true,
+                                  "vertical": true
+                                },
+                                "text": null,
+                                "visible": true
+                              }
+                            ],
+                            "clickable": false,
+                            "name": "FrameLayout",
+                            "resource_id": "webview_wrapper",
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": null,
+                            "visible": true
+                          },
+                          {
+                            "bounds": [
+                              0,
+                              266,
+                              0,
+                              266
+                            ],
+                            "children": null,
+                            "clickable": false,
+                            "name": "ViewStub",
+                            "resource_id": "geolocation_permissions_prompt",
+                            "scrollable": {
+                              "horizontal": false,
+                              "vertical": false
+                            },
+                            "text": null,
+                            "visible": false
+                          }
+                        ],
+                        "clickable": false,
+                        "name": "LinearLayout",
+                        "resource_id": null,
+                        "scrollable": {
+                          "horizontal": false,
+                          "vertical": false
+                        },
+                        "text": null,
+                        "visible": true
+                      }
+                    ],
+                    "clickable": false,
+                    "name": "FrameLayout",
+                    "resource_id": "main_content",
+                    "scrollable": {
+                      "horizontal": false,
+                      "vertical": false
+                    },
+                    "text": null,
+                    "visible": true
+                  }
+                ],
+                "clickable": false,
+                "name": "CustomScreenLinearLayout",
+                "resource_id": "vertical_layout",
+                "scrollable": {
+                  "horizontal": false,
+                  "vertical": false
+                },
+                "text": null,
+                "visible": true
+              }
+            ],
+            "clickable": false,
+            "name": "FrameLayout",
+            "resource_id": "content",
+            "scrollable": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "text": null,
+            "visible": true
+          }
+        ],
+        "clickable": false,
+        "name": "FrameLayout",
+        "resource_id": null,
+        "scrollable": {
+          "horizontal": false,
+          "vertical": false
+        },
+        "text": null,
+        "visible": true
+      }
+    ],
+    "clickable": false,
+    "name": "PhoneWindow$DecorView",
+    "resource_id": null,
+    "scrollable": {
+      "horizontal": false,
+      "vertical": false
+    },
+    "text": null,
+    "visible": true
+  },
+  "keyboard": false
+}
