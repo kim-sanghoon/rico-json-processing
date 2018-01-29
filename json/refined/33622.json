@@ -62,6 +62,7 @@
                             ],
                             "children": null,
                             "clickable": false,
+                            "full_name": "android.widget.TextView",
                             "name": "TextView",
                             "resource_id": "noBarcodeMatchText",
                             "scrollable": {
@@ -96,6 +97,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.view.View",
                                     "name": "View",
                                     "resource_id": null,
                                     "scrollable": {
@@ -130,6 +132,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "com.ebay.android.widget.RemoteImageView",
                                             "name": "RemoteImageView",
                                             "resource_id": "image",
                                             "scrollable": {
@@ -141,6 +144,7 @@
                                           }
                                         ],
                                         "clickable": false,
+                                        "full_name": "android.widget.FrameLayout",
                                         "name": "FrameLayout",
                                         "resource_id": "image_frame",
                                         "scrollable": {
@@ -159,6 +163,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.widget.TextView",
                                         "name": "TextView",
                                         "resource_id": "text1",
                                         "scrollable": {
@@ -185,6 +190,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "android.widget.TextView",
                                             "name": "TextView",
                                             "resource_id": "text1",
                                             "scrollable": {
@@ -203,6 +209,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "android.widget.TextView",
                                             "name": "TextView",
                                             "resource_id": "text2",
                                             "scrollable": {
@@ -214,6 +221,7 @@
                                           }
                                         ],
                                         "clickable": false,
+                                        "full_name": "android.widget.LinearLayout",
                                         "name": "LinearLayout",
                                         "resource_id": "price_layout",
                                         "scrollable": {
@@ -232,6 +240,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.widget.TextView",
                                         "name": "TextView",
                                         "resource_id": "text4",
                                         "scrollable": {
@@ -250,6 +259,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.widget.TextView",
                                         "name": "TextView",
                                         "resource_id": "text3",
                                         "scrollable": {
@@ -268,6 +278,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.view.View",
                                         "name": "View",
                                         "resource_id": "root_cell_layout",
                                         "scrollable": {
@@ -279,6 +290,7 @@
                                       }
                                     ],
                                     "clickable": false,
+                                    "full_name": "android.widget.RelativeLayout",
                                     "name": "RelativeLayout",
                                     "resource_id": null,
                                     "scrollable": {
@@ -313,6 +325,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "com.ebay.android.widget.RemoteImageView",
                                             "name": "RemoteImageView",
                                             "resource_id": "image",
                                             "scrollable": {
@@ -324,6 +337,7 @@
                                           }
                                         ],
                                         "clickable": false,
+                                        "full_name": "android.widget.FrameLayout",
                                         "name": "FrameLayout",
                                         "resource_id": "image_frame",
                                         "scrollable": {
@@ -342,6 +356,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.widget.TextView",
                                         "name": "TextView",
                                         "resource_id": "text1",
                                         "scrollable": {
@@ -368,6 +383,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "android.widget.TextView",
                                             "name": "TextView",
                                             "resource_id": "text1",
                                             "scrollable": {
@@ -386,6 +402,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "android.widget.TextView",
                                             "name": "TextView",
                                             "resource_id": "text2",
                                             "scrollable": {
@@ -397,6 +414,7 @@
                                           }
                                         ],
                                         "clickable": false,
+                                        "full_name": "android.widget.LinearLayout",
                                         "name": "LinearLayout",
                                         "resource_id": "price_layout",
                                         "scrollable": {
@@ -415,6 +433,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.widget.TextView",
                                         "name": "TextView",
                                         "resource_id": "text4",
                                         "scrollable": {
@@ -433,6 +452,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.widget.TextView",
                                         "name": "TextView",
                                         "resource_id": "text3",
                                         "scrollable": {
@@ -451,6 +471,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.view.View",
                                         "name": "View",
                                         "resource_id": "root_cell_layout",
                                         "scrollable": {
@@ -462,6 +483,7 @@
                                       }
                                     ],
                                     "clickable": false,
+                                    "full_name": "android.widget.RelativeLayout",
                                     "name": "RelativeLayout",
                                     "resource_id": null,
                                     "scrollable": {
@@ -496,6 +518,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "com.ebay.android.widget.RemoteImageView",
                                             "name": "RemoteImageView",
                                             "resource_id": "image",
                                             "scrollable": {
@@ -507,6 +530,7 @@
                                           }
                                         ],
                                         "clickable": false,
+                                        "full_name": "android.widget.FrameLayout",
                                         "name": "FrameLayout",
                                         "resource_id": "image_frame",
                                         "scrollable": {
@@ -525,6 +549,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.widget.TextView",
                                         "name": "TextView",
                                         "resource_id": "text1",
                                         "scrollable": {
@@ -551,6 +576,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "android.widget.TextView",
                                             "name": "TextView",
                                             "resource_id": "text1",
                                             "scrollable": {
@@ -569,6 +595,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "android.widget.TextView",
                                             "name": "TextView",
                                             "resource_id": "text2",
                                             "scrollable": {
@@ -580,6 +607,7 @@
                                           }
                                         ],
                                         "clickable": false,
+                                        "full_name": "android.widget.LinearLayout",
                                         "name": "LinearLayout",
                                         "resource_id": "price_layout",
                                         "scrollable": {
@@ -598,6 +626,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.widget.TextView",
                                         "name": "TextView",
                                         "resource_id": "text4",
                                         "scrollable": {
@@ -616,6 +645,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.widget.TextView",
                                         "name": "TextView",
                                         "resource_id": "text3",
                                         "scrollable": {
@@ -634,6 +664,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.view.View",
                                         "name": "View",
                                         "resource_id": "root_cell_layout",
                                         "scrollable": {
@@ -645,6 +676,7 @@
                                       }
                                     ],
                                     "clickable": false,
+                                    "full_name": "android.widget.RelativeLayout",
                                     "name": "RelativeLayout",
                                     "resource_id": null,
                                     "scrollable": {
@@ -679,6 +711,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "com.ebay.android.widget.RemoteImageView",
                                             "name": "RemoteImageView",
                                             "resource_id": "image",
                                             "scrollable": {
@@ -690,6 +723,7 @@
                                           }
                                         ],
                                         "clickable": false,
+                                        "full_name": "android.widget.FrameLayout",
                                         "name": "FrameLayout",
                                         "resource_id": "image_frame",
                                         "scrollable": {
@@ -708,6 +742,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.widget.TextView",
                                         "name": "TextView",
                                         "resource_id": "text1",
                                         "scrollable": {
@@ -734,6 +769,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "android.widget.TextView",
                                             "name": "TextView",
                                             "resource_id": "text5",
                                             "scrollable": {
@@ -745,6 +781,7 @@
                                           }
                                         ],
                                         "clickable": false,
+                                        "full_name": "android.widget.LinearLayout",
                                         "name": "LinearLayout",
                                         "resource_id": "price_layout",
                                         "scrollable": {
@@ -756,6 +793,7 @@
                                       }
                                     ],
                                     "clickable": false,
+                                    "full_name": "android.widget.RelativeLayout",
                                     "name": "RelativeLayout",
                                     "resource_id": null,
                                     "scrollable": {
@@ -767,6 +805,7 @@
                                   }
                                 ],
                                 "clickable": true,
+                                "full_name": "android.widget.GridView",
                                 "name": "GridView",
                                 "resource_id": "grid",
                                 "scrollable": {
@@ -778,6 +817,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.LinearLayout",
                             "name": "LinearLayout",
                             "resource_id": "listContainer",
                             "scrollable": {
@@ -796,6 +836,7 @@
                             ],
                             "children": null,
                             "clickable": false,
+                            "full_name": "android.widget.TextView",
                             "name": "TextView",
                             "resource_id": "refinements_summary",
                             "scrollable": {
@@ -807,6 +848,7 @@
                           }
                         ],
                         "clickable": false,
+                        "full_name": "android.widget.FrameLayout",
                         "name": "FrameLayout",
                         "resource_id": "search_result_fragment",
                         "scrollable": {
@@ -849,6 +891,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "home_search_text",
                                     "scrollable": {
@@ -860,6 +903,7 @@
                                   }
                                 ],
                                 "clickable": true,
+                                "full_name": "android.widget.RelativeLayout",
                                 "name": "RelativeLayout",
                                 "resource_id": "searchBarContainer",
                                 "scrollable": {
@@ -878,6 +922,7 @@
                                 ],
                                 "children": null,
                                 "clickable": true,
+                                "full_name": "android.widget.TextView",
                                 "name": "TextView",
                                 "resource_id": "saveSearch",
                                 "scrollable": {
@@ -912,6 +957,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.widget.TextView",
                                         "name": "TextView",
                                         "resource_id": "text1",
                                         "scrollable": {
@@ -930,6 +976,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.widget.TextView",
                                         "name": "TextView",
                                         "resource_id": null,
                                         "scrollable": {
@@ -941,6 +988,7 @@
                                       }
                                     ],
                                     "clickable": false,
+                                    "full_name": "android.widget.LinearLayout",
                                     "name": "LinearLayout",
                                     "resource_id": null,
                                     "scrollable": {
@@ -952,6 +1000,7 @@
                                   }
                                 ],
                                 "clickable": true,
+                                "full_name": "android.widget.Spinner",
                                 "name": "Spinner",
                                 "resource_id": "sortSpinner",
                                 "scrollable": {
@@ -970,6 +1019,7 @@
                                 ],
                                 "children": null,
                                 "clickable": true,
+                                "full_name": "android.widget.TextView",
                                 "name": "TextView",
                                 "resource_id": "viewSwitcher",
                                 "scrollable": {
@@ -981,6 +1031,7 @@
                               }
                             ],
                             "clickable": true,
+                            "full_name": "android.widget.LinearLayout",
                             "name": "LinearLayout",
                             "resource_id": "search_buttonbar_fragment",
                             "scrollable": {
@@ -1023,6 +1074,7 @@
                                         ],
                                         "children": null,
                                         "clickable": true,
+                                        "full_name": "android.widget.Button",
                                         "name": "Button",
                                         "resource_id": null,
                                         "scrollable": {
@@ -1041,6 +1093,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.view.View",
                                         "name": "View",
                                         "resource_id": null,
                                         "scrollable": {
@@ -1059,6 +1112,7 @@
                                         ],
                                         "children": null,
                                         "clickable": true,
+                                        "full_name": "android.widget.Button",
                                         "name": "Button",
                                         "resource_id": null,
                                         "scrollable": {
@@ -1077,6 +1131,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.view.View",
                                         "name": "View",
                                         "resource_id": null,
                                         "scrollable": {
@@ -1095,6 +1150,7 @@
                                         ],
                                         "children": null,
                                         "clickable": true,
+                                        "full_name": "android.widget.Button",
                                         "name": "Button",
                                         "resource_id": null,
                                         "scrollable": {
@@ -1113,6 +1169,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.view.View",
                                         "name": "View",
                                         "resource_id": null,
                                         "scrollable": {
@@ -1131,6 +1188,7 @@
                                         ],
                                         "children": null,
                                         "clickable": true,
+                                        "full_name": "android.widget.Button",
                                         "name": "Button",
                                         "resource_id": null,
                                         "scrollable": {
@@ -1149,6 +1207,7 @@
                                         ],
                                         "children": null,
                                         "clickable": true,
+                                        "full_name": "android.widget.Button",
                                         "name": "Button",
                                         "resource_id": null,
                                         "scrollable": {
@@ -1167,6 +1226,7 @@
                                         ],
                                         "children": null,
                                         "clickable": true,
+                                        "full_name": "android.widget.Button",
                                         "name": "Button",
                                         "resource_id": null,
                                         "scrollable": {
@@ -1178,6 +1238,7 @@
                                       }
                                     ],
                                     "clickable": false,
+                                    "full_name": "android.widget.LinearLayout",
                                     "name": "LinearLayout",
                                     "resource_id": "search_refinement_carousel_scroll_view",
                                     "scrollable": {
@@ -1189,6 +1250,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.HorizontalScrollView",
                                 "name": "HorizontalScrollView",
                                 "resource_id": null,
                                 "scrollable": {
@@ -1200,6 +1262,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.LinearLayout",
                             "name": "LinearLayout",
                             "resource_id": "refinement_carousel_fragment",
                             "scrollable": {
@@ -1211,6 +1274,7 @@
                           }
                         ],
                         "clickable": false,
+                        "full_name": "android.widget.LinearLayout",
                         "name": "LinearLayout",
                         "resource_id": "refinement_layout",
                         "scrollable": {
@@ -1222,6 +1286,7 @@
                       }
                     ],
                     "clickable": false,
+                    "full_name": "android.widget.FrameLayout",
                     "name": "FrameLayout",
                     "resource_id": "content",
                     "scrollable": {
@@ -1233,6 +1298,7 @@
                   }
                 ],
                 "clickable": false,
+                "full_name": "android.support.v4.widget.DrawerLayout",
                 "name": "DrawerLayout",
                 "resource_id": "refine_drawer",
                 "scrollable": {
@@ -1244,6 +1310,7 @@
               }
             ],
             "clickable": false,
+            "full_name": "android.widget.FrameLayout",
             "name": "FrameLayout",
             "resource_id": "content",
             "scrollable": {
@@ -1294,6 +1361,7 @@
                             ],
                             "children": null,
                             "clickable": false,
+                            "full_name": "android.widget.ImageView",
                             "name": "ImageView",
                             "resource_id": "up",
                             "scrollable": {
@@ -1312,6 +1380,7 @@
                             ],
                             "children": null,
                             "clickable": false,
+                            "full_name": "android.widget.ImageView",
                             "name": "ImageView",
                             "resource_id": "home",
                             "scrollable": {
@@ -1323,6 +1392,7 @@
                           }
                         ],
                         "clickable": false,
+                        "full_name": "com.android.internal.widget.ActionBarView$HomeView",
                         "name": "ActionBarView$HomeView",
                         "resource_id": null,
                         "scrollable": {
@@ -1349,6 +1419,7 @@
                             ],
                             "children": null,
                             "clickable": false,
+                            "full_name": "android.widget.TextView",
                             "name": "TextView",
                             "resource_id": "action_bar_title",
                             "scrollable": {
@@ -1360,6 +1431,7 @@
                           }
                         ],
                         "clickable": false,
+                        "full_name": "android.widget.LinearLayout",
                         "name": "LinearLayout",
                         "resource_id": null,
                         "scrollable": {
@@ -1371,6 +1443,7 @@
                       }
                     ],
                     "clickable": true,
+                    "full_name": "android.widget.LinearLayout",
                     "name": "LinearLayout",
                     "resource_id": null,
                     "scrollable": {
@@ -1405,6 +1478,7 @@
                             ],
                             "children": null,
                             "clickable": false,
+                            "full_name": "android.widget.ImageView",
                             "name": "ImageView",
                             "resource_id": "action_view_icon",
                             "scrollable": {
@@ -1416,6 +1490,7 @@
                           }
                         ],
                         "clickable": true,
+                        "full_name": "android.widget.RelativeLayout",
                         "name": "RelativeLayout",
                         "resource_id": "menu_symban",
                         "scrollable": {
@@ -1442,6 +1517,7 @@
                             ],
                             "children": null,
                             "clickable": false,
+                            "full_name": "android.widget.ImageView",
                             "name": "ImageView",
                             "resource_id": "action_view_icon",
                             "scrollable": {
@@ -1453,6 +1529,7 @@
                           }
                         ],
                         "clickable": true,
+                        "full_name": "android.widget.RelativeLayout",
                         "name": "RelativeLayout",
                         "resource_id": "menu_shopping_cart",
                         "scrollable": {
@@ -1471,6 +1548,7 @@
                         ],
                         "children": null,
                         "clickable": true,
+                        "full_name": "android.widget.ActionMenuPresenter$OverflowMenuButton",
                         "name": "ActionMenuPresenter$OverflowMenuButton",
                         "resource_id": null,
                         "scrollable": {
@@ -1482,6 +1560,7 @@
                       }
                     ],
                     "clickable": false,
+                    "full_name": "android.widget.ActionMenuView",
                     "name": "ActionMenuView",
                     "resource_id": null,
                     "scrollable": {
@@ -1493,6 +1572,7 @@
                   }
                 ],
                 "clickable": false,
+                "full_name": "com.android.internal.widget.ActionBarView",
                 "name": "ActionBarView",
                 "resource_id": "action_bar",
                 "scrollable": {
@@ -1504,6 +1584,7 @@
               }
             ],
             "clickable": false,
+            "full_name": "com.android.internal.widget.ActionBarContainer",
             "name": "ActionBarContainer",
             "resource_id": "action_bar_container",
             "scrollable": {
@@ -1515,6 +1596,7 @@
           }
         ],
         "clickable": false,
+        "full_name": "com.android.internal.widget.ActionBarOverlayLayout",
         "name": "ActionBarOverlayLayout",
         "resource_id": "decor_content_parent",
         "scrollable": {
@@ -1526,6 +1608,7 @@
       }
     ],
     "clickable": false,
+    "full_name": "com.android.internal.policy.PhoneWindow$DecorView",
     "name": "PhoneWindow$DecorView",
     "resource_id": null,
     "scrollable": {

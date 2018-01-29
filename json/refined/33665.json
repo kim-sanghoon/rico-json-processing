@@ -62,6 +62,7 @@
                             ],
                             "children": null,
                             "clickable": false,
+                            "full_name": "android.widget.ImageView",
                             "name": "ImageView",
                             "resource_id": null,
                             "scrollable": {
@@ -80,6 +81,7 @@
                             ],
                             "children": null,
                             "clickable": false,
+                            "full_name": "android.widget.TextView",
                             "name": "TextView",
                             "resource_id": "balanceTitle",
                             "scrollable": {
@@ -106,6 +108,7 @@
                                 ],
                                 "children": null,
                                 "clickable": true,
+                                "full_name": "android.widget.EditText",
                                 "name": "EditText",
                                 "resource_id": "userNameField",
                                 "scrollable": {
@@ -124,6 +127,7 @@
                                 ],
                                 "children": null,
                                 "clickable": true,
+                                "full_name": "android.widget.EditText",
                                 "name": "EditText",
                                 "resource_id": "userPasswordField",
                                 "scrollable": {
@@ -135,6 +139,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.LinearLayout",
                             "name": "LinearLayout",
                             "resource_id": null,
                             "scrollable": {
@@ -169,6 +174,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "rememberTxt",
                                     "scrollable": {
@@ -187,6 +193,7 @@
                                     ],
                                     "children": null,
                                     "clickable": true,
+                                    "full_name": "android.widget.CheckBox",
                                     "name": "CheckBox",
                                     "resource_id": "saveUsername",
                                     "scrollable": {
@@ -198,6 +205,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.LinearLayout",
                                 "name": "LinearLayout",
                                 "resource_id": null,
                                 "scrollable": {
@@ -216,6 +224,7 @@
                                 ],
                                 "children": null,
                                 "clickable": true,
+                                "full_name": "android.widget.Button",
                                 "name": "Button",
                                 "resource_id": "loginButton",
                                 "scrollable": {
@@ -227,6 +236,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.LinearLayout",
                             "name": "LinearLayout",
                             "resource_id": null,
                             "scrollable": {
@@ -253,6 +263,7 @@
                                 ],
                                 "children": null,
                                 "clickable": true,
+                                "full_name": "android.widget.Button",
                                 "name": "Button",
                                 "resource_id": "newUserButton",
                                 "scrollable": {
@@ -271,6 +282,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.TextView",
                                 "name": "TextView",
                                 "resource_id": "versionTitle",
                                 "scrollable": {
@@ -282,6 +294,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.LinearLayout",
                             "name": "LinearLayout",
                             "resource_id": null,
                             "scrollable": {
@@ -293,6 +306,7 @@
                           }
                         ],
                         "clickable": false,
+                        "full_name": "android.widget.LinearLayout",
                         "name": "LinearLayout",
                         "resource_id": null,
                         "scrollable": {
@@ -304,6 +318,7 @@
                       }
                     ],
                     "clickable": false,
+                    "full_name": "android.widget.ScrollView",
                     "name": "ScrollView",
                     "resource_id": null,
                     "scrollable": {
@@ -315,6 +330,7 @@
                   }
                 ],
                 "clickable": false,
+                "full_name": "android.widget.LinearLayout",
                 "name": "LinearLayout",
                 "resource_id": null,
                 "scrollable": {
@@ -326,6 +342,7 @@
               }
             ],
             "clickable": false,
+            "full_name": "android.widget.FrameLayout",
             "name": "FrameLayout",
             "resource_id": "content",
             "scrollable": {
@@ -337,6 +354,7 @@
           }
         ],
         "clickable": false,
+        "full_name": "android.widget.LinearLayout",
         "name": "LinearLayout",
         "resource_id": null,
         "scrollable": {
@@ -348,6 +366,7 @@
       }
     ],
     "clickable": false,
+    "full_name": "com.android.internal.policy.PhoneWindow$DecorView",
     "name": "PhoneWindow$DecorView",
     "resource_id": null,
     "scrollable": {

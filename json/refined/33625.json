@@ -30,6 +30,7 @@
             ],
             "children": null,
             "clickable": false,
+            "full_name": "android.widget.TextView",
             "name": "TextView",
             "resource_id": "title",
             "scrollable": {
@@ -104,6 +105,7 @@
                                         ],
                                         "children": null,
                                         "clickable": true,
+                                        "full_name": "android.widget.ImageButton",
                                         "name": "ImageButton",
                                         "resource_id": "increment",
                                         "scrollable": {
@@ -122,6 +124,7 @@
                                         ],
                                         "children": null,
                                         "clickable": true,
+                                        "full_name": "android.widget.EditText",
                                         "name": "EditText",
                                         "resource_id": "numberpicker_input",
                                         "scrollable": {
@@ -140,6 +143,7 @@
                                         ],
                                         "children": null,
                                         "clickable": true,
+                                        "full_name": "android.widget.ImageButton",
                                         "name": "ImageButton",
                                         "resource_id": "decrement",
                                         "scrollable": {
@@ -151,6 +155,7 @@
                                       }
                                     ],
                                     "clickable": false,
+                                    "full_name": "android.widget.NumberPicker",
                                     "name": "NumberPicker",
                                     "resource_id": "hour",
                                     "scrollable": {
@@ -177,6 +182,7 @@
                                         ],
                                         "children": null,
                                         "clickable": true,
+                                        "full_name": "android.widget.ImageButton",
                                         "name": "ImageButton",
                                         "resource_id": "increment",
                                         "scrollable": {
@@ -195,6 +201,7 @@
                                         ],
                                         "children": null,
                                         "clickable": true,
+                                        "full_name": "android.widget.EditText",
                                         "name": "EditText",
                                         "resource_id": "numberpicker_input",
                                         "scrollable": {
@@ -213,6 +220,7 @@
                                         ],
                                         "children": null,
                                         "clickable": true,
+                                        "full_name": "android.widget.ImageButton",
                                         "name": "ImageButton",
                                         "resource_id": "decrement",
                                         "scrollable": {
@@ -224,6 +232,7 @@
                                       }
                                     ],
                                     "clickable": false,
+                                    "full_name": "android.widget.NumberPicker",
                                     "name": "NumberPicker",
                                     "resource_id": "minute",
                                     "scrollable": {
@@ -235,6 +244,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.LinearLayout",
                                 "name": "LinearLayout",
                                 "resource_id": null,
                                 "scrollable": {
@@ -246,6 +256,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.LinearLayout",
                             "name": "LinearLayout",
                             "resource_id": "timePickerLayout",
                             "scrollable": {
@@ -257,6 +268,7 @@
                           }
                         ],
                         "clickable": false,
+                        "full_name": "android.widget.TimePicker",
                         "name": "TimePicker",
                         "resource_id": "dialog_timeselect_picker",
                         "scrollable": {
@@ -283,6 +295,7 @@
                             ],
                             "children": null,
                             "clickable": true,
+                            "full_name": "android.widget.Button",
                             "name": "Button",
                             "resource_id": "dialog_timeselect_button_ok",
                             "scrollable": {
@@ -301,6 +314,7 @@
                             ],
                             "children": null,
                             "clickable": true,
+                            "full_name": "android.widget.Button",
                             "name": "Button",
                             "resource_id": "dialog_timeselect_button_cancel",
                             "scrollable": {
@@ -312,6 +326,7 @@
                           }
                         ],
                         "clickable": false,
+                        "full_name": "android.widget.LinearLayout",
                         "name": "LinearLayout",
                         "resource_id": null,
                         "scrollable": {
@@ -323,6 +338,7 @@
                       }
                     ],
                     "clickable": false,
+                    "full_name": "android.widget.RelativeLayout",
                     "name": "RelativeLayout",
                     "resource_id": null,
                     "scrollable": {
@@ -334,6 +350,7 @@
                   }
                 ],
                 "clickable": false,
+                "full_name": "android.widget.FrameLayout",
                 "name": "FrameLayout",
                 "resource_id": "content",
                 "scrollable": {
@@ -345,6 +362,7 @@
               }
             ],
             "clickable": false,
+            "full_name": "android.widget.FrameLayout",
             "name": "FrameLayout",
             "resource_id": null,
             "scrollable": {
@@ -356,6 +374,7 @@
           }
         ],
         "clickable": false,
+        "full_name": "android.widget.LinearLayout",
         "name": "LinearLayout",
         "resource_id": null,
         "scrollable": {
@@ -367,6 +386,7 @@
       }
     ],
     "clickable": false,
+    "full_name": "com.android.internal.policy.PhoneWindow$DecorView",
     "name": "PhoneWindow$DecorView",
     "resource_id": null,
     "scrollable": {

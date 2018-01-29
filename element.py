@@ -4,6 +4,7 @@ class element(object):
         self.clickable = hier['clickable']
         self.bounds = hier['bounds']
         self.name = hier['class'].split('.')[-1]
+        self.full_name = hier['class']
         self.scrollable = {'horizontal': hier['scrollable-horizontal'],
                            'vertical': hier['scrollable-vertical']}
         self.resource_id = hier['resource-id'].split('/')[-1] if 'resource-id' in hier else None
@@ -37,6 +38,7 @@ class element(object):
               + ("clickable: %s, " % self.clickable) \
               + ("bounds: %s, " % self.bounds) \
               + ("name: '%s', " % self.name) \
+              + ("full_name: '%s', " % self.full_name) \
               + ("scrollable: %s, " % self.scrollable) \
               + ("resource_id: %s, " % ("'" + self.resource_id + "'" if self.resource_id is not None else "None")) \
               + ("text: %s" % ("'" + self.text + "'" if self.text is not None else "None")) \
@@ -53,6 +55,7 @@ class element(object):
                'clickable': self.clickable,
                'bounds': self.bounds,
                'name': self.name,
+               'full_name': self.full_name,
                'scrollable': self.scrollable,
                'resource_id': self.resource_id,
                'text': self.text,

@@ -46,6 +46,7 @@
                     ],
                     "children": null,
                     "clickable": true,
+                    "full_name": "com.clevertap.android.sdk.InAppNotificationActivity$InAppWebView",
                     "name": "InAppNotificationActivity$InAppWebView",
                     "resource_id": null,
                     "scrollable": {
@@ -64,6 +65,7 @@
                     ],
                     "children": null,
                     "clickable": false,
+                    "full_name": "com.clevertap.android.sdk.CloseImageView",
                     "name": "CloseImageView",
                     "resource_id": null,
                     "scrollable": {
@@ -75,6 +77,7 @@
                   }
                 ],
                 "clickable": false,
+                "full_name": "android.widget.RelativeLayout",
                 "name": "RelativeLayout",
                 "resource_id": null,
                 "scrollable": {
@@ -86,6 +89,7 @@
               }
             ],
             "clickable": false,
+            "full_name": "android.widget.FrameLayout",
             "name": "FrameLayout",
             "resource_id": "content",
             "scrollable": {
@@ -97,6 +101,7 @@
           }
         ],
         "clickable": false,
+        "full_name": "android.widget.LinearLayout",
         "name": "LinearLayout",
         "resource_id": null,
         "scrollable": {
@@ -108,6 +113,7 @@
       }
     ],
     "clickable": false,
+    "full_name": "com.android.internal.policy.PhoneWindow$DecorView",
     "name": "PhoneWindow$DecorView",
     "resource_id": null,
     "scrollable": {

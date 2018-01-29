@@ -86,6 +86,7 @@
                                         ],
                                         "children": null,
                                         "clickable": true,
+                                        "full_name": "com.google.maps.api.android.lib6.gmm6.api.z",
                                         "name": "z",
                                         "resource_id": null,
                                         "scrollable": {
@@ -112,6 +113,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "android.widget.ImageView",
                                             "name": "ImageView",
                                             "resource_id": null,
                                             "scrollable": {
@@ -123,6 +125,7 @@
                                           }
                                         ],
                                         "clickable": false,
+                                        "full_name": "com.google.maps.api.android.lib6.impl.fr",
                                         "name": "fr",
                                         "resource_id": null,
                                         "scrollable": {
@@ -149,6 +152,7 @@
                                             ],
                                             "children": null,
                                             "clickable": true,
+                                            "full_name": "android.widget.ImageView",
                                             "name": "ImageView",
                                             "resource_id": null,
                                             "scrollable": {
@@ -175,6 +179,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": true,
+                                                "full_name": "android.widget.ImageView",
                                                 "name": "ImageView",
                                                 "resource_id": null,
                                                 "scrollable": {
@@ -193,6 +198,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": true,
+                                                "full_name": "android.widget.ImageView",
                                                 "name": "ImageView",
                                                 "resource_id": null,
                                                 "scrollable": {
@@ -204,6 +210,7 @@
                                               }
                                             ],
                                             "clickable": false,
+                                            "full_name": "android.widget.LinearLayout",
                                             "name": "LinearLayout",
                                             "resource_id": null,
                                             "scrollable": {
@@ -222,6 +229,7 @@
                                             ],
                                             "children": null,
                                             "clickable": true,
+                                            "full_name": "com.google.maps.api.android.lib6.impl.am",
                                             "name": "am",
                                             "resource_id": null,
                                             "scrollable": {
@@ -233,6 +241,7 @@
                                           }
                                         ],
                                         "clickable": false,
+                                        "full_name": "android.widget.RelativeLayout",
                                         "name": "RelativeLayout",
                                         "resource_id": null,
                                         "scrollable": {
@@ -244,6 +253,7 @@
                                       }
                                     ],
                                     "clickable": false,
+                                    "full_name": "android.widget.FrameLayout",
                                     "name": "FrameLayout",
                                     "resource_id": null,
                                     "scrollable": {
@@ -255,6 +265,7 @@
                                   }
                                 ],
                                 "clickable": true,
+                                "full_name": "android.widget.FrameLayout",
                                 "name": "FrameLayout",
                                 "resource_id": "map",
                                 "scrollable": {
@@ -289,6 +300,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.support.v7.widget.AppCompatTextView",
                                         "name": "AppCompatTextView",
                                         "resource_id": null,
                                         "scrollable": {
@@ -307,6 +319,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.support.v7.widget.AppCompatTextView",
                                         "name": "AppCompatTextView",
                                         "resource_id": null,
                                         "scrollable": {
@@ -333,6 +346,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "android.support.v7.widget.AppCompatTextView",
                                             "name": "AppCompatTextView",
                                             "resource_id": "changeKm",
                                             "scrollable": {
@@ -351,6 +365,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "android.support.v7.widget.AppCompatSeekBar",
                                             "name": "AppCompatSeekBar",
                                             "resource_id": "seekbar",
                                             "scrollable": {
@@ -362,6 +377,7 @@
                                           }
                                         ],
                                         "clickable": false,
+                                        "full_name": "android.widget.LinearLayout",
                                         "name": "LinearLayout",
                                         "resource_id": null,
                                         "scrollable": {
@@ -380,6 +396,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.support.v7.widget.AppCompatTextView",
                                         "name": "AppCompatTextView",
                                         "resource_id": null,
                                         "scrollable": {
@@ -391,6 +408,7 @@
                                       }
                                     ],
                                     "clickable": false,
+                                    "full_name": "android.widget.LinearLayout",
                                     "name": "LinearLayout",
                                     "resource_id": null,
                                     "scrollable": {
@@ -402,6 +420,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.LinearLayout",
                                 "name": "LinearLayout",
                                 "resource_id": null,
                                 "scrollable": {
@@ -413,6 +432,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.FrameLayout",
                             "name": "FrameLayout",
                             "resource_id": null,
                             "scrollable": {
@@ -424,6 +444,7 @@
                           }
                         ],
                         "clickable": false,
+                        "full_name": "android.widget.LinearLayout",
                         "name": "LinearLayout",
                         "resource_id": null,
                         "scrollable": {
@@ -435,6 +456,7 @@
                       }
                     ],
                     "clickable": false,
+                    "full_name": "android.support.v7.widget.ContentFrameLayout",
                     "name": "ContentFrameLayout",
                     "resource_id": "content",
                     "scrollable": {
@@ -469,6 +491,7 @@
                             ],
                             "children": null,
                             "clickable": false,
+                            "full_name": "android.widget.TextView",
                             "name": "TextView",
                             "resource_id": null,
                             "scrollable": {
@@ -487,6 +510,7 @@
                             ],
                             "children": null,
                             "clickable": true,
+                            "full_name": "android.widget.ImageButton",
                             "name": "ImageButton",
                             "resource_id": null,
                             "scrollable": {
@@ -521,6 +545,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.support.v7.widget.AppCompatCheckedTextView",
                                     "name": "AppCompatCheckedTextView",
                                     "resource_id": "text1",
                                     "scrollable": {
@@ -532,6 +557,7 @@
                                   }
                                 ],
                                 "clickable": true,
+                                "full_name": "android.widget.Spinner",
                                 "name": "Spinner",
                                 "resource_id": "item1",
                                 "scrollable": {
@@ -543,6 +569,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.support.v7.widget.ActionMenuView",
                             "name": "ActionMenuView",
                             "resource_id": null,
                             "scrollable": {
@@ -554,6 +581,7 @@
                           }
                         ],
                         "clickable": false,
+                        "full_name": "android.support.v7.widget.Toolbar",
                         "name": "Toolbar",
                         "resource_id": "action_bar",
                         "scrollable": {
@@ -565,6 +593,7 @@
                       }
                     ],
                     "clickable": false,
+                    "full_name": "android.support.v7.widget.ActionBarContainer",
                     "name": "ActionBarContainer",
                     "resource_id": "action_bar_container",
                     "scrollable": {
@@ -576,6 +605,7 @@
                   }
                 ],
                 "clickable": false,
+                "full_name": "android.support.v7.widget.ActionBarOverlayLayout",
                 "name": "ActionBarOverlayLayout",
                 "resource_id": "decor_content_parent",
                 "scrollable": {
@@ -587,6 +617,7 @@
               }
             ],
             "clickable": false,
+            "full_name": "android.widget.FrameLayout",
             "name": "FrameLayout",
             "resource_id": null,
             "scrollable": {
@@ -598,6 +629,7 @@
           }
         ],
         "clickable": false,
+        "full_name": "android.widget.LinearLayout",
         "name": "LinearLayout",
         "resource_id": null,
         "scrollable": {
@@ -616,6 +648,7 @@
         ],
         "children": null,
         "clickable": false,
+        "full_name": "android.view.View",
         "name": "View",
         "resource_id": "navigationBarBackground",
         "scrollable": {
@@ -634,6 +667,7 @@
         ],
         "children": null,
         "clickable": false,
+        "full_name": "android.view.View",
         "name": "View",
         "resource_id": "statusBarBackground",
         "scrollable": {
@@ -645,6 +679,7 @@
       }
     ],
     "clickable": false,
+    "full_name": "com.android.internal.policy.PhoneWindow$DecorView",
     "name": "PhoneWindow$DecorView",
     "resource_id": null,
     "scrollable": {

@@ -86,6 +86,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.widget.ImageView",
                                         "name": "ImageView",
                                         "resource_id": "imgViewSelectedProgram",
                                         "scrollable": {
@@ -104,6 +105,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.support.v7.widget.AppCompatTextView",
                                         "name": "AppCompatTextView",
                                         "resource_id": "textViewProgramName",
                                         "scrollable": {
@@ -115,6 +117,7 @@
                                       }
                                     ],
                                     "clickable": false,
+                                    "full_name": "android.widget.LinearLayout",
                                     "name": "LinearLayout",
                                     "resource_id": null,
                                     "scrollable": {
@@ -126,6 +129,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.RelativeLayout",
                                 "name": "RelativeLayout",
                                 "resource_id": null,
                                 "scrollable": {
@@ -137,6 +141,7 @@
                               }
                             ],
                             "clickable": true,
+                            "full_name": "android.widget.LinearLayout",
                             "name": "LinearLayout",
                             "resource_id": "layoutProgramSelect",
                             "scrollable": {
@@ -155,6 +160,7 @@
                             ],
                             "children": null,
                             "clickable": false,
+                            "full_name": "android.view.View",
                             "name": "View",
                             "resource_id": "separatorProgram",
                             "scrollable": {
@@ -189,6 +195,7 @@
                                     ],
                                     "children": null,
                                     "clickable": true,
+                                    "full_name": "android.widget.ImageView",
                                     "name": "ImageView",
                                     "resource_id": "imgViewVolumeDown",
                                     "scrollable": {
@@ -207,6 +214,7 @@
                                     ],
                                     "children": null,
                                     "clickable": true,
+                                    "full_name": "android.widget.ImageView",
                                     "name": "ImageView",
                                     "resource_id": "imgViewVolumeUp",
                                     "scrollable": {
@@ -225,6 +233,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.SeekBar",
                                     "name": "SeekBar",
                                     "resource_id": "seekBarVolume",
                                     "scrollable": {
@@ -236,6 +245,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.RelativeLayout",
                                 "name": "RelativeLayout",
                                 "resource_id": null,
                                 "scrollable": {
@@ -247,6 +257,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.LinearLayout",
                             "name": "LinearLayout",
                             "resource_id": "layoutVolumeControl",
                             "scrollable": {
@@ -265,6 +276,7 @@
                             ],
                             "children": [],
                             "clickable": false,
+                            "full_name": "android.widget.LinearLayout",
                             "name": "LinearLayout",
                             "resource_id": "layoutMicMute",
                             "scrollable": {
@@ -283,6 +295,7 @@
                             ],
                             "children": null,
                             "clickable": false,
+                            "full_name": "android.view.View",
                             "name": "View",
                             "resource_id": "separatorVolume",
                             "scrollable": {
@@ -301,6 +314,7 @@
                             ],
                             "children": null,
                             "clickable": false,
+                            "full_name": "android.view.View",
                             "name": "View",
                             "resource_id": "blockSeparatorTinnitus",
                             "scrollable": {
@@ -335,6 +349,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.ImageView",
                                     "name": "ImageView",
                                     "resource_id": "btnSideLookDirection",
                                     "scrollable": {
@@ -353,6 +368,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.support.v7.widget.AppCompatTextView",
                                     "name": "AppCompatTextView",
                                     "resource_id": "textViewSpatialConfigurator",
                                     "scrollable": {
@@ -364,6 +380,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.RelativeLayout",
                                 "name": "RelativeLayout",
                                 "resource_id": null,
                                 "scrollable": {
@@ -375,6 +392,7 @@
                               }
                             ],
                             "clickable": true,
+                            "full_name": "android.widget.LinearLayout",
                             "name": "LinearLayout",
                             "resource_id": "layoutSideLook",
                             "scrollable": {
@@ -393,6 +411,7 @@
                             ],
                             "children": null,
                             "clickable": false,
+                            "full_name": "android.view.View",
                             "name": "View",
                             "resource_id": "blockSeparatorSideLook",
                             "scrollable": {
@@ -427,6 +446,7 @@
                                     ],
                                     "children": null,
                                     "clickable": true,
+                                    "full_name": "android.widget.ImageView",
                                     "name": "ImageView",
                                     "resource_id": "btnVolumeMute",
                                     "scrollable": {
@@ -445,6 +465,7 @@
                                     ],
                                     "children": null,
                                     "clickable": true,
+                                    "full_name": "android.widget.ImageView",
                                     "name": "ImageView",
                                     "resource_id": "imgNotificationArea",
                                     "scrollable": {
@@ -463,6 +484,7 @@
                                     ],
                                     "children": null,
                                     "clickable": true,
+                                    "full_name": "android.widget.ImageView",
                                     "name": "ImageView",
                                     "resource_id": "imgMoreMenu",
                                     "scrollable": {
@@ -474,6 +496,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.RelativeLayout",
                                 "name": "RelativeLayout",
                                 "resource_id": null,
                                 "scrollable": {
@@ -485,6 +508,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.LinearLayout",
                             "name": "LinearLayout",
                             "resource_id": "layoutBottomMenu",
                             "scrollable": {
@@ -496,6 +520,7 @@
                           }
                         ],
                         "clickable": false,
+                        "full_name": "android.widget.LinearLayout",
                         "name": "LinearLayout",
                         "resource_id": "layoutHomeScreen",
                         "scrollable": {
@@ -507,6 +532,7 @@
                       }
                     ],
                     "clickable": false,
+                    "full_name": "android.support.v7.internal.widget.ContentFrameLayout",
                     "name": "ContentFrameLayout",
                     "resource_id": "content",
                     "scrollable": {
@@ -518,6 +544,7 @@
                   }
                 ],
                 "clickable": false,
+                "full_name": "android.support.v7.internal.widget.ActionBarOverlayLayout",
                 "name": "ActionBarOverlayLayout",
                 "resource_id": "decor_content_parent",
                 "scrollable": {
@@ -529,6 +556,7 @@
               }
             ],
             "clickable": false,
+            "full_name": "android.widget.FrameLayout",
             "name": "FrameLayout",
             "resource_id": null,
             "scrollable": {
@@ -540,6 +568,7 @@
           }
         ],
         "clickable": false,
+        "full_name": "android.widget.LinearLayout",
         "name": "LinearLayout",
         "resource_id": null,
         "scrollable": {
@@ -558,6 +587,7 @@
         ],
         "children": null,
         "clickable": false,
+        "full_name": "android.view.View",
         "name": "View",
         "resource_id": "navigationBarBackground",
         "scrollable": {
@@ -576,6 +606,7 @@
         ],
         "children": null,
         "clickable": false,
+        "full_name": "android.view.View",
         "name": "View",
         "resource_id": "statusBarBackground",
         "scrollable": {
@@ -587,6 +618,7 @@
       }
     ],
     "clickable": false,
+    "full_name": "com.android.internal.policy.PhoneWindow$DecorView",
     "name": "PhoneWindow$DecorView",
     "resource_id": null,
     "scrollable": {

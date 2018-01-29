@@ -54,6 +54,7 @@
                         ],
                         "children": null,
                         "clickable": false,
+                        "full_name": "android.widget.ImageView",
                         "name": "ImageView",
                         "resource_id": null,
                         "scrollable": {
@@ -80,6 +81,7 @@
                             ],
                             "children": null,
                             "clickable": true,
+                            "full_name": "android.widget.Button",
                             "name": "Button",
                             "resource_id": "devicegrid_button_back",
                             "scrollable": {
@@ -98,6 +100,7 @@
                             ],
                             "children": null,
                             "clickable": false,
+                            "full_name": "android.widget.ImageView",
                             "name": "ImageView",
                             "resource_id": null,
                             "scrollable": {
@@ -109,6 +112,7 @@
                           }
                         ],
                         "clickable": false,
+                        "full_name": "android.widget.RelativeLayout",
                         "name": "RelativeLayout",
                         "resource_id": "devicegrid_layout_back",
                         "scrollable": {
@@ -127,6 +131,7 @@
                         ],
                         "children": null,
                         "clickable": false,
+                        "full_name": "android.widget.TextView",
                         "name": "TextView",
                         "resource_id": null,
                         "scrollable": {
@@ -138,6 +143,7 @@
                       }
                     ],
                     "clickable": false,
+                    "full_name": "android.widget.RelativeLayout",
                     "name": "RelativeLayout",
                     "resource_id": "devicegrid_layout_header",
                     "scrollable": {
@@ -172,6 +178,7 @@
                             ],
                             "children": null,
                             "clickable": true,
+                            "full_name": "android.widget.Button",
                             "name": "Button",
                             "resource_id": "item_grid_device_button_select",
                             "scrollable": {
@@ -206,6 +213,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "item_grid_device_textview_tempcurrent",
                                     "scrollable": {
@@ -232,6 +240,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.widget.TextView",
                                         "name": "TextView",
                                         "resource_id": "item_grid_device_textview_tempcurrent_c",
                                         "scrollable": {
@@ -258,6 +267,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "android.widget.TextView",
                                             "name": "TextView",
                                             "resource_id": "item_grid_device_textview_tempset",
                                             "scrollable": {
@@ -276,6 +286,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "android.widget.TextView",
                                             "name": "TextView",
                                             "resource_id": "item_grid_device_textview_tempset_c",
                                             "scrollable": {
@@ -287,6 +298,7 @@
                                           }
                                         ],
                                         "clickable": false,
+                                        "full_name": "android.widget.RelativeLayout",
                                         "name": "RelativeLayout",
                                         "resource_id": null,
                                         "scrollable": {
@@ -298,6 +310,7 @@
                                       }
                                     ],
                                     "clickable": false,
+                                    "full_name": "android.widget.RelativeLayout",
                                     "name": "RelativeLayout",
                                     "resource_id": null,
                                     "scrollable": {
@@ -309,6 +322,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.LinearLayout",
                                 "name": "LinearLayout",
                                 "resource_id": null,
                                 "scrollable": {
@@ -327,6 +341,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.ImageView",
                                 "name": "ImageView",
                                 "resource_id": null,
                                 "scrollable": {
@@ -353,6 +368,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.ImageView",
                                     "name": "ImageView",
                                     "resource_id": "item_grid_device_imageview_fanicon",
                                     "scrollable": {
@@ -371,6 +387,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.ImageView",
                                     "name": "ImageView",
                                     "resource_id": "item_grid_device_imageview_fanspeed",
                                     "scrollable": {
@@ -389,6 +406,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.ImageView",
                                     "name": "ImageView",
                                     "resource_id": "item_grid_device_imageview_mode",
                                     "scrollable": {
@@ -400,6 +418,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.LinearLayout",
                                 "name": "LinearLayout",
                                 "resource_id": null,
                                 "scrollable": {
@@ -418,6 +437,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.ImageView",
                                 "name": "ImageView",
                                 "resource_id": null,
                                 "scrollable": {
@@ -444,6 +464,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "item_grid_device_textview_name",
                                     "scrollable": {
@@ -455,6 +476,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.LinearLayout",
                                 "name": "LinearLayout",
                                 "resource_id": null,
                                 "scrollable": {
@@ -466,6 +488,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.LinearLayout",
                             "name": "LinearLayout",
                             "resource_id": "item_grid_device_layout_panel",
                             "scrollable": {
@@ -477,6 +500,7 @@
                           }
                         ],
                         "clickable": false,
+                        "full_name": "android.widget.RelativeLayout",
                         "name": "RelativeLayout",
                         "resource_id": null,
                         "scrollable": {
@@ -503,6 +527,7 @@
                             ],
                             "children": null,
                             "clickable": true,
+                            "full_name": "android.widget.Button",
                             "name": "Button",
                             "resource_id": "item_grid_device_button_select",
                             "scrollable": {
@@ -537,6 +562,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "item_grid_device_textview_tempcurrent",
                                     "scrollable": {
@@ -563,6 +589,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.widget.TextView",
                                         "name": "TextView",
                                         "resource_id": "item_grid_device_textview_tempcurrent_c",
                                         "scrollable": {
@@ -589,6 +616,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "android.widget.TextView",
                                             "name": "TextView",
                                             "resource_id": "item_grid_device_textview_tempset",
                                             "scrollable": {
@@ -607,6 +635,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "android.widget.TextView",
                                             "name": "TextView",
                                             "resource_id": "item_grid_device_textview_tempset_c",
                                             "scrollable": {
@@ -618,6 +647,7 @@
                                           }
                                         ],
                                         "clickable": false,
+                                        "full_name": "android.widget.RelativeLayout",
                                         "name": "RelativeLayout",
                                         "resource_id": null,
                                         "scrollable": {
@@ -629,6 +659,7 @@
                                       }
                                     ],
                                     "clickable": false,
+                                    "full_name": "android.widget.RelativeLayout",
                                     "name": "RelativeLayout",
                                     "resource_id": null,
                                     "scrollable": {
@@ -640,6 +671,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.LinearLayout",
                                 "name": "LinearLayout",
                                 "resource_id": null,
                                 "scrollable": {
@@ -658,6 +690,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.ImageView",
                                 "name": "ImageView",
                                 "resource_id": null,
                                 "scrollable": {
@@ -684,6 +717,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.ImageView",
                                     "name": "ImageView",
                                     "resource_id": "item_grid_device_imageview_fanicon",
                                     "scrollable": {
@@ -702,6 +736,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.ImageView",
                                     "name": "ImageView",
                                     "resource_id": "item_grid_device_imageview_fanspeed",
                                     "scrollable": {
@@ -720,6 +755,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.ImageView",
                                     "name": "ImageView",
                                     "resource_id": "item_grid_device_imageview_mode",
                                     "scrollable": {
@@ -731,6 +767,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.LinearLayout",
                                 "name": "LinearLayout",
                                 "resource_id": null,
                                 "scrollable": {
@@ -749,6 +786,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.ImageView",
                                 "name": "ImageView",
                                 "resource_id": null,
                                 "scrollable": {
@@ -775,6 +813,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "item_grid_device_textview_name",
                                     "scrollable": {
@@ -786,6 +825,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.LinearLayout",
                                 "name": "LinearLayout",
                                 "resource_id": null,
                                 "scrollable": {
@@ -797,6 +837,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.LinearLayout",
                             "name": "LinearLayout",
                             "resource_id": "item_grid_device_layout_panel",
                             "scrollable": {
@@ -808,6 +849,7 @@
                           }
                         ],
                         "clickable": false,
+                        "full_name": "android.widget.RelativeLayout",
                         "name": "RelativeLayout",
                         "resource_id": null,
                         "scrollable": {
@@ -834,6 +876,7 @@
                             ],
                             "children": null,
                             "clickable": true,
+                            "full_name": "android.widget.Button",
                             "name": "Button",
                             "resource_id": "item_grid_device_button_select",
                             "scrollable": {
@@ -868,6 +911,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "item_grid_device_textview_tempcurrent",
                                     "scrollable": {
@@ -894,6 +938,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.widget.TextView",
                                         "name": "TextView",
                                         "resource_id": "item_grid_device_textview_tempcurrent_c",
                                         "scrollable": {
@@ -920,6 +965,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "android.widget.TextView",
                                             "name": "TextView",
                                             "resource_id": "item_grid_device_textview_tempset",
                                             "scrollable": {
@@ -938,6 +984,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "android.widget.TextView",
                                             "name": "TextView",
                                             "resource_id": "item_grid_device_textview_tempset_c",
                                             "scrollable": {
@@ -949,6 +996,7 @@
                                           }
                                         ],
                                         "clickable": false,
+                                        "full_name": "android.widget.RelativeLayout",
                                         "name": "RelativeLayout",
                                         "resource_id": null,
                                         "scrollable": {
@@ -960,6 +1008,7 @@
                                       }
                                     ],
                                     "clickable": false,
+                                    "full_name": "android.widget.RelativeLayout",
                                     "name": "RelativeLayout",
                                     "resource_id": null,
                                     "scrollable": {
@@ -971,6 +1020,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.LinearLayout",
                                 "name": "LinearLayout",
                                 "resource_id": null,
                                 "scrollable": {
@@ -989,6 +1039,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.ImageView",
                                 "name": "ImageView",
                                 "resource_id": null,
                                 "scrollable": {
@@ -1015,6 +1066,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.ImageView",
                                     "name": "ImageView",
                                     "resource_id": "item_grid_device_imageview_fanicon",
                                     "scrollable": {
@@ -1033,6 +1085,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.ImageView",
                                     "name": "ImageView",
                                     "resource_id": "item_grid_device_imageview_fanspeed",
                                     "scrollable": {
@@ -1051,6 +1104,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.ImageView",
                                     "name": "ImageView",
                                     "resource_id": "item_grid_device_imageview_mode",
                                     "scrollable": {
@@ -1062,6 +1116,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.LinearLayout",
                                 "name": "LinearLayout",
                                 "resource_id": null,
                                 "scrollable": {
@@ -1080,6 +1135,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.ImageView",
                                 "name": "ImageView",
                                 "resource_id": null,
                                 "scrollable": {
@@ -1106,6 +1162,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "item_grid_device_textview_name",
                                     "scrollable": {
@@ -1117,6 +1174,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.LinearLayout",
                                 "name": "LinearLayout",
                                 "resource_id": null,
                                 "scrollable": {
@@ -1128,6 +1186,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.LinearLayout",
                             "name": "LinearLayout",
                             "resource_id": "item_grid_device_layout_panel",
                             "scrollable": {
@@ -1139,6 +1198,7 @@
                           }
                         ],
                         "clickable": false,
+                        "full_name": "android.widget.RelativeLayout",
                         "name": "RelativeLayout",
                         "resource_id": null,
                         "scrollable": {
@@ -1165,6 +1225,7 @@
                             ],
                             "children": null,
                             "clickable": true,
+                            "full_name": "android.widget.Button",
                             "name": "Button",
                             "resource_id": "item_grid_device_button_select",
                             "scrollable": {
@@ -1199,6 +1260,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "item_grid_device_textview_tempcurrent",
                                     "scrollable": {
@@ -1225,6 +1287,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.widget.TextView",
                                         "name": "TextView",
                                         "resource_id": "item_grid_device_textview_tempcurrent_c",
                                         "scrollable": {
@@ -1251,6 +1314,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "android.widget.TextView",
                                             "name": "TextView",
                                             "resource_id": "item_grid_device_textview_tempset",
                                             "scrollable": {
@@ -1269,6 +1333,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "android.widget.TextView",
                                             "name": "TextView",
                                             "resource_id": "item_grid_device_textview_tempset_c",
                                             "scrollable": {
@@ -1280,6 +1345,7 @@
                                           }
                                         ],
                                         "clickable": false,
+                                        "full_name": "android.widget.RelativeLayout",
                                         "name": "RelativeLayout",
                                         "resource_id": null,
                                         "scrollable": {
@@ -1291,6 +1357,7 @@
                                       }
                                     ],
                                     "clickable": false,
+                                    "full_name": "android.widget.RelativeLayout",
                                     "name": "RelativeLayout",
                                     "resource_id": null,
                                     "scrollable": {
@@ -1302,6 +1369,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.LinearLayout",
                                 "name": "LinearLayout",
                                 "resource_id": null,
                                 "scrollable": {
@@ -1320,6 +1388,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.ImageView",
                                 "name": "ImageView",
                                 "resource_id": null,
                                 "scrollable": {
@@ -1346,6 +1415,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.ImageView",
                                     "name": "ImageView",
                                     "resource_id": "item_grid_device_imageview_fanicon",
                                     "scrollable": {
@@ -1364,6 +1434,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.ImageView",
                                     "name": "ImageView",
                                     "resource_id": "item_grid_device_imageview_fanspeed",
                                     "scrollable": {
@@ -1382,6 +1453,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.ImageView",
                                     "name": "ImageView",
                                     "resource_id": "item_grid_device_imageview_mode",
                                     "scrollable": {
@@ -1393,6 +1465,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.LinearLayout",
                                 "name": "LinearLayout",
                                 "resource_id": null,
                                 "scrollable": {
@@ -1411,6 +1484,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.ImageView",
                                 "name": "ImageView",
                                 "resource_id": null,
                                 "scrollable": {
@@ -1429,6 +1503,7 @@
                                 ],
                                 "children": [],
                                 "clickable": false,
+                                "full_name": "android.widget.LinearLayout",
                                 "name": "LinearLayout",
                                 "resource_id": null,
                                 "scrollable": {
@@ -1440,6 +1515,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.LinearLayout",
                             "name": "LinearLayout",
                             "resource_id": "item_grid_device_layout_panel",
                             "scrollable": {
@@ -1466,6 +1542,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.ImageView",
                                 "name": "ImageView",
                                 "resource_id": "item_grid_device_imageview_off",
                                 "scrollable": {
@@ -1484,6 +1561,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.TextView",
                                 "name": "TextView",
                                 "resource_id": "item_grid_device_textview_offname",
                                 "scrollable": {
@@ -1495,6 +1573,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.RelativeLayout",
                             "name": "RelativeLayout",
                             "resource_id": "item_grid_device_layout_offschedule",
                             "scrollable": {
@@ -1506,6 +1585,7 @@
                           }
                         ],
                         "clickable": false,
+                        "full_name": "android.widget.RelativeLayout",
                         "name": "RelativeLayout",
                         "resource_id": null,
                         "scrollable": {
@@ -1532,6 +1612,7 @@
                             ],
                             "children": null,
                             "clickable": true,
+                            "full_name": "android.widget.Button",
                             "name": "Button",
                             "resource_id": "item_grid_device_button_select",
                             "scrollable": {
@@ -1566,6 +1647,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "item_grid_device_textview_tempcurrent",
                                     "scrollable": {
@@ -1592,6 +1674,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.widget.TextView",
                                         "name": "TextView",
                                         "resource_id": "item_grid_device_textview_tempcurrent_c",
                                         "scrollable": {
@@ -1618,6 +1701,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "android.widget.TextView",
                                             "name": "TextView",
                                             "resource_id": "item_grid_device_textview_tempset",
                                             "scrollable": {
@@ -1636,6 +1720,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "android.widget.TextView",
                                             "name": "TextView",
                                             "resource_id": "item_grid_device_textview_tempset_c",
                                             "scrollable": {
@@ -1647,6 +1732,7 @@
                                           }
                                         ],
                                         "clickable": false,
+                                        "full_name": "android.widget.RelativeLayout",
                                         "name": "RelativeLayout",
                                         "resource_id": null,
                                         "scrollable": {
@@ -1658,6 +1744,7 @@
                                       }
                                     ],
                                     "clickable": false,
+                                    "full_name": "android.widget.RelativeLayout",
                                     "name": "RelativeLayout",
                                     "resource_id": null,
                                     "scrollable": {
@@ -1669,6 +1756,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.LinearLayout",
                                 "name": "LinearLayout",
                                 "resource_id": null,
                                 "scrollable": {
@@ -1687,6 +1775,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.ImageView",
                                 "name": "ImageView",
                                 "resource_id": null,
                                 "scrollable": {
@@ -1713,6 +1802,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.ImageView",
                                     "name": "ImageView",
                                     "resource_id": "item_grid_device_imageview_fanicon",
                                     "scrollable": {
@@ -1731,6 +1821,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.ImageView",
                                     "name": "ImageView",
                                     "resource_id": "item_grid_device_imageview_fanspeed",
                                     "scrollable": {
@@ -1749,6 +1840,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.ImageView",
                                     "name": "ImageView",
                                     "resource_id": "item_grid_device_imageview_mode",
                                     "scrollable": {
@@ -1760,6 +1852,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.LinearLayout",
                                 "name": "LinearLayout",
                                 "resource_id": null,
                                 "scrollable": {
@@ -1778,6 +1871,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.ImageView",
                                 "name": "ImageView",
                                 "resource_id": null,
                                 "scrollable": {
@@ -1804,6 +1898,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "item_grid_device_textview_name",
                                     "scrollable": {
@@ -1815,6 +1910,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.LinearLayout",
                                 "name": "LinearLayout",
                                 "resource_id": null,
                                 "scrollable": {
@@ -1826,6 +1922,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.LinearLayout",
                             "name": "LinearLayout",
                             "resource_id": "item_grid_device_layout_panel",
                             "scrollable": {
@@ -1837,6 +1934,7 @@
                           }
                         ],
                         "clickable": false,
+                        "full_name": "android.widget.RelativeLayout",
                         "name": "RelativeLayout",
                         "resource_id": null,
                         "scrollable": {
@@ -1863,6 +1961,7 @@
                             ],
                             "children": null,
                             "clickable": true,
+                            "full_name": "android.widget.Button",
                             "name": "Button",
                             "resource_id": "item_grid_device_button_select",
                             "scrollable": {
@@ -1897,6 +1996,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "item_grid_device_textview_tempcurrent",
                                     "scrollable": {
@@ -1923,6 +2023,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.widget.TextView",
                                         "name": "TextView",
                                         "resource_id": "item_grid_device_textview_tempcurrent_c",
                                         "scrollable": {
@@ -1949,6 +2050,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "android.widget.TextView",
                                             "name": "TextView",
                                             "resource_id": "item_grid_device_textview_tempset",
                                             "scrollable": {
@@ -1967,6 +2069,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "android.widget.TextView",
                                             "name": "TextView",
                                             "resource_id": "item_grid_device_textview_tempset_c",
                                             "scrollable": {
@@ -1978,6 +2081,7 @@
                                           }
                                         ],
                                         "clickable": false,
+                                        "full_name": "android.widget.RelativeLayout",
                                         "name": "RelativeLayout",
                                         "resource_id": null,
                                         "scrollable": {
@@ -1989,6 +2093,7 @@
                                       }
                                     ],
                                     "clickable": false,
+                                    "full_name": "android.widget.RelativeLayout",
                                     "name": "RelativeLayout",
                                     "resource_id": null,
                                     "scrollable": {
@@ -2000,6 +2105,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.LinearLayout",
                                 "name": "LinearLayout",
                                 "resource_id": null,
                                 "scrollable": {
@@ -2018,6 +2124,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.ImageView",
                                 "name": "ImageView",
                                 "resource_id": null,
                                 "scrollable": {
@@ -2044,6 +2151,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.ImageView",
                                     "name": "ImageView",
                                     "resource_id": "item_grid_device_imageview_fanicon",
                                     "scrollable": {
@@ -2062,6 +2170,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.ImageView",
                                     "name": "ImageView",
                                     "resource_id": "item_grid_device_imageview_fanspeed",
                                     "scrollable": {
@@ -2080,6 +2189,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.ImageView",
                                     "name": "ImageView",
                                     "resource_id": "item_grid_device_imageview_mode",
                                     "scrollable": {
@@ -2091,6 +2201,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.LinearLayout",
                                 "name": "LinearLayout",
                                 "resource_id": null,
                                 "scrollable": {
@@ -2109,6 +2220,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.ImageView",
                                 "name": "ImageView",
                                 "resource_id": null,
                                 "scrollable": {
@@ -2135,6 +2247,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "item_grid_device_textview_name",
                                     "scrollable": {
@@ -2146,6 +2259,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.LinearLayout",
                                 "name": "LinearLayout",
                                 "resource_id": null,
                                 "scrollable": {
@@ -2157,6 +2271,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.LinearLayout",
                             "name": "LinearLayout",
                             "resource_id": "item_grid_device_layout_panel",
                             "scrollable": {
@@ -2168,6 +2283,7 @@
                           }
                         ],
                         "clickable": false,
+                        "full_name": "android.widget.RelativeLayout",
                         "name": "RelativeLayout",
                         "resource_id": null,
                         "scrollable": {
@@ -2179,6 +2295,7 @@
                       }
                     ],
                     "clickable": true,
+                    "full_name": "android.widget.GridView",
                     "name": "GridView",
                     "resource_id": "devicegrid_gridview_list",
                     "scrollable": {
@@ -2190,6 +2307,7 @@
                   }
                 ],
                 "clickable": false,
+                "full_name": "android.widget.RelativeLayout",
                 "name": "RelativeLayout",
                 "resource_id": null,
                 "scrollable": {
@@ -2201,6 +2319,7 @@
               }
             ],
             "clickable": false,
+            "full_name": "android.widget.FrameLayout",
             "name": "FrameLayout",
             "resource_id": "content",
             "scrollable": {
@@ -2212,6 +2331,7 @@
           }
         ],
         "clickable": false,
+        "full_name": "android.widget.LinearLayout",
         "name": "LinearLayout",
         "resource_id": null,
         "scrollable": {
@@ -2223,6 +2343,7 @@
       }
     ],
     "clickable": false,
+    "full_name": "com.android.internal.policy.PhoneWindow$DecorView",
     "name": "PhoneWindow$DecorView",
     "resource_id": null,
     "scrollable": {

@@ -54,6 +54,7 @@
                         ],
                         "children": null,
                         "clickable": true,
+                        "full_name": "com.google.android.gms.ads.internal.webview.o",
                         "name": "o",
                         "resource_id": null,
                         "scrollable": {
@@ -65,6 +66,7 @@
                       }
                     ],
                     "clickable": false,
+                    "full_name": "com.google.android.gms.ads.internal.webview.n",
                     "name": "n",
                     "resource_id": null,
                     "scrollable": {
@@ -91,6 +93,7 @@
                         ],
                         "children": null,
                         "clickable": true,
+                        "full_name": "android.widget.ImageButton",
                         "name": "ImageButton",
                         "resource_id": null,
                         "scrollable": {
@@ -102,6 +105,7 @@
                       }
                     ],
                     "clickable": true,
+                    "full_name": "com.google.android.gms.ads.internal.overlay.ai",
                     "name": "ai",
                     "resource_id": null,
                     "scrollable": {
@@ -113,6 +117,7 @@
                   }
                 ],
                 "clickable": false,
+                "full_name": "com.google.android.gms.ads.internal.overlay.q",
                 "name": "q",
                 "resource_id": null,
                 "scrollable": {
@@ -124,6 +129,7 @@
               }
             ],
             "clickable": false,
+            "full_name": "android.widget.FrameLayout",
             "name": "FrameLayout",
             "resource_id": "content",
             "scrollable": {
@@ -135,6 +141,7 @@
           }
         ],
         "clickable": false,
+        "full_name": "android.widget.LinearLayout",
         "name": "LinearLayout",
         "resource_id": null,
         "scrollable": {
@@ -146,6 +153,7 @@
       }
     ],
     "clickable": false,
+    "full_name": "com.android.internal.policy.PhoneWindow$DecorView",
     "name": "PhoneWindow$DecorView",
     "resource_id": null,
     "scrollable": {

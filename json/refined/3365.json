@@ -86,6 +86,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.support.v7.widget.AppCompatTextView",
                                         "name": "AppCompatTextView",
                                         "resource_id": null,
                                         "scrollable": {
@@ -104,6 +105,7 @@
                                         ],
                                         "children": null,
                                         "clickable": true,
+                                        "full_name": "android.support.v7.widget.AppCompatImageButton",
                                         "name": "AppCompatImageButton",
                                         "resource_id": null,
                                         "scrollable": {
@@ -122,6 +124,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.support.v7.widget.AppCompatImageView",
                                         "name": "AppCompatImageView",
                                         "resource_id": null,
                                         "scrollable": {
@@ -140,6 +143,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.support.v7.widget.AppCompatTextView",
                                         "name": "AppCompatTextView",
                                         "resource_id": null,
                                         "scrollable": {
@@ -166,6 +170,7 @@
                                             ],
                                             "children": null,
                                             "clickable": true,
+                                            "full_name": "android.support.v7.view.menu.ActionMenuItemView",
                                             "name": "ActionMenuItemView",
                                             "resource_id": "menu_search",
                                             "scrollable": {
@@ -177,6 +182,7 @@
                                           }
                                         ],
                                         "clickable": false,
+                                        "full_name": "android.support.v7.widget.ActionMenuView",
                                         "name": "ActionMenuView",
                                         "resource_id": null,
                                         "scrollable": {
@@ -188,6 +194,7 @@
                                       }
                                     ],
                                     "clickable": false,
+                                    "full_name": "android.support.v7.widget.Toolbar",
                                     "name": "Toolbar",
                                     "resource_id": "main_toolbar",
                                     "scrollable": {
@@ -206,6 +213,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.support.v7.widget.AppCompatImageView",
                                     "name": "AppCompatImageView",
                                     "resource_id": "view_shadow",
                                     "scrollable": {
@@ -224,6 +232,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.support.v7.widget.AppCompatImageView",
                                     "name": "AppCompatImageView",
                                     "resource_id": "iv_bk",
                                     "scrollable": {
@@ -290,6 +299,7 @@
                                                             ],
                                                             "children": null,
                                                             "clickable": true,
+                                                            "full_name": "com.google.android.gms.ads.internal.webview.m",
                                                             "name": "m",
                                                             "resource_id": null,
                                                             "scrollable": {
@@ -301,6 +311,7 @@
                                                           }
                                                         ],
                                                         "clickable": false,
+                                                        "full_name": "com.google.android.gms.ads.internal.webview.l",
                                                         "name": "l",
                                                         "resource_id": null,
                                                         "scrollable": {
@@ -312,6 +323,7 @@
                                                       }
                                                     ],
                                                     "clickable": false,
+                                                    "full_name": "com.google.android.gms.ads.internal.bi",
                                                     "name": "bi",
                                                     "resource_id": null,
                                                     "scrollable": {
@@ -323,6 +335,7 @@
                                                   }
                                                 ],
                                                 "clickable": false,
+                                                "full_name": "com.google.android.gms.ads.AdView",
                                                 "name": "AdView",
                                                 "resource_id": null,
                                                 "scrollable": {
@@ -334,6 +347,7 @@
                                               }
                                             ],
                                             "clickable": false,
+                                            "full_name": "android.widget.FrameLayout",
                                             "name": "FrameLayout",
                                             "resource_id": "ad_layout",
                                             "scrollable": {
@@ -345,6 +359,7 @@
                                           }
                                         ],
                                         "clickable": false,
+                                        "full_name": "android.widget.FrameLayout",
                                         "name": "FrameLayout",
                                         "resource_id": "l_ads",
                                         "scrollable": {
@@ -411,6 +426,7 @@
                                                                 ],
                                                                 "children": null,
                                                                 "clickable": false,
+                                                                "full_name": "com.funeasylearn.base.ui.components.LoopImageView",
                                                                 "name": "LoopImageView",
                                                                 "resource_id": "iv_bk",
                                                                 "scrollable": {
@@ -422,6 +438,7 @@
                                                               }
                                                             ],
                                                             "clickable": false,
+                                                            "full_name": "android.widget.LinearLayout",
                                                             "name": "LinearLayout",
                                                             "resource_id": "l_img",
                                                             "scrollable": {
@@ -472,6 +489,7 @@
                                                                             ],
                                                                             "children": null,
                                                                             "clickable": false,
+                                                                            "full_name": "com.funeasylearn.base.ui.components.AutoScaleTextView",
                                                                             "name": "AutoScaleTextView",
                                                                             "resource_id": "textView_is_item",
                                                                             "scrollable": {
@@ -483,6 +501,7 @@
                                                                           }
                                                                         ],
                                                                         "clickable": false,
+                                                                        "full_name": "android.widget.FrameLayout",
                                                                         "name": "FrameLayout",
                                                                         "resource_id": "l_tv",
                                                                         "scrollable": {
@@ -494,6 +513,7 @@
                                                                       }
                                                                     ],
                                                                     "clickable": false,
+                                                                    "full_name": "android.widget.LinearLayout",
                                                                     "name": "LinearLayout",
                                                                     "resource_id": "ll_text_pb_ref",
                                                                     "scrollable": {
@@ -520,6 +540,7 @@
                                                                         ],
                                                                         "children": null,
                                                                         "clickable": false,
+                                                                        "full_name": "com.funeasylearn.base.ui.components.ISImageView",
                                                                         "name": "ISImageView",
                                                                         "resource_id": "imageView_is_item",
                                                                         "scrollable": {
@@ -531,6 +552,7 @@
                                                                       }
                                                                     ],
                                                                     "clickable": false,
+                                                                    "full_name": "android.widget.FrameLayout",
                                                                     "name": "FrameLayout",
                                                                     "resource_id": "ll_iv",
                                                                     "scrollable": {
@@ -542,6 +564,7 @@
                                                                   }
                                                                 ],
                                                                 "clickable": true,
+                                                                "full_name": "android.widget.RelativeLayout",
                                                                 "name": "RelativeLayout",
                                                                 "resource_id": "is_item_root",
                                                                 "scrollable": {
@@ -584,6 +607,7 @@
                                                                             ],
                                                                             "children": null,
                                                                             "clickable": false,
+                                                                            "full_name": "android.widget.ProgressBar",
                                                                             "name": "ProgressBar",
                                                                             "resource_id": "progressBar_is_rating",
                                                                             "scrollable": {
@@ -595,6 +619,7 @@
                                                                           }
                                                                         ],
                                                                         "clickable": false,
+                                                                        "full_name": "android.widget.LinearLayout",
                                                                         "name": "LinearLayout",
                                                                         "resource_id": "ll_pb",
                                                                         "scrollable": {
@@ -621,6 +646,7 @@
                                                                             ],
                                                                             "children": null,
                                                                             "clickable": false,
+                                                                            "full_name": "com.funeasylearn.base.ui.components.AutoScaleTextView",
                                                                             "name": "AutoScaleTextView",
                                                                             "resource_id": "textView_is_item",
                                                                             "scrollable": {
@@ -632,6 +658,7 @@
                                                                           }
                                                                         ],
                                                                         "clickable": false,
+                                                                        "full_name": "android.widget.FrameLayout",
                                                                         "name": "FrameLayout",
                                                                         "resource_id": "l_tv",
                                                                         "scrollable": {
@@ -643,6 +670,7 @@
                                                                       }
                                                                     ],
                                                                     "clickable": false,
+                                                                    "full_name": "android.widget.LinearLayout",
                                                                     "name": "LinearLayout",
                                                                     "resource_id": "ll_text_pb_ref",
                                                                     "scrollable": {
@@ -669,6 +697,7 @@
                                                                         ],
                                                                         "children": null,
                                                                         "clickable": false,
+                                                                        "full_name": "com.funeasylearn.base.ui.components.ISImageView",
                                                                         "name": "ISImageView",
                                                                         "resource_id": "imageView_is_item",
                                                                         "scrollable": {
@@ -680,6 +709,7 @@
                                                                       }
                                                                     ],
                                                                     "clickable": false,
+                                                                    "full_name": "android.widget.FrameLayout",
                                                                     "name": "FrameLayout",
                                                                     "resource_id": "ll_iv",
                                                                     "scrollable": {
@@ -691,6 +721,7 @@
                                                                   }
                                                                 ],
                                                                 "clickable": true,
+                                                                "full_name": "android.widget.RelativeLayout",
                                                                 "name": "RelativeLayout",
                                                                 "resource_id": "is_item_root",
                                                                 "scrollable": {
@@ -733,6 +764,7 @@
                                                                             ],
                                                                             "children": null,
                                                                             "clickable": false,
+                                                                            "full_name": "android.widget.ProgressBar",
                                                                             "name": "ProgressBar",
                                                                             "resource_id": "progressBar_is_rating",
                                                                             "scrollable": {
@@ -744,6 +776,7 @@
                                                                           }
                                                                         ],
                                                                         "clickable": false,
+                                                                        "full_name": "android.widget.LinearLayout",
                                                                         "name": "LinearLayout",
                                                                         "resource_id": "ll_pb",
                                                                         "scrollable": {
@@ -770,6 +803,7 @@
                                                                             ],
                                                                             "children": null,
                                                                             "clickable": false,
+                                                                            "full_name": "com.funeasylearn.base.ui.components.AutoScaleTextView",
                                                                             "name": "AutoScaleTextView",
                                                                             "resource_id": "textView_is_item",
                                                                             "scrollable": {
@@ -781,6 +815,7 @@
                                                                           }
                                                                         ],
                                                                         "clickable": false,
+                                                                        "full_name": "android.widget.FrameLayout",
                                                                         "name": "FrameLayout",
                                                                         "resource_id": "l_tv",
                                                                         "scrollable": {
@@ -792,6 +827,7 @@
                                                                       }
                                                                     ],
                                                                     "clickable": false,
+                                                                    "full_name": "android.widget.LinearLayout",
                                                                     "name": "LinearLayout",
                                                                     "resource_id": "ll_text_pb_ref",
                                                                     "scrollable": {
@@ -818,6 +854,7 @@
                                                                         ],
                                                                         "children": null,
                                                                         "clickable": false,
+                                                                        "full_name": "com.funeasylearn.base.ui.components.ISImageView",
                                                                         "name": "ISImageView",
                                                                         "resource_id": "imageView_is_item",
                                                                         "scrollable": {
@@ -829,6 +866,7 @@
                                                                       }
                                                                     ],
                                                                     "clickable": false,
+                                                                    "full_name": "android.widget.FrameLayout",
                                                                     "name": "FrameLayout",
                                                                     "resource_id": "ll_iv",
                                                                     "scrollable": {
@@ -840,6 +878,7 @@
                                                                   }
                                                                 ],
                                                                 "clickable": true,
+                                                                "full_name": "android.widget.RelativeLayout",
                                                                 "name": "RelativeLayout",
                                                                 "resource_id": "is_item_root",
                                                                 "scrollable": {
@@ -851,6 +890,7 @@
                                                               }
                                                             ],
                                                             "clickable": false,
+                                                            "full_name": "com.funeasylearn.base.ui.ISRecyclerView",
                                                             "name": "ISRecyclerView",
                                                             "resource_id": "rv_is",
                                                             "scrollable": {
@@ -862,6 +902,7 @@
                                                           }
                                                         ],
                                                         "clickable": false,
+                                                        "full_name": "android.widget.FrameLayout",
                                                         "name": "FrameLayout",
                                                         "resource_id": "root_layout",
                                                         "scrollable": {
@@ -873,6 +914,7 @@
                                                       }
                                                     ],
                                                     "clickable": false,
+                                                    "full_name": "android.widget.FrameLayout",
                                                     "name": "FrameLayout",
                                                     "resource_id": "frame_L1",
                                                     "scrollable": {
@@ -915,6 +957,7 @@
                                                                 ],
                                                                 "children": null,
                                                                 "clickable": false,
+                                                                "full_name": "com.funeasylearn.base.ui.components.LoopImageView",
                                                                 "name": "LoopImageView",
                                                                 "resource_id": "iv_bk",
                                                                 "scrollable": {
@@ -926,6 +969,7 @@
                                                               }
                                                             ],
                                                             "clickable": false,
+                                                            "full_name": "android.widget.LinearLayout",
                                                             "name": "LinearLayout",
                                                             "resource_id": "l_img",
                                                             "scrollable": {
@@ -976,6 +1020,7 @@
                                                                             ],
                                                                             "children": null,
                                                                             "clickable": false,
+                                                                            "full_name": "android.widget.ProgressBar",
                                                                             "name": "ProgressBar",
                                                                             "resource_id": "progressBar_is_rating",
                                                                             "scrollable": {
@@ -987,6 +1032,7 @@
                                                                           }
                                                                         ],
                                                                         "clickable": false,
+                                                                        "full_name": "android.widget.LinearLayout",
                                                                         "name": "LinearLayout",
                                                                         "resource_id": "ll_pb",
                                                                         "scrollable": {
@@ -1013,6 +1059,7 @@
                                                                             ],
                                                                             "children": null,
                                                                             "clickable": false,
+                                                                            "full_name": "com.funeasylearn.base.ui.components.AutoScaleTextView",
                                                                             "name": "AutoScaleTextView",
                                                                             "resource_id": "textView_is_item",
                                                                             "scrollable": {
@@ -1024,6 +1071,7 @@
                                                                           }
                                                                         ],
                                                                         "clickable": false,
+                                                                        "full_name": "android.widget.FrameLayout",
                                                                         "name": "FrameLayout",
                                                                         "resource_id": "l_tv",
                                                                         "scrollable": {
@@ -1035,6 +1083,7 @@
                                                                       }
                                                                     ],
                                                                     "clickable": false,
+                                                                    "full_name": "android.widget.LinearLayout",
                                                                     "name": "LinearLayout",
                                                                     "resource_id": "ll_text_pb_ref",
                                                                     "scrollable": {
@@ -1061,6 +1110,7 @@
                                                                         ],
                                                                         "children": null,
                                                                         "clickable": false,
+                                                                        "full_name": "com.funeasylearn.base.ui.components.ISImageView",
                                                                         "name": "ISImageView",
                                                                         "resource_id": "imageView_is_item",
                                                                         "scrollable": {
@@ -1072,6 +1122,7 @@
                                                                       }
                                                                     ],
                                                                     "clickable": false,
+                                                                    "full_name": "android.widget.FrameLayout",
                                                                     "name": "FrameLayout",
                                                                     "resource_id": "ll_iv",
                                                                     "scrollable": {
@@ -1083,6 +1134,7 @@
                                                                   }
                                                                 ],
                                                                 "clickable": true,
+                                                                "full_name": "android.widget.RelativeLayout",
                                                                 "name": "RelativeLayout",
                                                                 "resource_id": "is_item_root",
                                                                 "scrollable": {
@@ -1125,6 +1177,7 @@
                                                                             ],
                                                                             "children": null,
                                                                             "clickable": false,
+                                                                            "full_name": "android.widget.ProgressBar",
                                                                             "name": "ProgressBar",
                                                                             "resource_id": "progressBar_is_rating",
                                                                             "scrollable": {
@@ -1136,6 +1189,7 @@
                                                                           }
                                                                         ],
                                                                         "clickable": false,
+                                                                        "full_name": "android.widget.LinearLayout",
                                                                         "name": "LinearLayout",
                                                                         "resource_id": "ll_pb",
                                                                         "scrollable": {
@@ -1162,6 +1216,7 @@
                                                                             ],
                                                                             "children": null,
                                                                             "clickable": false,
+                                                                            "full_name": "com.funeasylearn.base.ui.components.AutoScaleTextView",
                                                                             "name": "AutoScaleTextView",
                                                                             "resource_id": "textView_is_item",
                                                                             "scrollable": {
@@ -1173,6 +1228,7 @@
                                                                           }
                                                                         ],
                                                                         "clickable": false,
+                                                                        "full_name": "android.widget.FrameLayout",
                                                                         "name": "FrameLayout",
                                                                         "resource_id": "l_tv",
                                                                         "scrollable": {
@@ -1184,6 +1240,7 @@
                                                                       }
                                                                     ],
                                                                     "clickable": false,
+                                                                    "full_name": "android.widget.LinearLayout",
                                                                     "name": "LinearLayout",
                                                                     "resource_id": "ll_text_pb_ref",
                                                                     "scrollable": {
@@ -1210,6 +1267,7 @@
                                                                         ],
                                                                         "children": null,
                                                                         "clickable": false,
+                                                                        "full_name": "com.funeasylearn.base.ui.components.ISImageView",
                                                                         "name": "ISImageView",
                                                                         "resource_id": "imageView_is_item",
                                                                         "scrollable": {
@@ -1221,6 +1279,7 @@
                                                                       }
                                                                     ],
                                                                     "clickable": false,
+                                                                    "full_name": "android.widget.FrameLayout",
                                                                     "name": "FrameLayout",
                                                                     "resource_id": "ll_iv",
                                                                     "scrollable": {
@@ -1232,6 +1291,7 @@
                                                                   }
                                                                 ],
                                                                 "clickable": true,
+                                                                "full_name": "android.widget.RelativeLayout",
                                                                 "name": "RelativeLayout",
                                                                 "resource_id": "is_item_root",
                                                                 "scrollable": {
@@ -1274,6 +1334,7 @@
                                                                             ],
                                                                             "children": null,
                                                                             "clickable": false,
+                                                                            "full_name": "android.widget.ProgressBar",
                                                                             "name": "ProgressBar",
                                                                             "resource_id": "progressBar_is_rating",
                                                                             "scrollable": {
@@ -1285,6 +1346,7 @@
                                                                           }
                                                                         ],
                                                                         "clickable": false,
+                                                                        "full_name": "android.widget.LinearLayout",
                                                                         "name": "LinearLayout",
                                                                         "resource_id": "ll_pb",
                                                                         "scrollable": {
@@ -1311,6 +1373,7 @@
                                                                             ],
                                                                             "children": null,
                                                                             "clickable": false,
+                                                                            "full_name": "com.funeasylearn.base.ui.components.AutoScaleTextView",
                                                                             "name": "AutoScaleTextView",
                                                                             "resource_id": "textView_is_item",
                                                                             "scrollable": {
@@ -1322,6 +1385,7 @@
                                                                           }
                                                                         ],
                                                                         "clickable": false,
+                                                                        "full_name": "android.widget.FrameLayout",
                                                                         "name": "FrameLayout",
                                                                         "resource_id": "l_tv",
                                                                         "scrollable": {
@@ -1333,6 +1397,7 @@
                                                                       }
                                                                     ],
                                                                     "clickable": false,
+                                                                    "full_name": "android.widget.LinearLayout",
                                                                     "name": "LinearLayout",
                                                                     "resource_id": "ll_text_pb_ref",
                                                                     "scrollable": {
@@ -1359,6 +1424,7 @@
                                                                         ],
                                                                         "children": null,
                                                                         "clickable": false,
+                                                                        "full_name": "com.funeasylearn.base.ui.components.ISImageView",
                                                                         "name": "ISImageView",
                                                                         "resource_id": "imageView_is_item",
                                                                         "scrollable": {
@@ -1370,6 +1436,7 @@
                                                                       }
                                                                     ],
                                                                     "clickable": false,
+                                                                    "full_name": "android.widget.FrameLayout",
                                                                     "name": "FrameLayout",
                                                                     "resource_id": "ll_iv",
                                                                     "scrollable": {
@@ -1381,6 +1448,7 @@
                                                                   }
                                                                 ],
                                                                 "clickable": true,
+                                                                "full_name": "android.widget.RelativeLayout",
                                                                 "name": "RelativeLayout",
                                                                 "resource_id": "is_item_root",
                                                                 "scrollable": {
@@ -1392,6 +1460,7 @@
                                                               }
                                                             ],
                                                             "clickable": false,
+                                                            "full_name": "com.funeasylearn.base.ui.ISRecyclerView",
                                                             "name": "ISRecyclerView",
                                                             "resource_id": "rv_is",
                                                             "scrollable": {
@@ -1403,6 +1472,7 @@
                                                           }
                                                         ],
                                                         "clickable": false,
+                                                        "full_name": "android.widget.FrameLayout",
                                                         "name": "FrameLayout",
                                                         "resource_id": "root_layout",
                                                         "scrollable": {
@@ -1414,6 +1484,7 @@
                                                       }
                                                     ],
                                                     "clickable": false,
+                                                    "full_name": "android.widget.FrameLayout",
                                                     "name": "FrameLayout",
                                                     "resource_id": "frame_L2_all",
                                                     "scrollable": {
@@ -1456,6 +1527,7 @@
                                                                 ],
                                                                 "children": null,
                                                                 "clickable": false,
+                                                                "full_name": "com.funeasylearn.base.ui.components.LoopImageView",
                                                                 "name": "LoopImageView",
                                                                 "resource_id": "iv_bk",
                                                                 "scrollable": {
@@ -1467,6 +1539,7 @@
                                                               }
                                                             ],
                                                             "clickable": false,
+                                                            "full_name": "android.widget.LinearLayout",
                                                             "name": "LinearLayout",
                                                             "resource_id": "l_img",
                                                             "scrollable": {
@@ -1517,6 +1590,7 @@
                                                                             ],
                                                                             "children": null,
                                                                             "clickable": false,
+                                                                            "full_name": "com.funeasylearn.base.ui.components.AutoScaleTextView",
                                                                             "name": "AutoScaleTextView",
                                                                             "resource_id": "textView_is_item",
                                                                             "scrollable": {
@@ -1528,6 +1602,7 @@
                                                                           }
                                                                         ],
                                                                         "clickable": false,
+                                                                        "full_name": "android.widget.FrameLayout",
                                                                         "name": "FrameLayout",
                                                                         "resource_id": "l_tv",
                                                                         "scrollable": {
@@ -1539,6 +1614,7 @@
                                                                       }
                                                                     ],
                                                                     "clickable": false,
+                                                                    "full_name": "android.widget.LinearLayout",
                                                                     "name": "LinearLayout",
                                                                     "resource_id": "ll_text_pb_ref",
                                                                     "scrollable": {
@@ -1565,6 +1641,7 @@
                                                                         ],
                                                                         "children": null,
                                                                         "clickable": false,
+                                                                        "full_name": "com.funeasylearn.base.ui.components.ISImageView",
                                                                         "name": "ISImageView",
                                                                         "resource_id": "imageView_is_item",
                                                                         "scrollable": {
@@ -1583,6 +1660,7 @@
                                                                         ],
                                                                         "children": null,
                                                                         "clickable": false,
+                                                                        "full_name": "android.support.v7.widget.AppCompatImageView",
                                                                         "name": "AppCompatImageView",
                                                                         "resource_id": "imageView_is_rating",
                                                                         "scrollable": {
@@ -1594,6 +1672,7 @@
                                                                       }
                                                                     ],
                                                                     "clickable": false,
+                                                                    "full_name": "android.widget.FrameLayout",
                                                                     "name": "FrameLayout",
                                                                     "resource_id": "ll_iv",
                                                                     "scrollable": {
@@ -1605,6 +1684,7 @@
                                                                   }
                                                                 ],
                                                                 "clickable": true,
+                                                                "full_name": "android.widget.RelativeLayout",
                                                                 "name": "RelativeLayout",
                                                                 "resource_id": "is_item_root",
                                                                 "scrollable": {
@@ -1647,6 +1727,7 @@
                                                                             ],
                                                                             "children": null,
                                                                             "clickable": false,
+                                                                            "full_name": "com.funeasylearn.base.ui.components.AutoScaleTextView",
                                                                             "name": "AutoScaleTextView",
                                                                             "resource_id": "textView_is_item",
                                                                             "scrollable": {
@@ -1658,6 +1739,7 @@
                                                                           }
                                                                         ],
                                                                         "clickable": false,
+                                                                        "full_name": "android.widget.FrameLayout",
                                                                         "name": "FrameLayout",
                                                                         "resource_id": "l_tv",
                                                                         "scrollable": {
@@ -1669,6 +1751,7 @@
                                                                       }
                                                                     ],
                                                                     "clickable": false,
+                                                                    "full_name": "android.widget.LinearLayout",
                                                                     "name": "LinearLayout",
                                                                     "resource_id": "ll_text_pb_ref",
                                                                     "scrollable": {
@@ -1695,6 +1778,7 @@
                                                                         ],
                                                                         "children": null,
                                                                         "clickable": false,
+                                                                        "full_name": "com.funeasylearn.base.ui.components.ISImageView",
                                                                         "name": "ISImageView",
                                                                         "resource_id": "imageView_is_item",
                                                                         "scrollable": {
@@ -1713,6 +1797,7 @@
                                                                         ],
                                                                         "children": null,
                                                                         "clickable": false,
+                                                                        "full_name": "android.support.v7.widget.AppCompatImageView",
                                                                         "name": "AppCompatImageView",
                                                                         "resource_id": "imageView_is_rating",
                                                                         "scrollable": {
@@ -1724,6 +1809,7 @@
                                                                       }
                                                                     ],
                                                                     "clickable": false,
+                                                                    "full_name": "android.widget.FrameLayout",
                                                                     "name": "FrameLayout",
                                                                     "resource_id": "ll_iv",
                                                                     "scrollable": {
@@ -1735,6 +1821,7 @@
                                                                   }
                                                                 ],
                                                                 "clickable": true,
+                                                                "full_name": "android.widget.RelativeLayout",
                                                                 "name": "RelativeLayout",
                                                                 "resource_id": "is_item_root",
                                                                 "scrollable": {
@@ -1777,6 +1864,7 @@
                                                                             ],
                                                                             "children": null,
                                                                             "clickable": false,
+                                                                            "full_name": "com.funeasylearn.base.ui.components.AutoScaleTextView",
                                                                             "name": "AutoScaleTextView",
                                                                             "resource_id": "textView_is_item",
                                                                             "scrollable": {
@@ -1788,6 +1876,7 @@
                                                                           }
                                                                         ],
                                                                         "clickable": false,
+                                                                        "full_name": "android.widget.FrameLayout",
                                                                         "name": "FrameLayout",
                                                                         "resource_id": "l_tv",
                                                                         "scrollable": {
@@ -1799,6 +1888,7 @@
                                                                       }
                                                                     ],
                                                                     "clickable": false,
+                                                                    "full_name": "android.widget.LinearLayout",
                                                                     "name": "LinearLayout",
                                                                     "resource_id": "ll_text_pb_ref",
                                                                     "scrollable": {
@@ -1825,6 +1915,7 @@
                                                                         ],
                                                                         "children": null,
                                                                         "clickable": false,
+                                                                        "full_name": "com.funeasylearn.base.ui.components.ISImageView",
                                                                         "name": "ISImageView",
                                                                         "resource_id": "imageView_is_item",
                                                                         "scrollable": {
@@ -1843,6 +1934,7 @@
                                                                         ],
                                                                         "children": null,
                                                                         "clickable": false,
+                                                                        "full_name": "android.support.v7.widget.AppCompatImageView",
                                                                         "name": "AppCompatImageView",
                                                                         "resource_id": "imageView_is_rating",
                                                                         "scrollable": {
@@ -1854,6 +1946,7 @@
                                                                       }
                                                                     ],
                                                                     "clickable": false,
+                                                                    "full_name": "android.widget.FrameLayout",
                                                                     "name": "FrameLayout",
                                                                     "resource_id": "ll_iv",
                                                                     "scrollable": {
@@ -1865,6 +1958,7 @@
                                                                   }
                                                                 ],
                                                                 "clickable": true,
+                                                                "full_name": "android.widget.RelativeLayout",
                                                                 "name": "RelativeLayout",
                                                                 "resource_id": "is_item_root",
                                                                 "scrollable": {
@@ -1876,6 +1970,7 @@
                                                               }
                                                             ],
                                                             "clickable": false,
+                                                            "full_name": "com.funeasylearn.base.ui.ISRecyclerView",
                                                             "name": "ISRecyclerView",
                                                             "resource_id": "rv_is",
                                                             "scrollable": {
@@ -1887,6 +1982,7 @@
                                                           }
                                                         ],
                                                         "clickable": false,
+                                                        "full_name": "android.widget.FrameLayout",
                                                         "name": "FrameLayout",
                                                         "resource_id": "root_layout",
                                                         "scrollable": {
@@ -1898,6 +1994,7 @@
                                                       }
                                                     ],
                                                     "clickable": false,
+                                                    "full_name": "android.widget.FrameLayout",
                                                     "name": "FrameLayout",
                                                     "resource_id": "frame_L3",
                                                     "scrollable": {
@@ -1909,6 +2006,7 @@
                                                   }
                                                 ],
                                                 "clickable": false,
+                                                "full_name": "android.widget.LinearLayout",
                                                 "name": "LinearLayout",
                                                 "resource_id": "LinearLayout1",
                                                 "scrollable": {
@@ -1935,6 +2033,7 @@
                                                     ],
                                                     "children": null,
                                                     "clickable": true,
+                                                    "full_name": "android.support.v7.widget.AppCompatImageButton",
                                                     "name": "AppCompatImageButton",
                                                     "resource_id": null,
                                                     "scrollable": {
@@ -1946,6 +2045,7 @@
                                                   }
                                                 ],
                                                 "clickable": false,
+                                                "full_name": "android.widget.FrameLayout",
                                                 "name": "FrameLayout",
                                                 "resource_id": "l_fab",
                                                 "scrollable": {
@@ -1957,6 +2057,7 @@
                                               }
                                             ],
                                             "clickable": false,
+                                            "full_name": "android.widget.RelativeLayout",
                                             "name": "RelativeLayout",
                                             "resource_id": "fab_layout",
                                             "scrollable": {
@@ -1968,6 +2069,7 @@
                                           }
                                         ],
                                         "clickable": false,
+                                        "full_name": "android.widget.FrameLayout",
                                         "name": "FrameLayout",
                                         "resource_id": "root_layout",
                                         "scrollable": {
@@ -1979,6 +2081,7 @@
                                       }
                                     ],
                                     "clickable": false,
+                                    "full_name": "android.widget.RelativeLayout",
                                     "name": "RelativeLayout",
                                     "resource_id": "container_main_content",
                                     "scrollable": {
@@ -1990,6 +2093,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.RelativeLayout",
                                 "name": "RelativeLayout",
                                 "resource_id": "l_ab_cnt",
                                 "scrollable": {
@@ -2001,6 +2105,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.support.v4.widget.DrawerLayout",
                             "name": "DrawerLayout",
                             "resource_id": "drawer_layout_main",
                             "scrollable": {
@@ -2012,6 +2117,7 @@
                           }
                         ],
                         "clickable": false,
+                        "full_name": "android.widget.RelativeLayout",
                         "name": "RelativeLayout",
                         "resource_id": "top_layout",
                         "scrollable": {
@@ -2023,6 +2129,7 @@
                       }
                     ],
                     "clickable": false,
+                    "full_name": "android.support.v7.widget.ContentFrameLayout",
                     "name": "ContentFrameLayout",
                     "resource_id": "content",
                     "scrollable": {
@@ -2034,6 +2141,7 @@
                   }
                 ],
                 "clickable": false,
+                "full_name": "android.support.v7.widget.FitWindowsLinearLayout",
                 "name": "FitWindowsLinearLayout",
                 "resource_id": "action_bar_root",
                 "scrollable": {
@@ -2045,6 +2153,7 @@
               }
             ],
             "clickable": false,
+            "full_name": "android.widget.FrameLayout",
             "name": "FrameLayout",
             "resource_id": null,
             "scrollable": {
@@ -2056,6 +2165,7 @@
           }
         ],
         "clickable": false,
+        "full_name": "android.widget.LinearLayout",
         "name": "LinearLayout",
         "resource_id": null,
         "scrollable": {
@@ -2074,6 +2184,7 @@
         ],
         "children": null,
         "clickable": false,
+        "full_name": "android.view.View",
         "name": "View",
         "resource_id": "navigationBarBackground",
         "scrollable": {
@@ -2092,6 +2203,7 @@
         ],
         "children": null,
         "clickable": false,
+        "full_name": "android.view.View",
         "name": "View",
         "resource_id": "statusBarBackground",
         "scrollable": {
@@ -2103,6 +2215,7 @@
       }
     ],
     "clickable": false,
+    "full_name": "com.android.internal.policy.PhoneWindow$DecorView",
     "name": "PhoneWindow$DecorView",
     "resource_id": null,
     "scrollable": {

@@ -62,6 +62,7 @@
                             ],
                             "children": null,
                             "clickable": false,
+                            "full_name": "android.view.View",
                             "name": "View",
                             "resource_id": null,
                             "scrollable": {
@@ -120,6 +121,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": false,
+                                                "full_name": "android.support.v7.widget.AppCompatImageView",
                                                 "name": "AppCompatImageView",
                                                 "resource_id": "nav_menu_list_item_icon",
                                                 "scrollable": {
@@ -131,6 +133,7 @@
                                               }
                                             ],
                                             "clickable": false,
+                                            "full_name": "android.widget.LinearLayout",
                                             "name": "LinearLayout",
                                             "resource_id": null,
                                             "scrollable": {
@@ -157,6 +160,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": false,
+                                                "full_name": "android.support.v7.widget.AppCompatImageView",
                                                 "name": "AppCompatImageView",
                                                 "resource_id": "nav_menu_list_item_icon",
                                                 "scrollable": {
@@ -175,6 +179,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": false,
+                                                "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                                 "name": "FontTextView",
                                                 "resource_id": "nav_menu_list_item_name",
                                                 "scrollable": {
@@ -186,6 +191,7 @@
                                               }
                                             ],
                                             "clickable": false,
+                                            "full_name": "android.widget.LinearLayout",
                                             "name": "LinearLayout",
                                             "resource_id": null,
                                             "scrollable": {
@@ -212,6 +218,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": false,
+                                                "full_name": "android.support.v7.widget.AppCompatImageView",
                                                 "name": "AppCompatImageView",
                                                 "resource_id": "nav_menu_list_item_icon",
                                                 "scrollable": {
@@ -230,6 +237,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": false,
+                                                "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                                 "name": "FontTextView",
                                                 "resource_id": "nav_menu_list_item_name",
                                                 "scrollable": {
@@ -241,6 +249,7 @@
                                               }
                                             ],
                                             "clickable": false,
+                                            "full_name": "android.widget.LinearLayout",
                                             "name": "LinearLayout",
                                             "resource_id": null,
                                             "scrollable": {
@@ -267,6 +276,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": false,
+                                                "full_name": "android.support.v7.widget.AppCompatImageView",
                                                 "name": "AppCompatImageView",
                                                 "resource_id": "nav_menu_list_item_icon",
                                                 "scrollable": {
@@ -285,6 +295,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": false,
+                                                "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                                 "name": "FontTextView",
                                                 "resource_id": "nav_menu_list_item_name",
                                                 "scrollable": {
@@ -296,6 +307,7 @@
                                               }
                                             ],
                                             "clickable": false,
+                                            "full_name": "android.widget.LinearLayout",
                                             "name": "LinearLayout",
                                             "resource_id": null,
                                             "scrollable": {
@@ -322,6 +334,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": false,
+                                                "full_name": "android.support.v7.widget.AppCompatImageView",
                                                 "name": "AppCompatImageView",
                                                 "resource_id": "nav_menu_list_item_icon",
                                                 "scrollable": {
@@ -340,6 +353,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": false,
+                                                "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                                 "name": "FontTextView",
                                                 "resource_id": "nav_menu_list_item_name",
                                                 "scrollable": {
@@ -351,6 +365,7 @@
                                               }
                                             ],
                                             "clickable": false,
+                                            "full_name": "android.widget.LinearLayout",
                                             "name": "LinearLayout",
                                             "resource_id": null,
                                             "scrollable": {
@@ -377,6 +392,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": false,
+                                                "full_name": "android.support.v7.widget.AppCompatImageView",
                                                 "name": "AppCompatImageView",
                                                 "resource_id": "nav_menu_list_item_icon",
                                                 "scrollable": {
@@ -395,6 +411,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": false,
+                                                "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                                 "name": "FontTextView",
                                                 "resource_id": "nav_menu_list_item_name",
                                                 "scrollable": {
@@ -406,6 +423,7 @@
                                               }
                                             ],
                                             "clickable": false,
+                                            "full_name": "android.widget.LinearLayout",
                                             "name": "LinearLayout",
                                             "resource_id": null,
                                             "scrollable": {
@@ -432,6 +450,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": false,
+                                                "full_name": "android.support.v7.widget.AppCompatImageView",
                                                 "name": "AppCompatImageView",
                                                 "resource_id": "nav_menu_list_item_icon",
                                                 "scrollable": {
@@ -450,6 +469,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": false,
+                                                "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                                 "name": "FontTextView",
                                                 "resource_id": "nav_menu_list_item_name",
                                                 "scrollable": {
@@ -461,6 +481,7 @@
                                               }
                                             ],
                                             "clickable": false,
+                                            "full_name": "android.widget.LinearLayout",
                                             "name": "LinearLayout",
                                             "resource_id": null,
                                             "scrollable": {
@@ -487,6 +508,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": false,
+                                                "full_name": "android.support.v7.widget.AppCompatImageView",
                                                 "name": "AppCompatImageView",
                                                 "resource_id": "nav_menu_list_item_icon",
                                                 "scrollable": {
@@ -505,6 +527,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": false,
+                                                "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                                 "name": "FontTextView",
                                                 "resource_id": "nav_menu_list_item_name",
                                                 "scrollable": {
@@ -516,6 +539,7 @@
                                               }
                                             ],
                                             "clickable": false,
+                                            "full_name": "android.widget.LinearLayout",
                                             "name": "LinearLayout",
                                             "resource_id": null,
                                             "scrollable": {
@@ -542,6 +566,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": false,
+                                                "full_name": "android.support.v7.widget.AppCompatImageView",
                                                 "name": "AppCompatImageView",
                                                 "resource_id": "nav_menu_list_item_icon",
                                                 "scrollable": {
@@ -560,6 +585,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": false,
+                                                "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                                 "name": "FontTextView",
                                                 "resource_id": "nav_menu_list_item_name",
                                                 "scrollable": {
@@ -571,6 +597,7 @@
                                               }
                                             ],
                                             "clickable": false,
+                                            "full_name": "android.widget.LinearLayout",
                                             "name": "LinearLayout",
                                             "resource_id": null,
                                             "scrollable": {
@@ -597,6 +624,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": false,
+                                                "full_name": "android.support.v7.widget.AppCompatImageView",
                                                 "name": "AppCompatImageView",
                                                 "resource_id": "nav_menu_list_item_icon",
                                                 "scrollable": {
@@ -615,6 +643,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": false,
+                                                "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                                 "name": "FontTextView",
                                                 "resource_id": "nav_menu_list_item_name",
                                                 "scrollable": {
@@ -626,6 +655,7 @@
                                               }
                                             ],
                                             "clickable": false,
+                                            "full_name": "android.widget.LinearLayout",
                                             "name": "LinearLayout",
                                             "resource_id": null,
                                             "scrollable": {
@@ -652,6 +682,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": false,
+                                                "full_name": "android.support.v7.widget.AppCompatImageView",
                                                 "name": "AppCompatImageView",
                                                 "resource_id": "nav_menu_list_item_icon",
                                                 "scrollable": {
@@ -670,6 +701,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": false,
+                                                "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                                 "name": "FontTextView",
                                                 "resource_id": "nav_menu_list_item_name",
                                                 "scrollable": {
@@ -681,6 +713,7 @@
                                               }
                                             ],
                                             "clickable": false,
+                                            "full_name": "android.widget.LinearLayout",
                                             "name": "LinearLayout",
                                             "resource_id": null,
                                             "scrollable": {
@@ -707,6 +740,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": false,
+                                                "full_name": "android.support.v7.widget.AppCompatImageView",
                                                 "name": "AppCompatImageView",
                                                 "resource_id": "nav_menu_list_item_icon",
                                                 "scrollable": {
@@ -725,6 +759,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": false,
+                                                "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                                 "name": "FontTextView",
                                                 "resource_id": "nav_menu_list_item_name",
                                                 "scrollable": {
@@ -736,6 +771,7 @@
                                               }
                                             ],
                                             "clickable": false,
+                                            "full_name": "android.widget.LinearLayout",
                                             "name": "LinearLayout",
                                             "resource_id": null,
                                             "scrollable": {
@@ -762,6 +798,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": false,
+                                                "full_name": "android.support.v7.widget.AppCompatImageView",
                                                 "name": "AppCompatImageView",
                                                 "resource_id": "nav_menu_list_item_icon",
                                                 "scrollable": {
@@ -780,6 +817,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": false,
+                                                "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                                 "name": "FontTextView",
                                                 "resource_id": "nav_menu_list_item_name",
                                                 "scrollable": {
@@ -791,6 +829,7 @@
                                               }
                                             ],
                                             "clickable": false,
+                                            "full_name": "android.widget.LinearLayout",
                                             "name": "LinearLayout",
                                             "resource_id": null,
                                             "scrollable": {
@@ -817,6 +856,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": false,
+                                                "full_name": "android.support.v7.widget.AppCompatImageView",
                                                 "name": "AppCompatImageView",
                                                 "resource_id": "nav_menu_list_item_icon",
                                                 "scrollable": {
@@ -835,6 +875,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": false,
+                                                "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                                 "name": "FontTextView",
                                                 "resource_id": "nav_menu_list_item_name",
                                                 "scrollable": {
@@ -846,6 +887,7 @@
                                               }
                                             ],
                                             "clickable": false,
+                                            "full_name": "android.widget.LinearLayout",
                                             "name": "LinearLayout",
                                             "resource_id": null,
                                             "scrollable": {
@@ -872,6 +914,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": false,
+                                                "full_name": "android.support.v7.widget.AppCompatImageView",
                                                 "name": "AppCompatImageView",
                                                 "resource_id": "nav_menu_list_item_icon",
                                                 "scrollable": {
@@ -890,6 +933,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": false,
+                                                "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                                 "name": "FontTextView",
                                                 "resource_id": "nav_menu_list_item_name",
                                                 "scrollable": {
@@ -901,6 +945,7 @@
                                               }
                                             ],
                                             "clickable": false,
+                                            "full_name": "android.widget.LinearLayout",
                                             "name": "LinearLayout",
                                             "resource_id": null,
                                             "scrollable": {
@@ -927,6 +972,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": false,
+                                                "full_name": "android.support.v7.widget.AppCompatImageView",
                                                 "name": "AppCompatImageView",
                                                 "resource_id": "nav_menu_list_item_icon",
                                                 "scrollable": {
@@ -945,6 +991,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": false,
+                                                "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                                 "name": "FontTextView",
                                                 "resource_id": "nav_menu_list_item_name",
                                                 "scrollable": {
@@ -956,6 +1003,7 @@
                                               }
                                             ],
                                             "clickable": false,
+                                            "full_name": "android.widget.LinearLayout",
                                             "name": "LinearLayout",
                                             "resource_id": null,
                                             "scrollable": {
@@ -967,6 +1015,7 @@
                                           }
                                         ],
                                         "clickable": true,
+                                        "full_name": "android.widget.ExpandableListView",
                                         "name": "ExpandableListView",
                                         "resource_id": "nav_menu_list",
                                         "scrollable": {
@@ -978,6 +1027,7 @@
                                       }
                                     ],
                                     "clickable": false,
+                                    "full_name": "android.widget.LinearLayout",
                                     "name": "LinearLayout",
                                     "resource_id": null,
                                     "scrollable": {
@@ -989,6 +1039,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.FrameLayout",
                                 "name": "FrameLayout",
                                 "resource_id": null,
                                 "scrollable": {
@@ -1000,6 +1051,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "com.yinzcam.common.android.ui.menu.side.ExpandableNavigationMenu",
                             "name": "ExpandableNavigationMenu",
                             "resource_id": "yinz_side_menu_activity_menu",
                             "scrollable": {
@@ -1066,6 +1118,7 @@
                                                     ],
                                                     "children": null,
                                                     "clickable": false,
+                                                    "full_name": "android.support.v7.widget.AppCompatImageView",
                                                     "name": "AppCompatImageView",
                                                     "resource_id": "headline_photo_group_image_blurred_back",
                                                     "scrollable": {
@@ -1077,6 +1130,7 @@
                                                   }
                                                 ],
                                                 "clickable": false,
+                                                "full_name": "android.widget.RelativeLayout",
                                                 "name": "RelativeLayout",
                                                 "resource_id": "home_feature_image_frame_back",
                                                 "scrollable": {
@@ -1095,6 +1149,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": false,
+                                                "full_name": "android.support.v7.widget.AppCompatImageView",
                                                 "name": "AppCompatImageView",
                                                 "resource_id": "home_feature_overlay",
                                                 "scrollable": {
@@ -1169,6 +1224,7 @@
                                                                             ],
                                                                             "children": null,
                                                                             "clickable": false,
+                                                                            "full_name": "android.view.View",
                                                                             "name": "View",
                                                                             "resource_id": null,
                                                                             "scrollable": {
@@ -1195,6 +1251,7 @@
                                                                                 ],
                                                                                 "children": null,
                                                                                 "clickable": false,
+                                                                                "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                                                                 "name": "FontTextView",
                                                                                 "resource_id": "headline_score_bar_score_away",
                                                                                 "scrollable": {
@@ -1206,6 +1263,7 @@
                                                                               }
                                                                             ],
                                                                             "clickable": false,
+                                                                            "full_name": "android.widget.RelativeLayout",
                                                                             "name": "RelativeLayout",
                                                                             "resource_id": "headline_score_bar_score_away_view",
                                                                             "scrollable": {
@@ -1217,6 +1275,7 @@
                                                                           }
                                                                         ],
                                                                         "clickable": false,
+                                                                        "full_name": "android.widget.LinearLayout",
                                                                         "name": "LinearLayout",
                                                                         "resource_id": null,
                                                                         "scrollable": {
@@ -1243,6 +1302,7 @@
                                                                             ],
                                                                             "children": null,
                                                                             "clickable": false,
+                                                                            "full_name": "android.view.View",
                                                                             "name": "View",
                                                                             "resource_id": null,
                                                                             "scrollable": {
@@ -1261,6 +1321,7 @@
                                                                             ],
                                                                             "children": null,
                                                                             "clickable": false,
+                                                                            "full_name": "android.support.v7.widget.AppCompatImageView",
                                                                             "name": "AppCompatImageView",
                                                                             "resource_id": "headline_score_bar_logo_away_small",
                                                                             "scrollable": {
@@ -1279,6 +1340,7 @@
                                                                             ],
                                                                             "children": null,
                                                                             "clickable": false,
+                                                                            "full_name": "android.support.v7.widget.AppCompatImageView",
                                                                             "name": "AppCompatImageView",
                                                                             "resource_id": "headline_score_bar_possession_away",
                                                                             "scrollable": {
@@ -1290,6 +1352,7 @@
                                                                           }
                                                                         ],
                                                                         "clickable": false,
+                                                                        "full_name": "android.widget.LinearLayout",
                                                                         "name": "LinearLayout",
                                                                         "resource_id": null,
                                                                         "scrollable": {
@@ -1301,6 +1364,7 @@
                                                                       }
                                                                     ],
                                                                     "clickable": false,
+                                                                    "full_name": "android.widget.LinearLayout",
                                                                     "name": "LinearLayout",
                                                                     "resource_id": "headline_score_bar_score_away_group",
                                                                     "scrollable": {
@@ -1312,6 +1376,7 @@
                                                                   }
                                                                 ],
                                                                 "clickable": false,
+                                                                "full_name": "android.widget.FrameLayout",
                                                                 "name": "FrameLayout",
                                                                 "resource_id": null,
                                                                 "scrollable": {
@@ -1323,6 +1388,7 @@
                                                               }
                                                             ],
                                                             "clickable": false,
+                                                            "full_name": "android.widget.FrameLayout",
                                                             "name": "FrameLayout",
                                                             "resource_id": null,
                                                             "scrollable": {
@@ -1341,6 +1407,7 @@
                                                             ],
                                                             "children": [],
                                                             "clickable": false,
+                                                            "full_name": "android.widget.FrameLayout",
                                                             "name": "FrameLayout",
                                                             "resource_id": "headline_score_bar_center_group",
                                                             "scrollable": {
@@ -1391,6 +1458,7 @@
                                                                             ],
                                                                             "children": null,
                                                                             "clickable": false,
+                                                                            "full_name": "android.view.View",
                                                                             "name": "View",
                                                                             "resource_id": null,
                                                                             "scrollable": {
@@ -1409,6 +1477,7 @@
                                                                             ],
                                                                             "children": null,
                                                                             "clickable": false,
+                                                                            "full_name": "android.support.v7.widget.AppCompatImageView",
                                                                             "name": "AppCompatImageView",
                                                                             "resource_id": "headline_score_bar_logo_home_small",
                                                                             "scrollable": {
@@ -1427,6 +1496,7 @@
                                                                             ],
                                                                             "children": null,
                                                                             "clickable": false,
+                                                                            "full_name": "android.support.v7.widget.AppCompatImageView",
                                                                             "name": "AppCompatImageView",
                                                                             "resource_id": "headline_score_bar_possession_home",
                                                                             "scrollable": {
@@ -1438,6 +1508,7 @@
                                                                           }
                                                                         ],
                                                                         "clickable": false,
+                                                                        "full_name": "android.widget.LinearLayout",
                                                                         "name": "LinearLayout",
                                                                         "resource_id": null,
                                                                         "scrollable": {
@@ -1464,6 +1535,7 @@
                                                                             ],
                                                                             "children": null,
                                                                             "clickable": false,
+                                                                            "full_name": "android.view.View",
                                                                             "name": "View",
                                                                             "resource_id": null,
                                                                             "scrollable": {
@@ -1490,6 +1562,7 @@
                                                                                 ],
                                                                                 "children": null,
                                                                                 "clickable": false,
+                                                                                "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                                                                 "name": "FontTextView",
                                                                                 "resource_id": "headline_score_bar_score_home",
                                                                                 "scrollable": {
@@ -1501,6 +1574,7 @@
                                                                               }
                                                                             ],
                                                                             "clickable": false,
+                                                                            "full_name": "android.widget.RelativeLayout",
                                                                             "name": "RelativeLayout",
                                                                             "resource_id": "headline_score_bar_score_home_view",
                                                                             "scrollable": {
@@ -1512,6 +1586,7 @@
                                                                           }
                                                                         ],
                                                                         "clickable": false,
+                                                                        "full_name": "android.widget.LinearLayout",
                                                                         "name": "LinearLayout",
                                                                         "resource_id": null,
                                                                         "scrollable": {
@@ -1523,6 +1598,7 @@
                                                                       }
                                                                     ],
                                                                     "clickable": false,
+                                                                    "full_name": "android.widget.LinearLayout",
                                                                     "name": "LinearLayout",
                                                                     "resource_id": "headline_score_bar_score_home_group",
                                                                     "scrollable": {
@@ -1534,6 +1610,7 @@
                                                                   }
                                                                 ],
                                                                 "clickable": false,
+                                                                "full_name": "android.widget.FrameLayout",
                                                                 "name": "FrameLayout",
                                                                 "resource_id": null,
                                                                 "scrollable": {
@@ -1545,6 +1622,7 @@
                                                               }
                                                             ],
                                                             "clickable": false,
+                                                            "full_name": "android.widget.FrameLayout",
                                                             "name": "FrameLayout",
                                                             "resource_id": null,
                                                             "scrollable": {
@@ -1556,6 +1634,7 @@
                                                           }
                                                         ],
                                                         "clickable": false,
+                                                        "full_name": "android.widget.LinearLayout",
                                                         "name": "LinearLayout",
                                                         "resource_id": "score_bar",
                                                         "scrollable": {
@@ -1590,6 +1669,7 @@
                                                                 ],
                                                                 "children": null,
                                                                 "clickable": false,
+                                                                "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                                                 "name": "FontTextView",
                                                                 "resource_id": "headline_stat_picker_left",
                                                                 "scrollable": {
@@ -1608,6 +1688,7 @@
                                                                 ],
                                                                 "children": null,
                                                                 "clickable": false,
+                                                                "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                                                 "name": "FontTextView",
                                                                 "resource_id": "headline_stat_picker_center",
                                                                 "scrollable": {
@@ -1626,6 +1707,7 @@
                                                                 ],
                                                                 "children": null,
                                                                 "clickable": false,
+                                                                "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                                                 "name": "FontTextView",
                                                                 "resource_id": "headline_stat_picker_right",
                                                                 "scrollable": {
@@ -1637,6 +1719,7 @@
                                                               }
                                                             ],
                                                             "clickable": false,
+                                                            "full_name": "android.widget.LinearLayout",
                                                             "name": "LinearLayout",
                                                             "resource_id": null,
                                                             "scrollable": {
@@ -1671,6 +1754,7 @@
                                                                     ],
                                                                     "children": null,
                                                                     "clickable": false,
+                                                                    "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                                                     "name": "FontTextView",
                                                                     "resource_id": "headline_away_leader_stat",
                                                                     "scrollable": {
@@ -1682,6 +1766,7 @@
                                                                   }
                                                                 ],
                                                                 "clickable": false,
+                                                                "full_name": "android.widget.LinearLayout",
                                                                 "name": "LinearLayout",
                                                                 "resource_id": "headline_away_leader",
                                                                 "scrollable": {
@@ -1708,6 +1793,7 @@
                                                                     ],
                                                                     "children": null,
                                                                     "clickable": false,
+                                                                    "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                                                     "name": "FontTextView",
                                                                     "resource_id": "headline_home_leader_stat",
                                                                     "scrollable": {
@@ -1719,6 +1805,7 @@
                                                                   }
                                                                 ],
                                                                 "clickable": false,
+                                                                "full_name": "android.widget.LinearLayout",
                                                                 "name": "LinearLayout",
                                                                 "resource_id": "headline_home_leader",
                                                                 "scrollable": {
@@ -1730,6 +1817,7 @@
                                                               }
                                                             ],
                                                             "clickable": false,
+                                                            "full_name": "android.widget.LinearLayout",
                                                             "name": "LinearLayout",
                                                             "resource_id": null,
                                                             "scrollable": {
@@ -1741,6 +1829,7 @@
                                                           }
                                                         ],
                                                         "clickable": false,
+                                                        "full_name": "android.widget.LinearLayout",
                                                         "name": "LinearLayout",
                                                         "resource_id": "headline_stat_selector",
                                                         "scrollable": {
@@ -1752,6 +1841,7 @@
                                                       }
                                                     ],
                                                     "clickable": true,
+                                                    "full_name": "android.widget.LinearLayout",
                                                     "name": "LinearLayout",
                                                     "resource_id": "headline_boxscore_center",
                                                     "scrollable": {
@@ -1763,6 +1853,7 @@
                                                   }
                                                 ],
                                                 "clickable": false,
+                                                "full_name": "android.widget.LinearLayout",
                                                 "name": "LinearLayout",
                                                 "resource_id": null,
                                                 "scrollable": {
@@ -1789,6 +1880,7 @@
                                                     ],
                                                     "children": null,
                                                     "clickable": false,
+                                                    "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                                     "name": "FontTextView",
                                                     "resource_id": "alert_text",
                                                     "scrollable": {
@@ -1800,6 +1892,7 @@
                                                   }
                                                 ],
                                                 "clickable": false,
+                                                "full_name": "android.widget.LinearLayout",
                                                 "name": "LinearLayout",
                                                 "resource_id": "home_alert_view",
                                                 "scrollable": {
@@ -1866,6 +1959,7 @@
                                                                         ],
                                                                         "children": null,
                                                                         "clickable": false,
+                                                                        "full_name": "android.support.v7.widget.AppCompatImageView",
                                                                         "name": "AppCompatImageView",
                                                                         "resource_id": "view_button_titlebar_icon",
                                                                         "scrollable": {
@@ -1877,6 +1971,7 @@
                                                                       }
                                                                     ],
                                                                     "clickable": false,
+                                                                    "full_name": "android.widget.RelativeLayout",
                                                                     "name": "RelativeLayout",
                                                                     "resource_id": null,
                                                                     "scrollable": {
@@ -1888,6 +1983,7 @@
                                                                   }
                                                                 ],
                                                                 "clickable": true,
+                                                                "full_name": "com.yinzcam.common.android.ui.IconLayoutButton",
                                                                 "name": "IconLayoutButton",
                                                                 "resource_id": null,
                                                                 "scrollable": {
@@ -1899,6 +1995,7 @@
                                                               }
                                                             ],
                                                             "clickable": false,
+                                                            "full_name": "android.widget.FrameLayout",
                                                             "name": "FrameLayout",
                                                             "resource_id": "titlebar_view_left",
                                                             "scrollable": {
@@ -1910,6 +2007,7 @@
                                                           }
                                                         ],
                                                         "clickable": false,
+                                                        "full_name": "android.widget.RelativeLayout",
                                                         "name": "RelativeLayout",
                                                         "resource_id": null,
                                                         "scrollable": {
@@ -1968,6 +2066,7 @@
                                                                             ],
                                                                             "children": null,
                                                                             "clickable": false,
+                                                                            "full_name": "android.support.v7.widget.AppCompatImageView",
                                                                             "name": "AppCompatImageView",
                                                                             "resource_id": "radio_button_play",
                                                                             "scrollable": {
@@ -1979,6 +2078,7 @@
                                                                           }
                                                                         ],
                                                                         "clickable": false,
+                                                                        "full_name": "android.widget.RelativeLayout",
                                                                         "name": "RelativeLayout",
                                                                         "resource_id": "radio_titlebar_button",
                                                                         "scrollable": {
@@ -1990,6 +2090,7 @@
                                                                       }
                                                                     ],
                                                                     "clickable": true,
+                                                                    "full_name": "android.widget.LinearLayout",
                                                                     "name": "LinearLayout",
                                                                     "resource_id": null,
                                                                     "scrollable": {
@@ -2024,6 +2125,7 @@
                                                                             ],
                                                                             "children": null,
                                                                             "clickable": false,
+                                                                            "full_name": "android.support.v7.widget.AppCompatImageView",
                                                                             "name": "AppCompatImageView",
                                                                             "resource_id": "view_button_titlebar_icon",
                                                                             "scrollable": {
@@ -2035,6 +2137,7 @@
                                                                           }
                                                                         ],
                                                                         "clickable": false,
+                                                                        "full_name": "android.widget.RelativeLayout",
                                                                         "name": "RelativeLayout",
                                                                         "resource_id": null,
                                                                         "scrollable": {
@@ -2046,6 +2149,7 @@
                                                                       }
                                                                     ],
                                                                     "clickable": true,
+                                                                    "full_name": "com.yinzcam.common.android.ui.IconLayoutButton",
                                                                     "name": "IconLayoutButton",
                                                                     "resource_id": null,
                                                                     "scrollable": {
@@ -2057,6 +2161,7 @@
                                                                   }
                                                                 ],
                                                                 "clickable": false,
+                                                                "full_name": "android.widget.LinearLayout",
                                                                 "name": "LinearLayout",
                                                                 "resource_id": null,
                                                                 "scrollable": {
@@ -2068,6 +2173,7 @@
                                                               }
                                                             ],
                                                             "clickable": false,
+                                                            "full_name": "android.widget.FrameLayout",
                                                             "name": "FrameLayout",
                                                             "resource_id": "titlebar_view_right",
                                                             "scrollable": {
@@ -2079,6 +2185,7 @@
                                                           }
                                                         ],
                                                         "clickable": false,
+                                                        "full_name": "android.widget.RelativeLayout",
                                                         "name": "RelativeLayout",
                                                         "resource_id": null,
                                                         "scrollable": {
@@ -2090,6 +2197,7 @@
                                                       }
                                                     ],
                                                     "clickable": false,
+                                                    "full_name": "android.widget.RelativeLayout",
                                                     "name": "RelativeLayout",
                                                     "resource_id": null,
                                                     "scrollable": {
@@ -2101,6 +2209,7 @@
                                                   }
                                                 ],
                                                 "clickable": false,
+                                                "full_name": "com.yinzcam.common.android.ui.Titlebar",
                                                 "name": "Titlebar",
                                                 "resource_id": "home_activity_titlebar",
                                                 "scrollable": {
@@ -2112,6 +2221,7 @@
                                               }
                                             ],
                                             "clickable": false,
+                                            "full_name": "android.widget.RelativeLayout",
                                             "name": "RelativeLayout",
                                             "resource_id": "home_feature_frame",
                                             "scrollable": {
@@ -2154,6 +2264,7 @@
                                                         ],
                                                         "children": null,
                                                         "clickable": false,
+                                                        "full_name": "android.view.View",
                                                         "name": "View",
                                                         "resource_id": null,
                                                         "scrollable": {
@@ -2188,6 +2299,7 @@
                                                                 ],
                                                                 "children": null,
                                                                 "clickable": false,
+                                                                "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                                                 "name": "FontTextView",
                                                                 "resource_id": "header_in_page_text",
                                                                 "scrollable": {
@@ -2199,6 +2311,7 @@
                                                               }
                                                             ],
                                                             "clickable": false,
+                                                            "full_name": "android.widget.RelativeLayout",
                                                             "name": "RelativeLayout",
                                                             "resource_id": null,
                                                             "scrollable": {
@@ -2249,6 +2362,7 @@
                                                                             ],
                                                                             "children": null,
                                                                             "clickable": false,
+                                                                            "full_name": "android.support.v7.widget.AppCompatImageView",
                                                                             "name": "AppCompatImageView",
                                                                             "resource_id": "social_item_thumb",
                                                                             "scrollable": {
@@ -2260,6 +2374,7 @@
                                                                           }
                                                                         ],
                                                                         "clickable": false,
+                                                                        "full_name": "android.widget.RelativeLayout",
                                                                         "name": "RelativeLayout",
                                                                         "resource_id": null,
                                                                         "scrollable": {
@@ -2294,6 +2409,7 @@
                                                                                 ],
                                                                                 "children": null,
                                                                                 "clickable": false,
+                                                                                "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                                                                 "name": "FontTextView",
                                                                                 "resource_id": "twitter_item_name",
                                                                                 "scrollable": {
@@ -2312,6 +2428,7 @@
                                                                                 ],
                                                                                 "children": null,
                                                                                 "clickable": false,
+                                                                                "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                                                                 "name": "FontTextView",
                                                                                 "resource_id": "twitter_item_date",
                                                                                 "scrollable": {
@@ -2323,6 +2440,7 @@
                                                                               }
                                                                             ],
                                                                             "clickable": false,
+                                                                            "full_name": "android.widget.LinearLayout",
                                                                             "name": "LinearLayout",
                                                                             "resource_id": null,
                                                                             "scrollable": {
@@ -2341,6 +2459,7 @@
                                                                             ],
                                                                             "children": null,
                                                                             "clickable": false,
+                                                                            "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                                                             "name": "FontTextView",
                                                                             "resource_id": "twitter_item_text",
                                                                             "scrollable": {
@@ -2352,6 +2471,7 @@
                                                                           }
                                                                         ],
                                                                         "clickable": false,
+                                                                        "full_name": "android.widget.LinearLayout",
                                                                         "name": "LinearLayout",
                                                                         "resource_id": null,
                                                                         "scrollable": {
@@ -2363,6 +2483,7 @@
                                                                       }
                                                                     ],
                                                                     "clickable": false,
+                                                                    "full_name": "android.widget.LinearLayout",
                                                                     "name": "LinearLayout",
                                                                     "resource_id": null,
                                                                     "scrollable": {
@@ -2374,6 +2495,7 @@
                                                                   }
                                                                 ],
                                                                 "clickable": false,
+                                                                "full_name": "android.widget.LinearLayout",
                                                                 "name": "LinearLayout",
                                                                 "resource_id": null,
                                                                 "scrollable": {
@@ -2385,6 +2507,7 @@
                                                               }
                                                             ],
                                                             "clickable": false,
+                                                            "full_name": "android.widget.FrameLayout",
                                                             "name": "FrameLayout",
                                                             "resource_id": null,
                                                             "scrollable": {
@@ -2435,6 +2558,7 @@
                                                                             ],
                                                                             "children": null,
                                                                             "clickable": false,
+                                                                            "full_name": "android.support.v7.widget.AppCompatImageView",
                                                                             "name": "AppCompatImageView",
                                                                             "resource_id": "social_item_thumb",
                                                                             "scrollable": {
@@ -2446,6 +2570,7 @@
                                                                           }
                                                                         ],
                                                                         "clickable": false,
+                                                                        "full_name": "android.widget.RelativeLayout",
                                                                         "name": "RelativeLayout",
                                                                         "resource_id": null,
                                                                         "scrollable": {
@@ -2480,6 +2605,7 @@
                                                                                 ],
                                                                                 "children": null,
                                                                                 "clickable": false,
+                                                                                "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                                                                 "name": "FontTextView",
                                                                                 "resource_id": "twitter_item_name",
                                                                                 "scrollable": {
@@ -2498,6 +2624,7 @@
                                                                                 ],
                                                                                 "children": null,
                                                                                 "clickable": false,
+                                                                                "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                                                                 "name": "FontTextView",
                                                                                 "resource_id": "twitter_item_date",
                                                                                 "scrollable": {
@@ -2509,6 +2636,7 @@
                                                                               }
                                                                             ],
                                                                             "clickable": false,
+                                                                            "full_name": "android.widget.LinearLayout",
                                                                             "name": "LinearLayout",
                                                                             "resource_id": null,
                                                                             "scrollable": {
@@ -2527,6 +2655,7 @@
                                                                             ],
                                                                             "children": null,
                                                                             "clickable": false,
+                                                                            "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                                                             "name": "FontTextView",
                                                                             "resource_id": "twitter_item_text",
                                                                             "scrollable": {
@@ -2538,6 +2667,7 @@
                                                                           }
                                                                         ],
                                                                         "clickable": false,
+                                                                        "full_name": "android.widget.LinearLayout",
                                                                         "name": "LinearLayout",
                                                                         "resource_id": null,
                                                                         "scrollable": {
@@ -2549,6 +2679,7 @@
                                                                       }
                                                                     ],
                                                                     "clickable": false,
+                                                                    "full_name": "android.widget.LinearLayout",
                                                                     "name": "LinearLayout",
                                                                     "resource_id": null,
                                                                     "scrollable": {
@@ -2560,6 +2691,7 @@
                                                                   }
                                                                 ],
                                                                 "clickable": false,
+                                                                "full_name": "android.widget.LinearLayout",
                                                                 "name": "LinearLayout",
                                                                 "resource_id": null,
                                                                 "scrollable": {
@@ -2571,6 +2703,7 @@
                                                               }
                                                             ],
                                                             "clickable": false,
+                                                            "full_name": "android.widget.FrameLayout",
                                                             "name": "FrameLayout",
                                                             "resource_id": null,
                                                             "scrollable": {
@@ -2621,6 +2754,7 @@
                                                                             ],
                                                                             "children": null,
                                                                             "clickable": false,
+                                                                            "full_name": "android.support.v7.widget.AppCompatImageView",
                                                                             "name": "AppCompatImageView",
                                                                             "resource_id": "social_item_thumb",
                                                                             "scrollable": {
@@ -2632,6 +2766,7 @@
                                                                           }
                                                                         ],
                                                                         "clickable": false,
+                                                                        "full_name": "android.widget.RelativeLayout",
                                                                         "name": "RelativeLayout",
                                                                         "resource_id": null,
                                                                         "scrollable": {
@@ -2666,6 +2801,7 @@
                                                                                 ],
                                                                                 "children": null,
                                                                                 "clickable": false,
+                                                                                "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                                                                 "name": "FontTextView",
                                                                                 "resource_id": "twitter_item_name",
                                                                                 "scrollable": {
@@ -2684,6 +2820,7 @@
                                                                                 ],
                                                                                 "children": null,
                                                                                 "clickable": false,
+                                                                                "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                                                                 "name": "FontTextView",
                                                                                 "resource_id": "twitter_item_date",
                                                                                 "scrollable": {
@@ -2695,6 +2832,7 @@
                                                                               }
                                                                             ],
                                                                             "clickable": false,
+                                                                            "full_name": "android.widget.LinearLayout",
                                                                             "name": "LinearLayout",
                                                                             "resource_id": null,
                                                                             "scrollable": {
@@ -2713,6 +2851,7 @@
                                                                             ],
                                                                             "children": null,
                                                                             "clickable": false,
+                                                                            "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                                                             "name": "FontTextView",
                                                                             "resource_id": "twitter_item_text",
                                                                             "scrollable": {
@@ -2724,6 +2863,7 @@
                                                                           }
                                                                         ],
                                                                         "clickable": false,
+                                                                        "full_name": "android.widget.LinearLayout",
                                                                         "name": "LinearLayout",
                                                                         "resource_id": null,
                                                                         "scrollable": {
@@ -2735,6 +2875,7 @@
                                                                       }
                                                                     ],
                                                                     "clickable": false,
+                                                                    "full_name": "android.widget.LinearLayout",
                                                                     "name": "LinearLayout",
                                                                     "resource_id": null,
                                                                     "scrollable": {
@@ -2746,6 +2887,7 @@
                                                                   }
                                                                 ],
                                                                 "clickable": false,
+                                                                "full_name": "android.widget.LinearLayout",
                                                                 "name": "LinearLayout",
                                                                 "resource_id": null,
                                                                 "scrollable": {
@@ -2757,6 +2899,7 @@
                                                               }
                                                             ],
                                                             "clickable": false,
+                                                            "full_name": "android.widget.FrameLayout",
                                                             "name": "FrameLayout",
                                                             "resource_id": null,
                                                             "scrollable": {
@@ -2807,6 +2950,7 @@
                                                                             ],
                                                                             "children": null,
                                                                             "clickable": false,
+                                                                            "full_name": "android.support.v7.widget.AppCompatImageView",
                                                                             "name": "AppCompatImageView",
                                                                             "resource_id": "social_item_thumb",
                                                                             "scrollable": {
@@ -2818,6 +2962,7 @@
                                                                           }
                                                                         ],
                                                                         "clickable": false,
+                                                                        "full_name": "android.widget.RelativeLayout",
                                                                         "name": "RelativeLayout",
                                                                         "resource_id": null,
                                                                         "scrollable": {
@@ -2852,6 +2997,7 @@
                                                                                 ],
                                                                                 "children": null,
                                                                                 "clickable": false,
+                                                                                "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                                                                 "name": "FontTextView",
                                                                                 "resource_id": "twitter_item_name",
                                                                                 "scrollable": {
@@ -2870,6 +3016,7 @@
                                                                                 ],
                                                                                 "children": null,
                                                                                 "clickable": false,
+                                                                                "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                                                                 "name": "FontTextView",
                                                                                 "resource_id": "twitter_item_date",
                                                                                 "scrollable": {
@@ -2881,6 +3028,7 @@
                                                                               }
                                                                             ],
                                                                             "clickable": false,
+                                                                            "full_name": "android.widget.LinearLayout",
                                                                             "name": "LinearLayout",
                                                                             "resource_id": null,
                                                                             "scrollable": {
@@ -2899,6 +3047,7 @@
                                                                             ],
                                                                             "children": null,
                                                                             "clickable": false,
+                                                                            "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                                                             "name": "FontTextView",
                                                                             "resource_id": "twitter_item_text",
                                                                             "scrollable": {
@@ -2910,6 +3059,7 @@
                                                                           }
                                                                         ],
                                                                         "clickable": false,
+                                                                        "full_name": "android.widget.LinearLayout",
                                                                         "name": "LinearLayout",
                                                                         "resource_id": null,
                                                                         "scrollable": {
@@ -2921,6 +3071,7 @@
                                                                       }
                                                                     ],
                                                                     "clickable": false,
+                                                                    "full_name": "android.widget.LinearLayout",
                                                                     "name": "LinearLayout",
                                                                     "resource_id": null,
                                                                     "scrollable": {
@@ -2932,6 +3083,7 @@
                                                                   }
                                                                 ],
                                                                 "clickable": false,
+                                                                "full_name": "android.widget.LinearLayout",
                                                                 "name": "LinearLayout",
                                                                 "resource_id": null,
                                                                 "scrollable": {
@@ -2943,6 +3095,7 @@
                                                               }
                                                             ],
                                                             "clickable": false,
+                                                            "full_name": "android.widget.FrameLayout",
                                                             "name": "FrameLayout",
                                                             "resource_id": null,
                                                             "scrollable": {
@@ -2954,6 +3107,7 @@
                                                           }
                                                         ],
                                                         "clickable": true,
+                                                        "full_name": "android.widget.ListView",
                                                         "name": "ListView",
                                                         "resource_id": "list",
                                                         "scrollable": {
@@ -2965,6 +3119,7 @@
                                                       }
                                                     ],
                                                     "clickable": false,
+                                                    "full_name": "android.widget.LinearLayout",
                                                     "name": "LinearLayout",
                                                     "resource_id": null,
                                                     "scrollable": {
@@ -2983,6 +3138,7 @@
                                                     ],
                                                     "children": null,
                                                     "clickable": false,
+                                                    "full_name": "android.widget.FrameLayout",
                                                     "name": "FrameLayout",
                                                     "resource_id": null,
                                                     "scrollable": {
@@ -3009,6 +3165,7 @@
                                                         ],
                                                         "children": null,
                                                         "clickable": false,
+                                                        "full_name": "android.widget.RelativeLayout",
                                                         "name": "RelativeLayout",
                                                         "resource_id": "expand_button_left",
                                                         "scrollable": {
@@ -3051,6 +3208,7 @@
                                                                     ],
                                                                     "children": null,
                                                                     "clickable": false,
+                                                                    "full_name": "android.support.v7.widget.AppCompatImageView",
                                                                     "name": "AppCompatImageView",
                                                                     "resource_id": "filter_button_icon",
                                                                     "scrollable": {
@@ -3062,6 +3220,7 @@
                                                                   }
                                                                 ],
                                                                 "clickable": true,
+                                                                "full_name": "android.widget.RelativeLayout",
                                                                 "name": "RelativeLayout",
                                                                 "resource_id": "filter_button",
                                                                 "scrollable": {
@@ -3073,6 +3232,7 @@
                                                               }
                                                             ],
                                                             "clickable": false,
+                                                            "full_name": "android.widget.RelativeLayout",
                                                             "name": "RelativeLayout",
                                                             "resource_id": null,
                                                             "scrollable": {
@@ -3107,6 +3267,7 @@
                                                                     ],
                                                                     "children": null,
                                                                     "clickable": false,
+                                                                    "full_name": "android.support.v7.widget.AppCompatImageView",
                                                                     "name": "AppCompatImageView",
                                                                     "resource_id": "filter_button_icon",
                                                                     "scrollable": {
@@ -3118,6 +3279,7 @@
                                                                   }
                                                                 ],
                                                                 "clickable": true,
+                                                                "full_name": "android.widget.RelativeLayout",
                                                                 "name": "RelativeLayout",
                                                                 "resource_id": "filter_button",
                                                                 "scrollable": {
@@ -3129,6 +3291,7 @@
                                                               }
                                                             ],
                                                             "clickable": false,
+                                                            "full_name": "android.widget.RelativeLayout",
                                                             "name": "RelativeLayout",
                                                             "resource_id": null,
                                                             "scrollable": {
@@ -3140,6 +3303,7 @@
                                                           }
                                                         ],
                                                         "clickable": false,
+                                                        "full_name": "android.widget.LinearLayout",
                                                         "name": "LinearLayout",
                                                         "resource_id": "filter_button_frame",
                                                         "scrollable": {
@@ -3166,6 +3330,7 @@
                                                             ],
                                                             "children": null,
                                                             "clickable": false,
+                                                            "full_name": "android.support.v7.widget.AppCompatImageView",
                                                             "name": "AppCompatImageView",
                                                             "resource_id": "expand_button_right_icon",
                                                             "scrollable": {
@@ -3177,6 +3342,7 @@
                                                           }
                                                         ],
                                                         "clickable": true,
+                                                        "full_name": "android.widget.RelativeLayout",
                                                         "name": "RelativeLayout",
                                                         "resource_id": "expand_button_right",
                                                         "scrollable": {
@@ -3188,6 +3354,7 @@
                                                       }
                                                     ],
                                                     "clickable": false,
+                                                    "full_name": "android.widget.LinearLayout",
                                                     "name": "LinearLayout",
                                                     "resource_id": null,
                                                     "scrollable": {
@@ -3199,6 +3366,7 @@
                                                   }
                                                 ],
                                                 "clickable": false,
+                                                "full_name": "android.widget.RelativeLayout",
                                                 "name": "RelativeLayout",
                                                 "resource_id": "filter_list_frame",
                                                 "scrollable": {
@@ -3210,6 +3378,7 @@
                                               }
                                             ],
                                             "clickable": false,
+                                            "full_name": "android.widget.LinearLayout",
                                             "name": "LinearLayout",
                                             "resource_id": null,
                                             "scrollable": {
@@ -3221,6 +3390,7 @@
                                           }
                                         ],
                                         "clickable": false,
+                                        "full_name": "com.yinzcam.common.android.ui.SizeReportingRelativeLayout",
                                         "name": "SizeReportingRelativeLayout",
                                         "resource_id": "home_activity_root_frame",
                                         "scrollable": {
@@ -3232,6 +3402,7 @@
                                       }
                                     ],
                                     "clickable": false,
+                                    "full_name": "android.widget.FrameLayout",
                                     "name": "FrameLayout",
                                     "resource_id": "yinz_menu_activity_frame",
                                     "scrollable": {
@@ -3258,6 +3429,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.support.v7.widget.AppCompatImageView",
                                         "name": "AppCompatImageView",
                                         "resource_id": "yinz_menu_activity_overlay_logo",
                                         "scrollable": {
@@ -3269,6 +3441,7 @@
                                       }
                                     ],
                                     "clickable": false,
+                                    "full_name": "android.widget.RelativeLayout",
                                     "name": "RelativeLayout",
                                     "resource_id": "yinz_menu_activity_overlay",
                                     "scrollable": {
@@ -3295,6 +3468,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.support.v7.widget.AppCompatImageView",
                                         "name": "AppCompatImageView",
                                         "resource_id": "yinz_menu_activity_sponsor_header",
                                         "scrollable": {
@@ -3306,6 +3480,7 @@
                                       }
                                     ],
                                     "clickable": false,
+                                    "full_name": "android.widget.LinearLayout",
                                     "name": "LinearLayout",
                                     "resource_id": null,
                                     "scrollable": {
@@ -3317,6 +3492,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.RelativeLayout",
                                 "name": "RelativeLayout",
                                 "resource_id": null,
                                 "scrollable": {
@@ -3328,6 +3504,7 @@
                               }
                             ],
                             "clickable": true,
+                            "full_name": "android.widget.LinearLayout",
                             "name": "LinearLayout",
                             "resource_id": "yinz_menu_activity_sliding_root",
                             "scrollable": {
@@ -3354,6 +3531,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.support.v7.widget.AppCompatImageView",
                                 "name": "AppCompatImageView",
                                 "resource_id": "gameday_lock_background_image",
                                 "scrollable": {
@@ -3372,6 +3550,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.support.v7.widget.AppCompatImageView",
                                 "name": "AppCompatImageView",
                                 "resource_id": null,
                                 "scrollable": {
@@ -3390,6 +3569,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                 "name": "FontTextView",
                                 "resource_id": "gameday_lock_text",
                                 "scrollable": {
@@ -3424,6 +3604,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                         "name": "FontTextView",
                                         "resource_id": "days_value",
                                         "scrollable": {
@@ -3442,6 +3623,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                         "name": "FontTextView",
                                         "resource_id": "stat_1_name",
                                         "scrollable": {
@@ -3453,6 +3635,7 @@
                                       }
                                     ],
                                     "clickable": false,
+                                    "full_name": "android.widget.LinearLayout",
                                     "name": "LinearLayout",
                                     "resource_id": null,
                                     "scrollable": {
@@ -3479,6 +3662,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                         "name": "FontTextView",
                                         "resource_id": "hours_value",
                                         "scrollable": {
@@ -3497,6 +3681,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                         "name": "FontTextView",
                                         "resource_id": "stat_2_name",
                                         "scrollable": {
@@ -3508,6 +3693,7 @@
                                       }
                                     ],
                                     "clickable": false,
+                                    "full_name": "android.widget.LinearLayout",
                                     "name": "LinearLayout",
                                     "resource_id": null,
                                     "scrollable": {
@@ -3534,6 +3720,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                         "name": "FontTextView",
                                         "resource_id": "minutes_value",
                                         "scrollable": {
@@ -3552,6 +3739,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                         "name": "FontTextView",
                                         "resource_id": "stat_3_name",
                                         "scrollable": {
@@ -3563,6 +3751,7 @@
                                       }
                                     ],
                                     "clickable": false,
+                                    "full_name": "android.widget.LinearLayout",
                                     "name": "LinearLayout",
                                     "resource_id": null,
                                     "scrollable": {
@@ -3589,6 +3778,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                         "name": "FontTextView",
                                         "resource_id": "seconds_value",
                                         "scrollable": {
@@ -3607,6 +3797,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "com.yinzcam.common.android.ui.fonts.FontTextView",
                                         "name": "FontTextView",
                                         "resource_id": "stat_4_name",
                                         "scrollable": {
@@ -3618,6 +3809,7 @@
                                       }
                                     ],
                                     "clickable": false,
+                                    "full_name": "android.widget.LinearLayout",
                                     "name": "LinearLayout",
                                     "resource_id": null,
                                     "scrollable": {
@@ -3629,6 +3821,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.LinearLayout",
                                 "name": "LinearLayout",
                                 "resource_id": "gameday_countdown_view",
                                 "scrollable": {
@@ -3640,6 +3833,7 @@
                               }
                             ],
                             "clickable": true,
+                            "full_name": "android.widget.RelativeLayout",
                             "name": "RelativeLayout",
                             "resource_id": "gameday_lock_screen",
                             "scrollable": {
@@ -3658,6 +3852,7 @@
                             ],
                             "children": null,
                             "clickable": false,
+                            "full_name": "android.support.v7.widget.AppCompatImageView",
                             "name": "AppCompatImageView",
                             "resource_id": "yinz_menu_activity_splash",
                             "scrollable": {
@@ -3669,6 +3864,7 @@
                           }
                         ],
                         "clickable": false,
+                        "full_name": "android.widget.RelativeLayout",
                         "name": "RelativeLayout",
                         "resource_id": "yinz_menu_activity_root",
                         "scrollable": {
@@ -3680,6 +3876,7 @@
                       }
                     ],
                     "clickable": false,
+                    "full_name": "android.support.v7.widget.ContentFrameLayout",
                     "name": "ContentFrameLayout",
                     "resource_id": "content",
                     "scrollable": {
@@ -3691,6 +3888,7 @@
                   }
                 ],
                 "clickable": false,
+                "full_name": "android.support.v7.widget.FitWindowsLinearLayout",
                 "name": "FitWindowsLinearLayout",
                 "resource_id": "action_bar_root",
                 "scrollable": {
@@ -3702,6 +3900,7 @@
               }
             ],
             "clickable": false,
+            "full_name": "android.widget.FrameLayout",
             "name": "FrameLayout",
             "resource_id": null,
             "scrollable": {
@@ -3713,6 +3912,7 @@
           }
         ],
         "clickable": false,
+        "full_name": "android.widget.LinearLayout",
         "name": "LinearLayout",
         "resource_id": null,
         "scrollable": {
@@ -3724,6 +3924,7 @@
       }
     ],
     "clickable": false,
+    "full_name": "com.android.internal.policy.PhoneWindow$DecorView",
     "name": "PhoneWindow$DecorView",
     "resource_id": null,
     "scrollable": {

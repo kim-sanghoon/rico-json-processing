@@ -150,6 +150,7 @@
                                                                         ],
                                                                         "children": null,
                                                                         "clickable": false,
+                                                                        "full_name": "android.support.v7.widget.AppCompatTextView",
                                                                         "name": "AppCompatTextView",
                                                                         "resource_id": "title",
                                                                         "scrollable": {
@@ -168,6 +169,7 @@
                                                                         ],
                                                                         "children": null,
                                                                         "clickable": false,
+                                                                        "full_name": "android.support.v7.widget.AppCompatTextView",
                                                                         "name": "AppCompatTextView",
                                                                         "resource_id": "summary",
                                                                         "scrollable": {
@@ -179,6 +181,7 @@
                                                                       }
                                                                     ],
                                                                     "clickable": false,
+                                                                    "full_name": "android.widget.RelativeLayout",
                                                                     "name": "RelativeLayout",
                                                                     "resource_id": null,
                                                                     "scrollable": {
@@ -205,6 +208,7 @@
                                                                         ],
                                                                         "children": null,
                                                                         "clickable": false,
+                                                                        "full_name": "android.support.v7.widget.AppCompatCheckBox",
                                                                         "name": "AppCompatCheckBox",
                                                                         "resource_id": "checkbox",
                                                                         "scrollable": {
@@ -216,6 +220,7 @@
                                                                       }
                                                                     ],
                                                                     "clickable": false,
+                                                                    "full_name": "android.widget.LinearLayout",
                                                                     "name": "LinearLayout",
                                                                     "resource_id": "widget_frame",
                                                                     "scrollable": {
@@ -227,6 +232,7 @@
                                                                   }
                                                                 ],
                                                                 "clickable": false,
+                                                                "full_name": "android.widget.LinearLayout",
                                                                 "name": "LinearLayout",
                                                                 "resource_id": null,
                                                                 "scrollable": {
@@ -261,6 +267,7 @@
                                                                         ],
                                                                         "children": null,
                                                                         "clickable": false,
+                                                                        "full_name": "android.support.v7.widget.AppCompatTextView",
                                                                         "name": "AppCompatTextView",
                                                                         "resource_id": "title",
                                                                         "scrollable": {
@@ -279,6 +286,7 @@
                                                                         ],
                                                                         "children": null,
                                                                         "clickable": false,
+                                                                        "full_name": "android.support.v7.widget.AppCompatTextView",
                                                                         "name": "AppCompatTextView",
                                                                         "resource_id": "summary",
                                                                         "scrollable": {
@@ -290,6 +298,7 @@
                                                                       }
                                                                     ],
                                                                     "clickable": false,
+                                                                    "full_name": "android.widget.RelativeLayout",
                                                                     "name": "RelativeLayout",
                                                                     "resource_id": null,
                                                                     "scrollable": {
@@ -301,6 +310,7 @@
                                                                   }
                                                                 ],
                                                                 "clickable": false,
+                                                                "full_name": "android.widget.LinearLayout",
                                                                 "name": "LinearLayout",
                                                                 "resource_id": null,
                                                                 "scrollable": {
@@ -335,6 +345,7 @@
                                                                         ],
                                                                         "children": null,
                                                                         "clickable": false,
+                                                                        "full_name": "android.support.v7.widget.AppCompatTextView",
                                                                         "name": "AppCompatTextView",
                                                                         "resource_id": "title",
                                                                         "scrollable": {
@@ -353,6 +364,7 @@
                                                                         ],
                                                                         "children": null,
                                                                         "clickable": false,
+                                                                        "full_name": "android.support.v7.widget.AppCompatTextView",
                                                                         "name": "AppCompatTextView",
                                                                         "resource_id": "summary",
                                                                         "scrollable": {
@@ -364,6 +376,7 @@
                                                                       }
                                                                     ],
                                                                     "clickable": false,
+                                                                    "full_name": "android.widget.RelativeLayout",
                                                                     "name": "RelativeLayout",
                                                                     "resource_id": null,
                                                                     "scrollable": {
@@ -375,6 +388,7 @@
                                                                   }
                                                                 ],
                                                                 "clickable": false,
+                                                                "full_name": "android.widget.LinearLayout",
                                                                 "name": "LinearLayout",
                                                                 "resource_id": null,
                                                                 "scrollable": {
@@ -386,6 +400,7 @@
                                                               }
                                                             ],
                                                             "clickable": true,
+                                                            "full_name": "android.widget.ListView",
                                                             "name": "ListView",
                                                             "resource_id": "list",
                                                             "scrollable": {
@@ -420,6 +435,7 @@
                                                                     ],
                                                                     "children": null,
                                                                     "clickable": true,
+                                                                    "full_name": "android.support.v7.widget.AppCompatButton",
                                                                     "name": "AppCompatButton",
                                                                     "resource_id": "next_button",
                                                                     "scrollable": {
@@ -431,6 +447,7 @@
                                                                   }
                                                                 ],
                                                                 "clickable": false,
+                                                                "full_name": "android.widget.LinearLayout",
                                                                 "name": "LinearLayout",
                                                                 "resource_id": null,
                                                                 "scrollable": {
@@ -442,6 +459,7 @@
                                                               }
                                                             ],
                                                             "clickable": false,
+                                                            "full_name": "android.widget.RelativeLayout",
                                                             "name": "RelativeLayout",
                                                             "resource_id": "button_bar",
                                                             "scrollable": {
@@ -453,6 +471,7 @@
                                                           }
                                                         ],
                                                         "clickable": false,
+                                                        "full_name": "android.widget.LinearLayout",
                                                         "name": "LinearLayout",
                                                         "resource_id": null,
                                                         "scrollable": {
@@ -464,6 +483,7 @@
                                                       }
                                                     ],
                                                     "clickable": false,
+                                                    "full_name": "android.support.v7.widget.ContentFrameLayout",
                                                     "name": "ContentFrameLayout",
                                                     "resource_id": "content",
                                                     "scrollable": {
@@ -498,6 +518,7 @@
                                                             ],
                                                             "children": null,
                                                             "clickable": false,
+                                                            "full_name": "android.widget.TextView",
                                                             "name": "TextView",
                                                             "resource_id": null,
                                                             "scrollable": {
@@ -516,6 +537,7 @@
                                                             ],
                                                             "children": null,
                                                             "clickable": true,
+                                                            "full_name": "android.widget.ImageButton",
                                                             "name": "ImageButton",
                                                             "resource_id": null,
                                                             "scrollable": {
@@ -542,6 +564,7 @@
                                                                 ],
                                                                 "children": null,
                                                                 "clickable": true,
+                                                                "full_name": "android.support.v7.view.menu.ActionMenuItemView",
                                                                 "name": "ActionMenuItemView",
                                                                 "resource_id": "filter",
                                                                 "scrollable": {
@@ -553,6 +576,7 @@
                                                               }
                                                             ],
                                                             "clickable": false,
+                                                            "full_name": "android.support.v7.widget.ActionMenuView",
                                                             "name": "ActionMenuView",
                                                             "resource_id": null,
                                                             "scrollable": {
@@ -564,6 +588,7 @@
                                                           }
                                                         ],
                                                         "clickable": false,
+                                                        "full_name": "android.support.v7.widget.Toolbar",
                                                         "name": "Toolbar",
                                                         "resource_id": "action_bar",
                                                         "scrollable": {
@@ -575,6 +600,7 @@
                                                       }
                                                     ],
                                                     "clickable": false,
+                                                    "full_name": "android.support.v7.widget.ActionBarContainer",
                                                     "name": "ActionBarContainer",
                                                     "resource_id": "action_bar_container",
                                                     "scrollable": {
@@ -586,6 +612,7 @@
                                                   }
                                                 ],
                                                 "clickable": false,
+                                                "full_name": "android.support.v7.widget.ActionBarOverlayLayout",
                                                 "name": "ActionBarOverlayLayout",
                                                 "resource_id": "decor_content_parent",
                                                 "scrollable": {
@@ -597,6 +624,7 @@
                                               }
                                             ],
                                             "clickable": false,
+                                            "full_name": "android.widget.FrameLayout",
                                             "name": "FrameLayout",
                                             "resource_id": null,
                                             "scrollable": {
@@ -608,6 +636,7 @@
                                           }
                                         ],
                                         "clickable": false,
+                                        "full_name": "android.widget.LinearLayout",
                                         "name": "LinearLayout",
                                         "resource_id": null,
                                         "scrollable": {
@@ -619,6 +648,7 @@
                                       }
                                     ],
                                     "clickable": false,
+                                    "full_name": "com.android.internal.policy.PhoneWindow$DecorView",
                                     "name": "PhoneWindow$DecorView",
                                     "resource_id": null,
                                     "scrollable": {
@@ -630,6 +660,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.FrameLayout",
                                 "name": "FrameLayout",
                                 "resource_id": "tabcontent",
                                 "scrollable": {
@@ -664,6 +695,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.widget.TextView",
                                         "name": "TextView",
                                         "resource_id": "title",
                                         "scrollable": {
@@ -675,6 +707,7 @@
                                       }
                                     ],
                                     "clickable": true,
+                                    "full_name": "android.widget.LinearLayout",
                                     "name": "LinearLayout",
                                     "resource_id": null,
                                     "scrollable": {
@@ -701,6 +734,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.widget.TextView",
                                         "name": "TextView",
                                         "resource_id": "title",
                                         "scrollable": {
@@ -712,6 +746,7 @@
                                       }
                                     ],
                                     "clickable": true,
+                                    "full_name": "android.widget.LinearLayout",
                                     "name": "LinearLayout",
                                     "resource_id": null,
                                     "scrollable": {
@@ -723,6 +758,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.TabWidget",
                                 "name": "TabWidget",
                                 "resource_id": "tabs",
                                 "scrollable": {
@@ -734,6 +770,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.LinearLayout",
                             "name": "LinearLayout",
                             "resource_id": null,
                             "scrollable": {
@@ -745,6 +782,7 @@
                           }
                         ],
                         "clickable": false,
+                        "full_name": "android.widget.TabHost",
                         "name": "TabHost",
                         "resource_id": "tabhost",
                         "scrollable": {
@@ -756,6 +794,7 @@
                       }
                     ],
                     "clickable": false,
+                    "full_name": "android.widget.LinearLayout",
                     "name": "LinearLayout",
                     "resource_id": null,
                     "scrollable": {
@@ -798,6 +837,7 @@
                                 ],
                                 "children": null,
                                 "clickable": true,
+                                "full_name": "com.google.android.gms.ads.internal.webview.o",
                                 "name": "o",
                                 "resource_id": null,
                                 "scrollable": {
@@ -809,6 +849,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "com.google.android.gms.ads.internal.webview.n",
                             "name": "n",
                             "resource_id": null,
                             "scrollable": {
@@ -820,6 +861,7 @@
                           }
                         ],
                         "clickable": false,
+                        "full_name": "com.google.android.gms.ads.internal.bp",
                         "name": "bp",
                         "resource_id": null,
                         "scrollable": {
@@ -831,6 +873,7 @@
                       }
                     ],
                     "clickable": false,
+                    "full_name": "com.google.android.gms.ads.AdView",
                     "name": "AdView",
                     "resource_id": "adView",
                     "scrollable": {
@@ -842,6 +885,7 @@
                   }
                 ],
                 "clickable": false,
+                "full_name": "android.widget.LinearLayout",
                 "name": "LinearLayout",
                 "resource_id": null,
                 "scrollable": {
@@ -853,6 +897,7 @@
               }
             ],
             "clickable": false,
+            "full_name": "android.widget.FrameLayout",
             "name": "FrameLayout",
             "resource_id": "content",
             "scrollable": {
@@ -864,6 +909,7 @@
           }
         ],
         "clickable": false,
+        "full_name": "android.widget.LinearLayout",
         "name": "LinearLayout",
         "resource_id": null,
         "scrollable": {
@@ -882,6 +928,7 @@
         ],
         "children": null,
         "clickable": false,
+        "full_name": "android.view.View",
         "name": "View",
         "resource_id": "navigationBarBackground",
         "scrollable": {
@@ -900,6 +947,7 @@
         ],
         "children": null,
         "clickable": false,
+        "full_name": "android.view.View",
         "name": "View",
         "resource_id": "statusBarBackground",
         "scrollable": {
@@ -911,6 +959,7 @@
       }
     ],
     "clickable": false,
+    "full_name": "com.android.internal.policy.PhoneWindow$DecorView",
     "name": "PhoneWindow$DecorView",
     "resource_id": null,
     "scrollable": {

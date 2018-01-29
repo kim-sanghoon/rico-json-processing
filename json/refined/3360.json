@@ -118,6 +118,7 @@
                                                         ],
                                                         "children": null,
                                                         "clickable": true,
+                                                        "full_name": "mobi.escapemusic.music.standard.util.extendobject.ButtonTemplate",
                                                         "name": "ButtonTemplate",
                                                         "resource_id": "cover_menu",
                                                         "scrollable": {
@@ -144,6 +145,7 @@
                                                             ],
                                                             "children": null,
                                                             "clickable": false,
+                                                            "full_name": "mobi.escapemusic.music.standard.util.extendobject.TypefaceTextView",
                                                             "name": "TypefaceTextView",
                                                             "resource_id": "text_title",
                                                             "scrollable": {
@@ -162,6 +164,7 @@
                                                             ],
                                                             "children": null,
                                                             "clickable": false,
+                                                            "full_name": "mobi.escapemusic.music.standard.util.extendobject.TypefaceTextView",
                                                             "name": "TypefaceTextView",
                                                             "resource_id": "page_name_text_view",
                                                             "scrollable": {
@@ -173,6 +176,7 @@
                                                           }
                                                         ],
                                                         "clickable": false,
+                                                        "full_name": "android.widget.LinearLayout",
                                                         "name": "LinearLayout",
                                                         "resource_id": "text_layout",
                                                         "scrollable": {
@@ -184,6 +188,7 @@
                                                       }
                                                     ],
                                                     "clickable": true,
+                                                    "full_name": "android.widget.RelativeLayout",
                                                     "name": "RelativeLayout",
                                                     "resource_id": "header_layout_left",
                                                     "scrollable": {
@@ -210,6 +215,7 @@
                                                         ],
                                                         "children": null,
                                                         "clickable": true,
+                                                        "full_name": "mobi.escapemusic.music.standard.util.extendobject.ImageButtonTemplate",
                                                         "name": "ImageButtonTemplate",
                                                         "resource_id": "btnHeart",
                                                         "scrollable": {
@@ -221,6 +227,7 @@
                                                       }
                                                     ],
                                                     "clickable": false,
+                                                    "full_name": "android.widget.RelativeLayout",
                                                     "name": "RelativeLayout",
                                                     "resource_id": "header_layout_middle",
                                                     "scrollable": {
@@ -247,6 +254,7 @@
                                                         ],
                                                         "children": null,
                                                         "clickable": false,
+                                                        "full_name": "mobi.escapemusic.music.standard.util.extendobject.TypefaceTextView",
                                                         "name": "TypefaceTextView",
                                                         "resource_id": "hearts_counter",
                                                         "scrollable": {
@@ -258,6 +266,7 @@
                                                       }
                                                     ],
                                                     "clickable": false,
+                                                    "full_name": "android.widget.RelativeLayout",
                                                     "name": "RelativeLayout",
                                                     "resource_id": null,
                                                     "scrollable": {
@@ -284,6 +293,7 @@
                                                         ],
                                                         "children": null,
                                                         "clickable": true,
+                                                        "full_name": "android.support.v7.widget.aj",
                                                         "name": "aj",
                                                         "resource_id": "btnBrowserForward",
                                                         "scrollable": {
@@ -302,6 +312,7 @@
                                                         ],
                                                         "children": null,
                                                         "clickable": true,
+                                                        "full_name": "mobi.escapemusic.music.standard.util.extendobject.ImageButtonTemplate",
                                                         "name": "ImageButtonTemplate",
                                                         "resource_id": "btnShare",
                                                         "scrollable": {
@@ -328,6 +339,7 @@
                                                             ],
                                                             "children": null,
                                                             "clickable": true,
+                                                            "full_name": "mobi.escapemusic.music.standard.util.extendobject.ImageButtonTemplate",
                                                             "name": "ImageButtonTemplate",
                                                             "resource_id": "btnMore",
                                                             "scrollable": {
@@ -339,6 +351,7 @@
                                                           }
                                                         ],
                                                         "clickable": false,
+                                                        "full_name": "android.widget.RelativeLayout",
                                                         "name": "RelativeLayout",
                                                         "resource_id": null,
                                                         "scrollable": {
@@ -350,6 +363,7 @@
                                                       }
                                                     ],
                                                     "clickable": false,
+                                                    "full_name": "android.widget.LinearLayout",
                                                     "name": "LinearLayout",
                                                     "resource_id": "header_layout_right",
                                                     "scrollable": {
@@ -361,6 +375,7 @@
                                                   }
                                                 ],
                                                 "clickable": false,
+                                                "full_name": "mobi.escapemusic.music.standard.mainView.HeaderLayout",
                                                 "name": "HeaderLayout",
                                                 "resource_id": "header_layout",
                                                 "scrollable": {
@@ -403,6 +418,7 @@
                                                             ],
                                                             "children": null,
                                                             "clickable": false,
+                                                            "full_name": "android.support.v7.widget.al",
                                                             "name": "al",
                                                             "resource_id": null,
                                                             "scrollable": {
@@ -414,6 +430,7 @@
                                                           }
                                                         ],
                                                         "clickable": true,
+                                                        "full_name": "android.support.design.widget.au",
                                                         "name": "au",
                                                         "resource_id": null,
                                                         "scrollable": {
@@ -440,6 +457,7 @@
                                                             ],
                                                             "children": null,
                                                             "clickable": false,
+                                                            "full_name": "android.support.v7.widget.al",
                                                             "name": "al",
                                                             "resource_id": null,
                                                             "scrollable": {
@@ -451,6 +469,7 @@
                                                           }
                                                         ],
                                                         "clickable": true,
+                                                        "full_name": "android.support.design.widget.au",
                                                         "name": "au",
                                                         "resource_id": null,
                                                         "scrollable": {
@@ -477,6 +496,7 @@
                                                             ],
                                                             "children": null,
                                                             "clickable": false,
+                                                            "full_name": "android.support.v7.widget.al",
                                                             "name": "al",
                                                             "resource_id": null,
                                                             "scrollable": {
@@ -488,6 +508,7 @@
                                                           }
                                                         ],
                                                         "clickable": true,
+                                                        "full_name": "android.support.design.widget.au",
                                                         "name": "au",
                                                         "resource_id": null,
                                                         "scrollable": {
@@ -514,6 +535,7 @@
                                                             ],
                                                             "children": null,
                                                             "clickable": false,
+                                                            "full_name": "android.support.v7.widget.al",
                                                             "name": "al",
                                                             "resource_id": null,
                                                             "scrollable": {
@@ -525,6 +547,7 @@
                                                           }
                                                         ],
                                                         "clickable": true,
+                                                        "full_name": "android.support.design.widget.au",
                                                         "name": "au",
                                                         "resource_id": null,
                                                         "scrollable": {
@@ -536,6 +559,7 @@
                                                       }
                                                     ],
                                                     "clickable": false,
+                                                    "full_name": "android.support.design.widget.ar",
                                                     "name": "ar",
                                                     "resource_id": null,
                                                     "scrollable": {
@@ -547,6 +571,7 @@
                                                   }
                                                 ],
                                                 "clickable": false,
+                                                "full_name": "android.support.design.widget.TabLayout",
                                                 "name": "TabLayout",
                                                 "resource_id": "tabs",
                                                 "scrollable": {
@@ -558,6 +583,7 @@
                                               }
                                             ],
                                             "clickable": false,
+                                            "full_name": "android.support.design.widget.AppBarLayout",
                                             "name": "AppBarLayout",
                                             "resource_id": "appBarLayout",
                                             "scrollable": {
@@ -640,6 +666,7 @@
                                                                             ],
                                                                             "children": null,
                                                                             "clickable": false,
+                                                                            "full_name": "android.support.v7.widget.al",
                                                                             "name": "al",
                                                                             "resource_id": "notzz_image",
                                                                             "scrollable": {
@@ -666,6 +693,7 @@
                                                                                 ],
                                                                                 "children": null,
                                                                                 "clickable": true,
+                                                                                "full_name": "android.widget.ProgressBar",
                                                                                 "name": "ProgressBar",
                                                                                 "resource_id": "notzz_music_progress_bar",
                                                                                 "scrollable": {
@@ -684,6 +712,7 @@
                                                                                 ],
                                                                                 "children": null,
                                                                                 "clickable": false,
+                                                                                "full_name": "android.support.v7.widget.al",
                                                                                 "name": "al",
                                                                                 "resource_id": "notzz_like_shining_image",
                                                                                 "scrollable": {
@@ -695,6 +724,7 @@
                                                                               }
                                                                             ],
                                                                             "clickable": false,
+                                                                            "full_name": "android.widget.RelativeLayout",
                                                                             "name": "RelativeLayout",
                                                                             "resource_id": null,
                                                                             "scrollable": {
@@ -706,6 +736,7 @@
                                                                           }
                                                                         ],
                                                                         "clickable": true,
+                                                                        "full_name": "android.widget.RelativeLayout",
                                                                         "name": "RelativeLayout",
                                                                         "resource_id": "notzz_image_layout",
                                                                         "scrollable": {
@@ -748,6 +779,7 @@
                                                                                     ],
                                                                                     "children": null,
                                                                                     "clickable": false,
+                                                                                    "full_name": "android.support.v7.widget.al",
                                                                                     "name": "al",
                                                                                     "resource_id": "super_user_icon_1",
                                                                                     "scrollable": {
@@ -774,6 +806,7 @@
                                                                                         ],
                                                                                         "children": null,
                                                                                         "clickable": false,
+                                                                                        "full_name": "mobi.escapemusic.music.standard.util.extendobject.TypefaceTextView",
                                                                                         "name": "TypefaceTextView",
                                                                                         "resource_id": null,
                                                                                         "scrollable": {
@@ -800,6 +833,7 @@
                                                                                             ],
                                                                                             "children": null,
                                                                                             "clickable": false,
+                                                                                            "full_name": "android.support.v7.widget.al",
                                                                                             "name": "al",
                                                                                             "resource_id": null,
                                                                                             "scrollable": {
@@ -818,6 +852,7 @@
                                                                                             ],
                                                                                             "children": null,
                                                                                             "clickable": false,
+                                                                                            "full_name": "mobi.escapemusic.music.standard.util.extendobject.TypefaceTextView",
                                                                                             "name": "TypefaceTextView",
                                                                                             "resource_id": "super_user_score_1",
                                                                                             "scrollable": {
@@ -829,6 +864,7 @@
                                                                                           }
                                                                                         ],
                                                                                         "clickable": false,
+                                                                                        "full_name": "android.widget.LinearLayout",
                                                                                         "name": "LinearLayout",
                                                                                         "resource_id": null,
                                                                                         "scrollable": {
@@ -840,6 +876,7 @@
                                                                                       }
                                                                                     ],
                                                                                     "clickable": false,
+                                                                                    "full_name": "android.widget.LinearLayout",
                                                                                     "name": "LinearLayout",
                                                                                     "resource_id": null,
                                                                                     "scrollable": {
@@ -851,6 +888,7 @@
                                                                                   }
                                                                                 ],
                                                                                 "clickable": true,
+                                                                                "full_name": "android.widget.LinearLayout",
                                                                                 "name": "LinearLayout",
                                                                                 "resource_id": "super_star_1",
                                                                                 "scrollable": {
@@ -877,6 +915,7 @@
                                                                                     ],
                                                                                     "children": null,
                                                                                     "clickable": false,
+                                                                                    "full_name": "android.support.v7.widget.al",
                                                                                     "name": "al",
                                                                                     "resource_id": "super_user_icon_2",
                                                                                     "scrollable": {
@@ -903,6 +942,7 @@
                                                                                         ],
                                                                                         "children": null,
                                                                                         "clickable": false,
+                                                                                        "full_name": "mobi.escapemusic.music.standard.util.extendobject.TypefaceTextView",
                                                                                         "name": "TypefaceTextView",
                                                                                         "resource_id": null,
                                                                                         "scrollable": {
@@ -929,6 +969,7 @@
                                                                                             ],
                                                                                             "children": null,
                                                                                             "clickable": false,
+                                                                                            "full_name": "android.support.v7.widget.al",
                                                                                             "name": "al",
                                                                                             "resource_id": null,
                                                                                             "scrollable": {
@@ -947,6 +988,7 @@
                                                                                             ],
                                                                                             "children": null,
                                                                                             "clickable": false,
+                                                                                            "full_name": "mobi.escapemusic.music.standard.util.extendobject.TypefaceTextView",
                                                                                             "name": "TypefaceTextView",
                                                                                             "resource_id": "super_user_score_2",
                                                                                             "scrollable": {
@@ -958,6 +1000,7 @@
                                                                                           }
                                                                                         ],
                                                                                         "clickable": false,
+                                                                                        "full_name": "android.widget.LinearLayout",
                                                                                         "name": "LinearLayout",
                                                                                         "resource_id": null,
                                                                                         "scrollable": {
@@ -969,6 +1012,7 @@
                                                                                       }
                                                                                     ],
                                                                                     "clickable": false,
+                                                                                    "full_name": "android.widget.LinearLayout",
                                                                                     "name": "LinearLayout",
                                                                                     "resource_id": null,
                                                                                     "scrollable": {
@@ -980,6 +1024,7 @@
                                                                                   }
                                                                                 ],
                                                                                 "clickable": true,
+                                                                                "full_name": "android.widget.LinearLayout",
                                                                                 "name": "LinearLayout",
                                                                                 "resource_id": "super_star_2",
                                                                                 "scrollable": {
@@ -1006,6 +1051,7 @@
                                                                                     ],
                                                                                     "children": null,
                                                                                     "clickable": false,
+                                                                                    "full_name": "android.support.v7.widget.al",
                                                                                     "name": "al",
                                                                                     "resource_id": "super_user_icon_3",
                                                                                     "scrollable": {
@@ -1032,6 +1078,7 @@
                                                                                         ],
                                                                                         "children": null,
                                                                                         "clickable": false,
+                                                                                        "full_name": "mobi.escapemusic.music.standard.util.extendobject.TypefaceTextView",
                                                                                         "name": "TypefaceTextView",
                                                                                         "resource_id": null,
                                                                                         "scrollable": {
@@ -1058,6 +1105,7 @@
                                                                                             ],
                                                                                             "children": null,
                                                                                             "clickable": false,
+                                                                                            "full_name": "android.support.v7.widget.al",
                                                                                             "name": "al",
                                                                                             "resource_id": null,
                                                                                             "scrollable": {
@@ -1076,6 +1124,7 @@
                                                                                             ],
                                                                                             "children": null,
                                                                                             "clickable": false,
+                                                                                            "full_name": "mobi.escapemusic.music.standard.util.extendobject.TypefaceTextView",
                                                                                             "name": "TypefaceTextView",
                                                                                             "resource_id": "super_user_score_3",
                                                                                             "scrollable": {
@@ -1087,6 +1136,7 @@
                                                                                           }
                                                                                         ],
                                                                                         "clickable": false,
+                                                                                        "full_name": "android.widget.LinearLayout",
                                                                                         "name": "LinearLayout",
                                                                                         "resource_id": null,
                                                                                         "scrollable": {
@@ -1098,6 +1148,7 @@
                                                                                       }
                                                                                     ],
                                                                                     "clickable": false,
+                                                                                    "full_name": "android.widget.LinearLayout",
                                                                                     "name": "LinearLayout",
                                                                                     "resource_id": null,
                                                                                     "scrollable": {
@@ -1109,6 +1160,7 @@
                                                                                   }
                                                                                 ],
                                                                                 "clickable": true,
+                                                                                "full_name": "android.widget.LinearLayout",
                                                                                 "name": "LinearLayout",
                                                                                 "resource_id": "super_star_3",
                                                                                 "scrollable": {
@@ -1120,6 +1172,7 @@
                                                                               }
                                                                             ],
                                                                             "clickable": false,
+                                                                            "full_name": "android.widget.LinearLayout",
                                                                             "name": "LinearLayout",
                                                                             "resource_id": "superstar_top_fan_layout",
                                                                             "scrollable": {
@@ -1138,6 +1191,7 @@
                                                                             ],
                                                                             "children": null,
                                                                             "clickable": true,
+                                                                            "full_name": "android.support.v7.widget.al",
                                                                             "name": "al",
                                                                             "resource_id": "super_star_board",
                                                                             "scrollable": {
@@ -1164,6 +1218,7 @@
                                                                                 ],
                                                                                 "children": null,
                                                                                 "clickable": false,
+                                                                                "full_name": "android.support.v7.widget.al",
                                                                                 "name": "al",
                                                                                 "resource_id": "super_user_icon_self",
                                                                                 "scrollable": {
@@ -1190,6 +1245,7 @@
                                                                                     ],
                                                                                     "children": null,
                                                                                     "clickable": false,
+                                                                                    "full_name": "mobi.escapemusic.music.standard.util.extendobject.TypefaceTextView",
                                                                                     "name": "TypefaceTextView",
                                                                                     "resource_id": null,
                                                                                     "scrollable": {
@@ -1216,6 +1272,7 @@
                                                                                         ],
                                                                                         "children": null,
                                                                                         "clickable": false,
+                                                                                        "full_name": "android.support.v7.widget.al",
                                                                                         "name": "al",
                                                                                         "resource_id": null,
                                                                                         "scrollable": {
@@ -1234,6 +1291,7 @@
                                                                                         ],
                                                                                         "children": null,
                                                                                         "clickable": false,
+                                                                                        "full_name": "mobi.escapemusic.music.standard.util.extendobject.TypefaceTextView",
                                                                                         "name": "TypefaceTextView",
                                                                                         "resource_id": "super_user_score_self",
                                                                                         "scrollable": {
@@ -1245,6 +1303,7 @@
                                                                                       }
                                                                                     ],
                                                                                     "clickable": false,
+                                                                                    "full_name": "android.widget.LinearLayout",
                                                                                     "name": "LinearLayout",
                                                                                     "resource_id": null,
                                                                                     "scrollable": {
@@ -1256,6 +1315,7 @@
                                                                                   }
                                                                                 ],
                                                                                 "clickable": false,
+                                                                                "full_name": "android.widget.LinearLayout",
                                                                                 "name": "LinearLayout",
                                                                                 "resource_id": null,
                                                                                 "scrollable": {
@@ -1267,6 +1327,7 @@
                                                                               }
                                                                             ],
                                                                             "clickable": true,
+                                                                            "full_name": "android.widget.LinearLayout",
                                                                             "name": "LinearLayout",
                                                                             "resource_id": "super_star_self",
                                                                             "scrollable": {
@@ -1278,6 +1339,7 @@
                                                                           }
                                                                         ],
                                                                         "clickable": false,
+                                                                        "full_name": "android.widget.RelativeLayout",
                                                                         "name": "RelativeLayout",
                                                                         "resource_id": null,
                                                                         "scrollable": {
@@ -1312,6 +1374,7 @@
                                                                                 ],
                                                                                 "children": null,
                                                                                 "clickable": false,
+                                                                                "full_name": "android.support.v7.widget.al",
                                                                                 "name": "al",
                                                                                 "resource_id": "notzz_artist_icon",
                                                                                 "scrollable": {
@@ -1330,6 +1393,7 @@
                                                                                 ],
                                                                                 "children": null,
                                                                                 "clickable": false,
+                                                                                "full_name": "mobi.escapemusic.music.standard.util.extendobject.TypefaceTextView",
                                                                                 "name": "TypefaceTextView",
                                                                                 "resource_id": "notzz_share_time",
                                                                                 "scrollable": {
@@ -1341,6 +1405,7 @@
                                                                               }
                                                                             ],
                                                                             "clickable": false,
+                                                                            "full_name": "android.widget.LinearLayout",
                                                                             "name": "LinearLayout",
                                                                             "resource_id": null,
                                                                             "scrollable": {
@@ -1375,6 +1440,7 @@
                                                                                     ],
                                                                                     "children": null,
                                                                                     "clickable": false,
+                                                                                    "full_name": "mobi.escapemusic.music.standard.util.extendobject.TypefaceTextView",
                                                                                     "name": "TypefaceTextView",
                                                                                     "resource_id": "caption",
                                                                                     "scrollable": {
@@ -1386,6 +1452,7 @@
                                                                                   }
                                                                                 ],
                                                                                 "clickable": false,
+                                                                                "full_name": "android.widget.LinearLayout",
                                                                                 "name": "LinearLayout",
                                                                                 "resource_id": null,
                                                                                 "scrollable": {
@@ -1404,6 +1471,7 @@
                                                                                 ],
                                                                                 "children": null,
                                                                                 "clickable": false,
+                                                                                "full_name": "mobi.escapemusic.music.standard.util.extendobject.TypefaceTextView",
                                                                                 "name": "TypefaceTextView",
                                                                                 "resource_id": "notzz_comment_3",
                                                                                 "scrollable": {
@@ -1422,6 +1490,7 @@
                                                                                 ],
                                                                                 "children": null,
                                                                                 "clickable": false,
+                                                                                "full_name": "mobi.escapemusic.music.standard.util.extendobject.TypefaceTextView",
                                                                                 "name": "TypefaceTextView",
                                                                                 "resource_id": "notzz_comment_2",
                                                                                 "scrollable": {
@@ -1440,6 +1509,7 @@
                                                                                 ],
                                                                                 "children": [],
                                                                                 "clickable": false,
+                                                                                "full_name": "android.widget.LinearLayout",
                                                                                 "name": "LinearLayout",
                                                                                 "resource_id": null,
                                                                                 "scrollable": {
@@ -1451,6 +1521,7 @@
                                                                               }
                                                                             ],
                                                                             "clickable": true,
+                                                                            "full_name": "android.widget.LinearLayout",
                                                                             "name": "LinearLayout",
                                                                             "resource_id": "notzz_comment_layout",
                                                                             "scrollable": {
@@ -1462,6 +1533,7 @@
                                                                           }
                                                                         ],
                                                                         "clickable": false,
+                                                                        "full_name": "android.widget.LinearLayout",
                                                                         "name": "LinearLayout",
                                                                         "resource_id": null,
                                                                         "scrollable": {
@@ -1473,6 +1545,7 @@
                                                                       }
                                                                     ],
                                                                     "clickable": false,
+                                                                    "full_name": "android.widget.LinearLayout",
                                                                     "name": "LinearLayout",
                                                                     "resource_id": "main_cover_layout",
                                                                     "scrollable": {
@@ -1484,6 +1557,7 @@
                                                                   }
                                                                 ],
                                                                 "clickable": false,
+                                                                "full_name": "android.support.v7.widget.CardView",
                                                                 "name": "CardView",
                                                                 "resource_id": null,
                                                                 "scrollable": {
@@ -1495,6 +1569,7 @@
                                                               }
                                                             ],
                                                             "clickable": false,
+                                                            "full_name": "android.support.v7.widget.RecyclerView",
                                                             "name": "RecyclerView",
                                                             "resource_id": "list_view",
                                                             "scrollable": {
@@ -1506,6 +1581,7 @@
                                                           }
                                                         ],
                                                         "clickable": false,
+                                                        "full_name": "android.support.v4.widget.SwipeRefreshLayout",
                                                         "name": "SwipeRefreshLayout",
                                                         "resource_id": "notzz_list_swipelayout",
                                                         "scrollable": {
@@ -1517,6 +1593,7 @@
                                                       }
                                                     ],
                                                     "clickable": false,
+                                                    "full_name": "android.widget.FrameLayout",
                                                     "name": "FrameLayout",
                                                     "resource_id": "notzz_fragment_container",
                                                     "scrollable": {
@@ -1528,6 +1605,7 @@
                                                   }
                                                 ],
                                                 "clickable": false,
+                                                "full_name": "android.widget.RelativeLayout",
                                                 "name": "RelativeLayout",
                                                 "resource_id": null,
                                                 "scrollable": {
@@ -1539,6 +1617,7 @@
                                               }
                                             ],
                                             "clickable": false,
+                                            "full_name": "android.support.v4.view.ViewPager",
                                             "name": "ViewPager",
                                             "resource_id": "pager",
                                             "scrollable": {
@@ -1557,6 +1636,7 @@
                                             ],
                                             "children": null,
                                             "clickable": true,
+                                            "full_name": "android.support.design.widget.FloatingActionButton",
                                             "name": "FloatingActionButton",
                                             "resource_id": "feed_fab",
                                             "scrollable": {
@@ -1568,6 +1648,7 @@
                                           }
                                         ],
                                         "clickable": false,
+                                        "full_name": "android.support.design.widget.CoordinatorLayout",
                                         "name": "CoordinatorLayout",
                                         "resource_id": null,
                                         "scrollable": {
@@ -1586,6 +1667,7 @@
                                         ],
                                         "children": [],
                                         "clickable": false,
+                                        "full_name": "android.widget.LinearLayout",
                                         "name": "LinearLayout",
                                         "resource_id": "ads_layout_main",
                                         "scrollable": {
@@ -1612,6 +1694,7 @@
                                             ],
                                             "children": [],
                                             "clickable": false,
+                                            "full_name": "mobi.escapemusic.music.standard.mainView.SlidingDrawLayout",
                                             "name": "SlidingDrawLayout",
                                             "resource_id": "slidingdraw",
                                             "scrollable": {
@@ -1623,6 +1706,7 @@
                                           }
                                         ],
                                         "clickable": false,
+                                        "full_name": "android.widget.FrameLayout",
                                         "name": "FrameLayout",
                                         "resource_id": null,
                                         "scrollable": {
@@ -1634,6 +1718,7 @@
                                       }
                                     ],
                                     "clickable": false,
+                                    "full_name": "android.widget.RelativeLayout",
                                     "name": "RelativeLayout",
                                     "resource_id": "main_cover_layout",
                                     "scrollable": {
@@ -1645,6 +1730,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "com.flipboard.bottomsheet.BottomSheetLayout",
                                 "name": "BottomSheetLayout",
                                 "resource_id": "bottomsheet",
                                 "scrollable": {
@@ -1656,6 +1742,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.FrameLayout",
                             "name": "FrameLayout",
                             "resource_id": "content_frame",
                             "scrollable": {
@@ -1667,6 +1754,7 @@
                           }
                         ],
                         "clickable": false,
+                        "full_name": "android.support.v4.widget.DrawerLayout",
                         "name": "DrawerLayout",
                         "resource_id": "drawer_layout",
                         "scrollable": {
@@ -1678,6 +1766,7 @@
                       }
                     ],
                     "clickable": false,
+                    "full_name": "android.support.v7.widget.ContentFrameLayout",
                     "name": "ContentFrameLayout",
                     "resource_id": "content",
                     "scrollable": {
@@ -1689,6 +1778,7 @@
                   }
                 ],
                 "clickable": false,
+                "full_name": "android.support.v7.widget.FitWindowsLinearLayout",
                 "name": "FitWindowsLinearLayout",
                 "resource_id": "action_bar_root",
                 "scrollable": {
@@ -1700,6 +1790,7 @@
               }
             ],
             "clickable": false,
+            "full_name": "android.widget.FrameLayout",
             "name": "FrameLayout",
             "resource_id": null,
             "scrollable": {
@@ -1711,6 +1802,7 @@
           }
         ],
         "clickable": false,
+        "full_name": "android.widget.LinearLayout",
         "name": "LinearLayout",
         "resource_id": null,
         "scrollable": {
@@ -1729,6 +1821,7 @@
         ],
         "children": null,
         "clickable": false,
+        "full_name": "android.view.View",
         "name": "View",
         "resource_id": "navigationBarBackground",
         "scrollable": {
@@ -1747,6 +1840,7 @@
         ],
         "children": null,
         "clickable": false,
+        "full_name": "android.view.View",
         "name": "View",
         "resource_id": "statusBarBackground",
         "scrollable": {
@@ -1758,6 +1852,7 @@
       }
     ],
     "clickable": false,
+    "full_name": "com.android.internal.policy.PhoneWindow$DecorView",
     "name": "PhoneWindow$DecorView",
     "resource_id": null,
     "scrollable": {

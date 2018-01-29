@@ -62,6 +62,7 @@
                             ],
                             "children": null,
                             "clickable": true,
+                            "full_name": "android.widget.Button",
                             "name": "Button",
                             "resource_id": "search_refine_back_parent_panel",
                             "scrollable": {
@@ -88,6 +89,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.TextView",
                                 "name": "TextView",
                                 "resource_id": "search_refine_panel_title",
                                 "scrollable": {
@@ -114,6 +116,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.ProgressBar",
                                     "name": "ProgressBar",
                                     "resource_id": "progress",
                                     "scrollable": {
@@ -132,6 +135,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "search_refine_panel_result_count",
                                     "scrollable": {
@@ -143,6 +147,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.LinearLayout",
                                 "name": "LinearLayout",
                                 "resource_id": null,
                                 "scrollable": {
@@ -154,6 +159,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.LinearLayout",
                             "name": "LinearLayout",
                             "resource_id": null,
                             "scrollable": {
@@ -172,6 +178,7 @@
                             ],
                             "children": null,
                             "clickable": true,
+                            "full_name": "android.widget.Button",
                             "name": "Button",
                             "resource_id": "search_refine_done",
                             "scrollable": {
@@ -183,6 +190,7 @@
                           }
                         ],
                         "clickable": true,
+                        "full_name": "android.widget.FrameLayout",
                         "name": "FrameLayout",
                         "resource_id": "search_refine_header_layout",
                         "scrollable": {
@@ -201,6 +209,7 @@
                         ],
                         "children": null,
                         "clickable": false,
+                        "full_name": "android.view.View",
                         "name": "View",
                         "resource_id": null,
                         "scrollable": {
@@ -251,6 +260,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.view.View",
                                         "name": "View",
                                         "resource_id": "loc_ebn_divider",
                                         "scrollable": {
@@ -277,6 +287,7 @@
                                             ],
                                             "children": null,
                                             "clickable": true,
+                                            "full_name": "android.widget.CheckBox",
                                             "name": "CheckBox",
                                             "resource_id": "loc_store_pickup_cbox",
                                             "scrollable": {
@@ -295,6 +306,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "android.widget.TextView",
                                             "name": "TextView",
                                             "resource_id": "loc_store_pickup_title",
                                             "scrollable": {
@@ -313,6 +325,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "android.widget.TextView",
                                             "name": "TextView",
                                             "resource_id": "loc_store_pickup_hint",
                                             "scrollable": {
@@ -324,6 +337,7 @@
                                           }
                                         ],
                                         "clickable": true,
+                                        "full_name": "android.widget.RelativeLayout",
                                         "name": "RelativeLayout",
                                         "resource_id": "loc_store_pickup",
                                         "scrollable": {
@@ -342,6 +356,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.view.View",
                                         "name": "View",
                                         "resource_id": "loc_store_pickup_divider",
                                         "scrollable": {
@@ -368,6 +383,7 @@
                                             ],
                                             "children": null,
                                             "clickable": true,
+                                            "full_name": "android.widget.CheckBox",
                                             "name": "CheckBox",
                                             "resource_id": "loc_local_pickup_cbox",
                                             "scrollable": {
@@ -386,6 +402,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "android.widget.TextView",
                                             "name": "TextView",
                                             "resource_id": "loc_local_pickup_title",
                                             "scrollable": {
@@ -404,6 +421,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "android.widget.TextView",
                                             "name": "TextView",
                                             "resource_id": "loc_local_pickup_hint",
                                             "scrollable": {
@@ -415,6 +433,7 @@
                                           }
                                         ],
                                         "clickable": true,
+                                        "full_name": "android.widget.RelativeLayout",
                                         "name": "RelativeLayout",
                                         "resource_id": "loc_local_pickup",
                                         "scrollable": {
@@ -433,6 +452,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.view.View",
                                         "name": "View",
                                         "resource_id": "loc_local_pickup_divider",
                                         "scrollable": {
@@ -451,6 +471,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.view.View",
                                         "name": "View",
                                         "resource_id": null,
                                         "scrollable": {
@@ -477,6 +498,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "android.widget.TextView",
                                             "name": "TextView",
                                             "resource_id": "loc_zipcode_label",
                                             "scrollable": {
@@ -495,6 +517,7 @@
                                             ],
                                             "children": null,
                                             "clickable": true,
+                                            "full_name": "android.widget.EditText",
                                             "name": "EditText",
                                             "resource_id": "loc_zipcode_field",
                                             "scrollable": {
@@ -513,6 +536,7 @@
                                             ],
                                             "children": null,
                                             "clickable": true,
+                                            "full_name": "android.widget.ImageView",
                                             "name": "ImageView",
                                             "resource_id": "loc_use_my_location",
                                             "scrollable": {
@@ -524,6 +548,7 @@
                                           }
                                         ],
                                         "clickable": false,
+                                        "full_name": "android.widget.RelativeLayout",
                                         "name": "RelativeLayout",
                                         "resource_id": null,
                                         "scrollable": {
@@ -542,6 +567,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.view.View",
                                         "name": "View",
                                         "resource_id": null,
                                         "scrollable": {
@@ -560,6 +586,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.view.View",
                                         "name": "View",
                                         "resource_id": "distance_layout_divider",
                                         "scrollable": {
@@ -571,6 +598,7 @@
                                       }
                                     ],
                                     "clickable": false,
+                                    "full_name": "android.widget.LinearLayout",
                                     "name": "LinearLayout",
                                     "resource_id": "location_options",
                                     "scrollable": {
@@ -582,6 +610,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.ScrollView",
                                 "name": "ScrollView",
                                 "resource_id": "location_root",
                                 "scrollable": {
@@ -593,6 +622,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.FrameLayout",
                             "name": "FrameLayout",
                             "resource_id": "refine_custom",
                             "scrollable": {
@@ -611,6 +641,7 @@
                             ],
                             "children": [],
                             "clickable": false,
+                            "full_name": "android.widget.ScrollView",
                             "name": "ScrollView",
                             "resource_id": "refine_root",
                             "scrollable": {
@@ -622,6 +653,7 @@
                           }
                         ],
                         "clickable": false,
+                        "full_name": "android.widget.FrameLayout",
                         "name": "FrameLayout",
                         "resource_id": null,
                         "scrollable": {
@@ -633,6 +665,7 @@
                       }
                     ],
                     "clickable": false,
+                    "full_name": "android.widget.LinearLayout",
                     "name": "LinearLayout",
                     "resource_id": "search_refine_fragment",
                     "scrollable": {
@@ -644,6 +677,7 @@
                   }
                 ],
                 "clickable": false,
+                "full_name": "android.support.v4.widget.DrawerLayout",
                 "name": "DrawerLayout",
                 "resource_id": "refine_drawer",
                 "scrollable": {
@@ -655,6 +689,7 @@
               }
             ],
             "clickable": false,
+            "full_name": "android.widget.FrameLayout",
             "name": "FrameLayout",
             "resource_id": "content",
             "scrollable": {
@@ -705,6 +740,7 @@
                             ],
                             "children": null,
                             "clickable": false,
+                            "full_name": "android.widget.ImageView",
                             "name": "ImageView",
                             "resource_id": "up",
                             "scrollable": {
@@ -723,6 +759,7 @@
                             ],
                             "children": null,
                             "clickable": false,
+                            "full_name": "android.widget.ImageView",
                             "name": "ImageView",
                             "resource_id": "home",
                             "scrollable": {
@@ -734,6 +771,7 @@
                           }
                         ],
                         "clickable": false,
+                        "full_name": "com.android.internal.widget.ActionBarView$HomeView",
                         "name": "ActionBarView$HomeView",
                         "resource_id": null,
                         "scrollable": {
@@ -745,6 +783,7 @@
                       }
                     ],
                     "clickable": true,
+                    "full_name": "android.widget.LinearLayout",
                     "name": "LinearLayout",
                     "resource_id": null,
                     "scrollable": {
@@ -779,6 +818,7 @@
                             ],
                             "children": null,
                             "clickable": false,
+                            "full_name": "android.widget.ImageView",
                             "name": "ImageView",
                             "resource_id": "action_view_icon",
                             "scrollable": {
@@ -790,6 +830,7 @@
                           }
                         ],
                         "clickable": true,
+                        "full_name": "android.widget.RelativeLayout",
                         "name": "RelativeLayout",
                         "resource_id": "menu_symban",
                         "scrollable": {
@@ -816,6 +857,7 @@
                             ],
                             "children": null,
                             "clickable": false,
+                            "full_name": "android.widget.ImageView",
                             "name": "ImageView",
                             "resource_id": "action_view_icon",
                             "scrollable": {
@@ -827,6 +869,7 @@
                           }
                         ],
                         "clickable": true,
+                        "full_name": "android.widget.RelativeLayout",
                         "name": "RelativeLayout",
                         "resource_id": "menu_shopping_cart",
                         "scrollable": {
@@ -845,6 +888,7 @@
                         ],
                         "children": null,
                         "clickable": true,
+                        "full_name": "android.widget.ActionMenuPresenter$OverflowMenuButton",
                         "name": "ActionMenuPresenter$OverflowMenuButton",
                         "resource_id": null,
                         "scrollable": {
@@ -856,6 +900,7 @@
                       }
                     ],
                     "clickable": false,
+                    "full_name": "android.widget.ActionMenuView",
                     "name": "ActionMenuView",
                     "resource_id": null,
                     "scrollable": {
@@ -867,6 +912,7 @@
                   }
                 ],
                 "clickable": false,
+                "full_name": "com.android.internal.widget.ActionBarView",
                 "name": "ActionBarView",
                 "resource_id": "action_bar",
                 "scrollable": {
@@ -878,6 +924,7 @@
               }
             ],
             "clickable": false,
+            "full_name": "com.android.internal.widget.ActionBarContainer",
             "name": "ActionBarContainer",
             "resource_id": "action_bar_container",
             "scrollable": {
@@ -889,6 +936,7 @@
           }
         ],
         "clickable": false,
+        "full_name": "com.android.internal.widget.ActionBarOverlayLayout",
         "name": "ActionBarOverlayLayout",
         "resource_id": "decor_content_parent",
         "scrollable": {
@@ -900,6 +948,7 @@
       }
     ],
     "clickable": false,
+    "full_name": "com.android.internal.policy.PhoneWindow$DecorView",
     "name": "PhoneWindow$DecorView",
     "resource_id": null,
     "scrollable": {

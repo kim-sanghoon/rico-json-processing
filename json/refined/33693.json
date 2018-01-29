@@ -46,6 +46,7 @@
                     ],
                     "children": null,
                     "clickable": false,
+                    "full_name": "android.widget.ImageView",
                     "name": "ImageView",
                     "resource_id": null,
                     "scrollable": {
@@ -72,6 +73,7 @@
                         ],
                         "children": null,
                         "clickable": true,
+                        "full_name": "android.widget.ImageButton",
                         "name": "ImageButton",
                         "resource_id": "homeButton",
                         "scrollable": {
@@ -98,6 +100,7 @@
                             ],
                             "children": null,
                             "clickable": false,
+                            "full_name": "android.widget.TextView",
                             "name": "TextView",
                             "resource_id": "nowPlayingLabel",
                             "scrollable": {
@@ -109,6 +112,7 @@
                           }
                         ],
                         "clickable": true,
+                        "full_name": "android.widget.FrameLayout",
                         "name": "FrameLayout",
                         "resource_id": "lcdMini",
                         "scrollable": {
@@ -135,6 +139,7 @@
                             ],
                             "children": null,
                             "clickable": true,
+                            "full_name": "android.widget.ImageButton",
                             "name": "ImageButton",
                             "resource_id": "togglePlayButton",
                             "scrollable": {
@@ -146,6 +151,7 @@
                           }
                         ],
                         "clickable": false,
+                        "full_name": "android.widget.FrameLayout",
                         "name": "FrameLayout",
                         "resource_id": null,
                         "scrollable": {
@@ -157,6 +163,7 @@
                       }
                     ],
                     "clickable": false,
+                    "full_name": "android.widget.LinearLayout",
                     "name": "LinearLayout",
                     "resource_id": null,
                     "scrollable": {
@@ -199,6 +206,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.TextView",
                                 "name": "TextView",
                                 "resource_id": "title",
                                 "scrollable": {
@@ -225,6 +233,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "subtitle",
                                     "scrollable": {
@@ -243,6 +252,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "news",
                                     "scrollable": {
@@ -254,6 +264,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.RelativeLayout",
                                 "name": "RelativeLayout",
                                 "resource_id": null,
                                 "scrollable": {
@@ -265,6 +276,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.LinearLayout",
                             "name": "LinearLayout",
                             "resource_id": null,
                             "scrollable": {
@@ -291,6 +303,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.TextView",
                                 "name": "TextView",
                                 "resource_id": "title",
                                 "scrollable": {
@@ -317,6 +330,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "subtitle",
                                     "scrollable": {
@@ -335,6 +349,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "news",
                                     "scrollable": {
@@ -346,6 +361,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.RelativeLayout",
                                 "name": "RelativeLayout",
                                 "resource_id": null,
                                 "scrollable": {
@@ -357,6 +373,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.LinearLayout",
                             "name": "LinearLayout",
                             "resource_id": null,
                             "scrollable": {
@@ -383,6 +400,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.TextView",
                                 "name": "TextView",
                                 "resource_id": "title",
                                 "scrollable": {
@@ -409,6 +427,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "subtitle",
                                     "scrollable": {
@@ -427,6 +446,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "news",
                                     "scrollable": {
@@ -438,6 +458,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.RelativeLayout",
                                 "name": "RelativeLayout",
                                 "resource_id": null,
                                 "scrollable": {
@@ -449,6 +470,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.LinearLayout",
                             "name": "LinearLayout",
                             "resource_id": null,
                             "scrollable": {
@@ -475,6 +497,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.TextView",
                                 "name": "TextView",
                                 "resource_id": "title",
                                 "scrollable": {
@@ -501,6 +524,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "subtitle",
                                     "scrollable": {
@@ -519,6 +543,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "news",
                                     "scrollable": {
@@ -530,6 +555,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.RelativeLayout",
                                 "name": "RelativeLayout",
                                 "resource_id": null,
                                 "scrollable": {
@@ -541,6 +567,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.LinearLayout",
                             "name": "LinearLayout",
                             "resource_id": null,
                             "scrollable": {
@@ -567,6 +594,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.TextView",
                                 "name": "TextView",
                                 "resource_id": "title",
                                 "scrollable": {
@@ -593,6 +621,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "subtitle",
                                     "scrollable": {
@@ -611,6 +640,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "news",
                                     "scrollable": {
@@ -622,6 +652,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.RelativeLayout",
                                 "name": "RelativeLayout",
                                 "resource_id": null,
                                 "scrollable": {
@@ -633,6 +664,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.LinearLayout",
                             "name": "LinearLayout",
                             "resource_id": null,
                             "scrollable": {
@@ -659,6 +691,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.TextView",
                                 "name": "TextView",
                                 "resource_id": "title",
                                 "scrollable": {
@@ -685,6 +718,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "subtitle",
                                     "scrollable": {
@@ -703,6 +737,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "news",
                                     "scrollable": {
@@ -714,6 +749,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.RelativeLayout",
                                 "name": "RelativeLayout",
                                 "resource_id": null,
                                 "scrollable": {
@@ -725,6 +761,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.LinearLayout",
                             "name": "LinearLayout",
                             "resource_id": null,
                             "scrollable": {
@@ -751,6 +788,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.TextView",
                                 "name": "TextView",
                                 "resource_id": "title",
                                 "scrollable": {
@@ -762,6 +800,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.LinearLayout",
                             "name": "LinearLayout",
                             "resource_id": null,
                             "scrollable": {
@@ -773,6 +812,7 @@
                           }
                         ],
                         "clickable": true,
+                        "full_name": "android.widget.ListView",
                         "name": "ListView",
                         "resource_id": "list",
                         "scrollable": {
@@ -784,6 +824,7 @@
                       }
                     ],
                     "clickable": false,
+                    "full_name": "android.widget.FrameLayout",
                     "name": "FrameLayout",
                     "resource_id": null,
                     "scrollable": {
@@ -802,6 +843,7 @@
                     ],
                     "children": null,
                     "clickable": true,
+                    "full_name": "android.widget.Button",
                     "name": "Button",
                     "resource_id": "upgradeButton",
                     "scrollable": {
@@ -813,6 +855,7 @@
                   }
                 ],
                 "clickable": false,
+                "full_name": "android.widget.LinearLayout",
                 "name": "LinearLayout",
                 "resource_id": null,
                 "scrollable": {
@@ -824,6 +867,7 @@
               }
             ],
             "clickable": false,
+            "full_name": "android.widget.FrameLayout",
             "name": "FrameLayout",
             "resource_id": "content",
             "scrollable": {
@@ -835,6 +879,7 @@
           }
         ],
         "clickable": false,
+        "full_name": "android.widget.LinearLayout",
         "name": "LinearLayout",
         "resource_id": null,
         "scrollable": {
@@ -853,6 +898,7 @@
         ],
         "children": null,
         "clickable": false,
+        "full_name": "android.view.View",
         "name": "View",
         "resource_id": "navigationBarBackground",
         "scrollable": {
@@ -871,6 +917,7 @@
         ],
         "children": null,
         "clickable": false,
+        "full_name": "android.view.View",
         "name": "View",
         "resource_id": "statusBarBackground",
         "scrollable": {
@@ -882,6 +929,7 @@
       }
     ],
     "clickable": false,
+    "full_name": "com.android.internal.policy.PhoneWindow$DecorView",
     "name": "PhoneWindow$DecorView",
     "resource_id": null,
     "scrollable": {

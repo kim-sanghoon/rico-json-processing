@@ -86,6 +86,7 @@
                                         ],
                                         "children": null,
                                         "clickable": false,
+                                        "full_name": "android.widget.ImageView",
                                         "name": "ImageView",
                                         "resource_id": "incognito_icon",
                                         "scrollable": {
@@ -112,6 +113,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "android.widget.ImageView",
                                             "name": "ImageView",
                                             "resource_id": "favicon",
                                             "scrollable": {
@@ -130,6 +132,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "android.widget.ImageView",
                                             "name": "ImageView",
                                             "resource_id": "lock",
                                             "scrollable": {
@@ -141,6 +144,7 @@
                                           }
                                         ],
                                         "clickable": true,
+                                        "full_name": "android.widget.FrameLayout",
                                         "name": "FrameLayout",
                                         "resource_id": "iconcombo",
                                         "scrollable": {
@@ -159,6 +163,7 @@
                                         ],
                                         "children": null,
                                         "clickable": true,
+                                        "full_name": "com.android.browser.UrlInputView",
                                         "name": "UrlInputView",
                                         "resource_id": "url",
                                         "scrollable": {
@@ -177,6 +182,7 @@
                                         ],
                                         "children": null,
                                         "clickable": true,
+                                        "full_name": "android.widget.ImageView",
                                         "name": "ImageView",
                                         "resource_id": "clear",
                                         "scrollable": {
@@ -188,6 +194,7 @@
                                       }
                                     ],
                                     "clickable": false,
+                                    "full_name": "android.widget.LinearLayout",
                                     "name": "LinearLayout",
                                     "resource_id": "title_bg",
                                     "scrollable": {
@@ -206,6 +213,7 @@
                                     ],
                                     "children": null,
                                     "clickable": true,
+                                    "full_name": "android.widget.ImageButton",
                                     "name": "ImageButton",
                                     "resource_id": "tab_switcher",
                                     "scrollable": {
@@ -224,6 +232,7 @@
                                     ],
                                     "children": null,
                                     "clickable": true,
+                                    "full_name": "android.widget.ImageButton",
                                     "name": "ImageButton",
                                     "resource_id": "more",
                                     "scrollable": {
@@ -235,6 +244,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "com.android.browser.NavigationBarPhone",
                                 "name": "NavigationBarPhone",
                                 "resource_id": "taburlbar",
                                 "scrollable": {
@@ -253,6 +263,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.view.ViewStub",
                                 "name": "ViewStub",
                                 "resource_id": "autologin_stub",
                                 "scrollable": {
@@ -264,6 +275,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.RelativeLayout",
                             "name": "RelativeLayout",
                             "resource_id": "titlebar",
                             "scrollable": {
@@ -275,6 +287,7 @@
                           }
                         ],
                         "clickable": false,
+                        "full_name": "com.android.browser.TitleBar",
                         "name": "TitleBar",
                         "resource_id": null,
                         "scrollable": {
@@ -286,6 +299,7 @@
                       }
                     ],
                     "clickable": false,
+                    "full_name": "android.widget.FrameLayout",
                     "name": "FrameLayout",
                     "resource_id": "fixed_titlebar_container",
                     "scrollable": {
@@ -328,6 +342,7 @@
                                 ],
                                 "children": null,
                                 "clickable": true,
+                                "full_name": "com.android.browser.BrowserWebView",
                                 "name": "BrowserWebView",
                                 "resource_id": null,
                                 "scrollable": {
@@ -339,6 +354,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.FrameLayout",
                             "name": "FrameLayout",
                             "resource_id": "webview_wrapper",
                             "scrollable": {
@@ -357,6 +373,7 @@
                             ],
                             "children": null,
                             "clickable": false,
+                            "full_name": "android.view.ViewStub",
                             "name": "ViewStub",
                             "resource_id": "geolocation_permissions_prompt",
                             "scrollable": {
@@ -368,6 +385,7 @@
                           }
                         ],
                         "clickable": false,
+                        "full_name": "android.widget.LinearLayout",
                         "name": "LinearLayout",
                         "resource_id": null,
                         "scrollable": {
@@ -379,6 +397,7 @@
                       }
                     ],
                     "clickable": false,
+                    "full_name": "android.widget.FrameLayout",
                     "name": "FrameLayout",
                     "resource_id": "main_content",
                     "scrollable": {
@@ -390,6 +409,7 @@
                   }
                 ],
                 "clickable": false,
+                "full_name": "com.android.browser.view.CustomScreenLinearLayout",
                 "name": "CustomScreenLinearLayout",
                 "resource_id": "vertical_layout",
                 "scrollable": {
@@ -401,6 +421,7 @@
               }
             ],
             "clickable": false,
+            "full_name": "android.widget.FrameLayout",
             "name": "FrameLayout",
             "resource_id": "content",
             "scrollable": {
@@ -412,6 +433,7 @@
           }
         ],
         "clickable": false,
+        "full_name": "android.widget.FrameLayout",
         "name": "FrameLayout",
         "resource_id": null,
         "scrollable": {
@@ -423,6 +445,7 @@
       }
     ],
     "clickable": false,
+    "full_name": "com.android.internal.policy.PhoneWindow$DecorView",
     "name": "PhoneWindow$DecorView",
     "resource_id": null,
     "scrollable": {

@@ -54,6 +54,7 @@
                         ],
                         "children": null,
                         "clickable": false,
+                        "full_name": "android.widget.TextView",
                         "name": "TextView",
                         "resource_id": null,
                         "scrollable": {
@@ -72,6 +73,7 @@
                         ],
                         "children": null,
                         "clickable": false,
+                        "full_name": "android.widget.TextView",
                         "name": "TextView",
                         "resource_id": null,
                         "scrollable": {
@@ -90,6 +92,7 @@
                         ],
                         "children": null,
                         "clickable": false,
+                        "full_name": "android.widget.TextView",
                         "name": "TextView",
                         "resource_id": null,
                         "scrollable": {
@@ -108,6 +111,7 @@
                         ],
                         "children": null,
                         "clickable": false,
+                        "full_name": "android.widget.TextView",
                         "name": "TextView",
                         "resource_id": null,
                         "scrollable": {
@@ -126,6 +130,7 @@
                         ],
                         "children": null,
                         "clickable": false,
+                        "full_name": "android.widget.TextView",
                         "name": "TextView",
                         "resource_id": null,
                         "scrollable": {
@@ -144,6 +149,7 @@
                         ],
                         "children": null,
                         "clickable": false,
+                        "full_name": "android.widget.TextView",
                         "name": "TextView",
                         "resource_id": null,
                         "scrollable": {
@@ -162,6 +168,7 @@
                         ],
                         "children": null,
                         "clickable": false,
+                        "full_name": "android.widget.TextView",
                         "name": "TextView",
                         "resource_id": null,
                         "scrollable": {
@@ -180,6 +187,7 @@
                         ],
                         "children": null,
                         "clickable": false,
+                        "full_name": "android.widget.TextView",
                         "name": "TextView",
                         "resource_id": null,
                         "scrollable": {
@@ -191,6 +199,7 @@
                       }
                     ],
                     "clickable": true,
+                    "full_name": "android.widget.ListView",
                     "name": "ListView",
                     "resource_id": "list",
                     "scrollable": {
@@ -202,6 +211,7 @@
                   }
                 ],
                 "clickable": false,
+                "full_name": "android.widget.FrameLayout",
                 "name": "FrameLayout",
                 "resource_id": null,
                 "scrollable": {
@@ -213,6 +223,7 @@
               }
             ],
             "clickable": false,
+            "full_name": "android.widget.FrameLayout",
             "name": "FrameLayout",
             "resource_id": "content",
             "scrollable": {
@@ -224,6 +235,7 @@
           }
         ],
         "clickable": false,
+        "full_name": "android.widget.LinearLayout",
         "name": "LinearLayout",
         "resource_id": null,
         "scrollable": {
@@ -235,6 +247,7 @@
       }
     ],
     "clickable": false,
+    "full_name": "com.android.internal.policy.PhoneWindow$DecorView",
     "name": "PhoneWindow$DecorView",
     "resource_id": null,
     "scrollable": {

@@ -70,6 +70,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "com.done.faasos.utils.widgets.CirclePageIndicator",
                                 "name": "CirclePageIndicator",
                                 "resource_id": "tour_circle_page_indicator",
                                 "scrollable": {
@@ -112,6 +113,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "android.support.v7.widget.AppCompatImageView",
                                             "name": "AppCompatImageView",
                                             "resource_id": "obsne_hexagon",
                                             "scrollable": {
@@ -130,6 +132,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "android.support.v7.widget.AppCompatImageView",
                                             "name": "AppCompatImageView",
                                             "resource_id": "obsne_walletTop",
                                             "scrollable": {
@@ -148,6 +151,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "com.done.faasos.utils.widgets.ShiftView",
                                             "name": "ShiftView",
                                             "resource_id": "obsne_money",
                                             "scrollable": {
@@ -166,6 +170,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "android.support.v7.widget.AppCompatImageView",
                                             "name": "AppCompatImageView",
                                             "resource_id": "obsne_walletBottom",
                                             "scrollable": {
@@ -184,6 +189,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "com.done.faasos.utils.widgets.ShiftView",
                                             "name": "ShiftView",
                                             "resource_id": "obsne_smiley",
                                             "scrollable": {
@@ -202,6 +208,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "com.done.faasos.utils.widgets.ShiftView",
                                             "name": "ShiftView",
                                             "resource_id": "obsne_tinyBubble",
                                             "scrollable": {
@@ -220,6 +227,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "com.done.faasos.utils.widgets.ShiftView",
                                             "name": "ShiftView",
                                             "resource_id": "obsne_bigBubble",
                                             "scrollable": {
@@ -238,6 +246,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "com.done.faasos.utils.widgets.ShiftView",
                                             "name": "ShiftView",
                                             "resource_id": "obsne_share",
                                             "scrollable": {
@@ -249,6 +258,7 @@
                                           }
                                         ],
                                         "clickable": false,
+                                        "full_name": "android.widget.RelativeLayout",
                                         "name": "RelativeLayout",
                                         "resource_id": null,
                                         "scrollable": {
@@ -260,6 +270,7 @@
                                       }
                                     ],
                                     "clickable": false,
+                                    "full_name": "android.widget.LinearLayout",
                                     "name": "LinearLayout",
                                     "resource_id": null,
                                     "scrollable": {
@@ -271,6 +282,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.support.v4.view.ViewPager",
                                 "name": "ViewPager",
                                 "resource_id": "tour_view_pager",
                                 "scrollable": {
@@ -289,6 +301,7 @@
                                 ],
                                 "children": null,
                                 "clickable": true,
+                                "full_name": "com.done.faasos.utils.widgets.TextView_Faasos",
                                 "name": "TextView_Faasos",
                                 "resource_id": "tour_next",
                                 "scrollable": {
@@ -300,6 +313,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.RelativeLayout",
                             "name": "RelativeLayout",
                             "resource_id": null,
                             "scrollable": {
@@ -311,6 +325,7 @@
                           }
                         ],
                         "clickable": false,
+                        "full_name": "android.support.design.widget.CoordinatorLayout",
                         "name": "CoordinatorLayout",
                         "resource_id": "coordinator_layout",
                         "scrollable": {
@@ -322,6 +337,7 @@
                       }
                     ],
                     "clickable": false,
+                    "full_name": "android.support.v7.widget.ContentFrameLayout",
                     "name": "ContentFrameLayout",
                     "resource_id": "content",
                     "scrollable": {
@@ -333,6 +349,7 @@
                   }
                 ],
                 "clickable": false,
+                "full_name": "android.support.v7.widget.FitWindowsFrameLayout",
                 "name": "FitWindowsFrameLayout",
                 "resource_id": "action_bar_root",
                 "scrollable": {
@@ -344,6 +361,7 @@
               }
             ],
             "clickable": false,
+            "full_name": "android.widget.FrameLayout",
             "name": "FrameLayout",
             "resource_id": null,
             "scrollable": {
@@ -355,6 +373,7 @@
           }
         ],
         "clickable": false,
+        "full_name": "android.widget.LinearLayout",
         "name": "LinearLayout",
         "resource_id": null,
         "scrollable": {
@@ -373,6 +392,7 @@
         ],
         "children": null,
         "clickable": false,
+        "full_name": "android.view.View",
         "name": "View",
         "resource_id": "navigationBarBackground",
         "scrollable": {
@@ -391,6 +411,7 @@
         ],
         "children": null,
         "clickable": false,
+        "full_name": "android.view.View",
         "name": "View",
         "resource_id": "statusBarBackground",
         "scrollable": {
@@ -402,6 +423,7 @@
       }
     ],
     "clickable": false,
+    "full_name": "com.android.internal.policy.PhoneWindow$DecorView",
     "name": "PhoneWindow$DecorView",
     "resource_id": null,
     "scrollable": {

@@ -46,6 +46,7 @@
                     ],
                     "children": null,
                     "clickable": false,
+                    "full_name": "android.widget.TextView",
                     "name": "TextView",
                     "resource_id": "textView",
                     "scrollable": {
@@ -64,6 +65,7 @@
                     ],
                     "children": null,
                     "clickable": true,
+                    "full_name": "android.widget.Button",
                     "name": "Button",
                     "resource_id": "bn",
                     "scrollable": {
@@ -82,6 +84,7 @@
                     ],
                     "children": null,
                     "clickable": true,
+                    "full_name": "android.widget.Button",
                     "name": "Button",
                     "resource_id": "startUltrasoundButton",
                     "scrollable": {
@@ -116,6 +119,7 @@
                             ],
                             "children": [],
                             "clickable": false,
+                            "full_name": "com.google.android.gms.ads.internal.webview.n",
                             "name": "n",
                             "resource_id": null,
                             "scrollable": {
@@ -127,6 +131,7 @@
                           }
                         ],
                         "clickable": false,
+                        "full_name": "com.google.android.gms.ads.internal.bp",
                         "name": "bp",
                         "resource_id": null,
                         "scrollable": {
@@ -138,6 +143,7 @@
                       }
                     ],
                     "clickable": false,
+                    "full_name": "com.google.android.gms.ads.AdView",
                     "name": "AdView",
                     "resource_id": "adView",
                     "scrollable": {
@@ -156,6 +162,7 @@
                     ],
                     "children": null,
                     "clickable": true,
+                    "full_name": "android.widget.Button",
                     "name": "Button",
                     "resource_id": "bnmainpage",
                     "scrollable": {
@@ -167,6 +174,7 @@
                   }
                 ],
                 "clickable": false,
+                "full_name": "android.widget.LinearLayout",
                 "name": "LinearLayout",
                 "resource_id": null,
                 "scrollable": {
@@ -178,6 +186,7 @@
               }
             ],
             "clickable": false,
+            "full_name": "android.widget.FrameLayout",
             "name": "FrameLayout",
             "resource_id": "content",
             "scrollable": {
@@ -189,6 +198,7 @@
           }
         ],
         "clickable": false,
+        "full_name": "android.widget.LinearLayout",
         "name": "LinearLayout",
         "resource_id": null,
         "scrollable": {
@@ -207,6 +217,7 @@
         ],
         "children": null,
         "clickable": false,
+        "full_name": "android.view.View",
         "name": "View",
         "resource_id": "navigationBarBackground",
         "scrollable": {
@@ -225,6 +236,7 @@
         ],
         "children": null,
         "clickable": false,
+        "full_name": "android.view.View",
         "name": "View",
         "resource_id": "statusBarBackground",
         "scrollable": {
@@ -236,6 +248,7 @@
       }
     ],
     "clickable": false,
+    "full_name": "com.android.internal.policy.PhoneWindow$DecorView",
     "name": "PhoneWindow$DecorView",
     "resource_id": null,
     "scrollable": {

@@ -20,8 +20,23 @@ def draw(hier, img):
                 hier['name'] = element_name
                 break
 
+    #
+    # Some non-standard layout/views which can't be handled by name/resource-id,
+    # they should be processed using full_name(class information).
+    #
+    full_name_checked = False
+    for full_name in FULL_NAME_COLOR.keys():
+        if hier['full_name'].count(full_name) > 0:
+            full_name_checked = True
+            b = hier['bounds']
+            try:
+                block = Image.new('RGBA', (b[2] - b[0], b[3] - b[1]), FULL_NAME_COLOR[full_name])
+                img.paste(block, (b[0], b[1]))
+            except ValueError:
+                pass
+
     # Coloring
-    if hier['name'] in ELEMENT_COLOR.keys():
+    if not full_name_checked and hier['name'] in ELEMENT_COLOR.keys():
         b = hier['bounds']
         try:
             block = Image.new('RGBA', (b[2] - b[0], b[3] - b[1]), ELEMENT_COLOR[hier['name']])

@@ -78,6 +78,7 @@
                                     ],
                                     "children": null,
                                     "clickable": true,
+                                    "full_name": "android.widget.ImageButton",
                                     "name": "ImageButton",
                                     "resource_id": null,
                                     "scrollable": {
@@ -89,6 +90,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.support.v7.widget.Toolbar",
                                 "name": "Toolbar",
                                 "resource_id": "toolbar",
                                 "scrollable": {
@@ -131,6 +133,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "android.support.v7.widget.AppCompatImageView",
                                             "name": "AppCompatImageView",
                                             "resource_id": "logo_image",
                                             "scrollable": {
@@ -149,6 +152,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "com.done.faasos.utils.widgets.TextView_Faasos",
                                             "name": "TextView_Faasos",
                                             "resource_id": null,
                                             "scrollable": {
@@ -175,6 +179,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": true,
+                                                "full_name": "com.done.faasos.utils.widgets.ExtEditText",
                                                 "name": "ExtEditText",
                                                 "resource_id": "fmn_et_mobileNo",
                                                 "scrollable": {
@@ -186,6 +191,7 @@
                                               }
                                             ],
                                             "clickable": false,
+                                            "full_name": "com.done.faasos.utils.widgets.TextInputLayoutFaasos",
                                             "name": "TextInputLayoutFaasos",
                                             "resource_id": "ap_til_email",
                                             "scrollable": {
@@ -197,6 +203,7 @@
                                           }
                                         ],
                                         "clickable": false,
+                                        "full_name": "android.widget.LinearLayout",
                                         "name": "LinearLayout",
                                         "resource_id": null,
                                         "scrollable": {
@@ -208,6 +215,7 @@
                                       }
                                     ],
                                     "clickable": false,
+                                    "full_name": "android.widget.ScrollView",
                                     "name": "ScrollView",
                                     "resource_id": null,
                                     "scrollable": {
@@ -219,6 +227,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.FrameLayout",
                                 "name": "FrameLayout",
                                 "resource_id": "al_fl_fragmentContainer",
                                 "scrollable": {
@@ -230,6 +239,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.LinearLayout",
                             "name": "LinearLayout",
                             "resource_id": null,
                             "scrollable": {
@@ -241,6 +251,7 @@
                           }
                         ],
                         "clickable": false,
+                        "full_name": "android.support.design.widget.CoordinatorLayout",
                         "name": "CoordinatorLayout",
                         "resource_id": null,
                         "scrollable": {
@@ -252,6 +263,7 @@
                       }
                     ],
                     "clickable": false,
+                    "full_name": "android.support.v7.widget.ContentFrameLayout",
                     "name": "ContentFrameLayout",
                     "resource_id": "content",
                     "scrollable": {
@@ -263,6 +275,7 @@
                   }
                 ],
                 "clickable": false,
+                "full_name": "android.support.v7.widget.FitWindowsFrameLayout",
                 "name": "FitWindowsFrameLayout",
                 "resource_id": "action_bar_root",
                 "scrollable": {
@@ -274,6 +287,7 @@
               }
             ],
             "clickable": false,
+            "full_name": "android.widget.FrameLayout",
             "name": "FrameLayout",
             "resource_id": null,
             "scrollable": {
@@ -285,6 +299,7 @@
           }
         ],
         "clickable": false,
+        "full_name": "android.widget.LinearLayout",
         "name": "LinearLayout",
         "resource_id": null,
         "scrollable": {
@@ -303,6 +318,7 @@
         ],
         "children": null,
         "clickable": false,
+        "full_name": "android.view.View",
         "name": "View",
         "resource_id": "navigationBarBackground",
         "scrollable": {
@@ -321,6 +337,7 @@
         ],
         "children": null,
         "clickable": false,
+        "full_name": "android.view.View",
         "name": "View",
         "resource_id": "statusBarBackground",
         "scrollable": {
@@ -332,6 +349,7 @@
       }
     ],
     "clickable": false,
+    "full_name": "com.android.internal.policy.PhoneWindow$DecorView",
     "name": "PhoneWindow$DecorView",
     "resource_id": null,
     "scrollable": {

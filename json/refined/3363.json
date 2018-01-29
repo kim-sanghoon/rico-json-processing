@@ -70,6 +70,7 @@
                                 ],
                                 "children": null,
                                 "clickable": true,
+                                "full_name": "com.funeasylearn.base.ui.components.MaterialButton",
                                 "name": "MaterialButton",
                                 "resource_id": "b_dialog_ok",
                                 "scrollable": {
@@ -81,6 +82,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.LinearLayout",
                             "name": "LinearLayout",
                             "resource_id": "l_buttons1",
                             "scrollable": {
@@ -92,6 +94,7 @@
                           }
                         ],
                         "clickable": false,
+                        "full_name": "android.widget.FrameLayout",
                         "name": "FrameLayout",
                         "resource_id": "layout_dialog_buttons",
                         "scrollable": {
@@ -110,6 +113,7 @@
                         ],
                         "children": null,
                         "clickable": false,
+                        "full_name": "android.view.View",
                         "name": "View",
                         "resource_id": "view1",
                         "scrollable": {
@@ -136,6 +140,7 @@
                             ],
                             "children": null,
                             "clickable": false,
+                            "full_name": "android.widget.TextView",
                             "name": "TextView",
                             "resource_id": "textViewTitle",
                             "scrollable": {
@@ -147,6 +152,7 @@
                           }
                         ],
                         "clickable": false,
+                        "full_name": "android.widget.LinearLayout",
                         "name": "LinearLayout",
                         "resource_id": "layout_top",
                         "scrollable": {
@@ -181,6 +187,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.CheckedTextView",
                                 "name": "CheckedTextView",
                                 "resource_id": "ct_lang",
                                 "scrollable": {
@@ -199,6 +206,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.ImageView",
                                 "name": "ImageView",
                                 "resource_id": "iv_flag",
                                 "scrollable": {
@@ -225,6 +233,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "tv_lang_name",
                                     "scrollable": {
@@ -243,6 +252,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "tv_lang_name_native",
                                     "scrollable": {
@@ -254,6 +264,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.LinearLayout",
                                 "name": "LinearLayout",
                                 "resource_id": "l_lang_text",
                                 "scrollable": {
@@ -265,6 +276,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.RelativeLayout",
                             "name": "RelativeLayout",
                             "resource_id": null,
                             "scrollable": {
@@ -291,6 +303,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.CheckedTextView",
                                 "name": "CheckedTextView",
                                 "resource_id": "ct_lang",
                                 "scrollable": {
@@ -309,6 +322,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.ImageView",
                                 "name": "ImageView",
                                 "resource_id": "iv_flag",
                                 "scrollable": {
@@ -335,6 +349,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "tv_lang_name",
                                     "scrollable": {
@@ -353,6 +368,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "tv_lang_name_native",
                                     "scrollable": {
@@ -364,6 +380,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.LinearLayout",
                                 "name": "LinearLayout",
                                 "resource_id": "l_lang_text",
                                 "scrollable": {
@@ -375,6 +392,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.RelativeLayout",
                             "name": "RelativeLayout",
                             "resource_id": null,
                             "scrollable": {
@@ -401,6 +419,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.CheckedTextView",
                                 "name": "CheckedTextView",
                                 "resource_id": "ct_lang",
                                 "scrollable": {
@@ -419,6 +438,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.ImageView",
                                 "name": "ImageView",
                                 "resource_id": "iv_flag",
                                 "scrollable": {
@@ -445,6 +465,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "tv_lang_name",
                                     "scrollable": {
@@ -463,6 +484,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "tv_lang_name_native",
                                     "scrollable": {
@@ -474,6 +496,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.LinearLayout",
                                 "name": "LinearLayout",
                                 "resource_id": "l_lang_text",
                                 "scrollable": {
@@ -485,6 +508,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.RelativeLayout",
                             "name": "RelativeLayout",
                             "resource_id": null,
                             "scrollable": {
@@ -511,6 +535,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.CheckedTextView",
                                 "name": "CheckedTextView",
                                 "resource_id": "ct_lang",
                                 "scrollable": {
@@ -529,6 +554,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.ImageView",
                                 "name": "ImageView",
                                 "resource_id": "iv_flag",
                                 "scrollable": {
@@ -555,6 +581,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "tv_lang_name",
                                     "scrollable": {
@@ -573,6 +600,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "tv_lang_name_native",
                                     "scrollable": {
@@ -584,6 +612,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.LinearLayout",
                                 "name": "LinearLayout",
                                 "resource_id": "l_lang_text",
                                 "scrollable": {
@@ -595,6 +624,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.RelativeLayout",
                             "name": "RelativeLayout",
                             "resource_id": null,
                             "scrollable": {
@@ -621,6 +651,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.CheckedTextView",
                                 "name": "CheckedTextView",
                                 "resource_id": "ct_lang",
                                 "scrollable": {
@@ -639,6 +670,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.ImageView",
                                 "name": "ImageView",
                                 "resource_id": "iv_flag",
                                 "scrollable": {
@@ -665,6 +697,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "tv_lang_name",
                                     "scrollable": {
@@ -683,6 +716,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "tv_lang_name_native",
                                     "scrollable": {
@@ -694,6 +728,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.LinearLayout",
                                 "name": "LinearLayout",
                                 "resource_id": "l_lang_text",
                                 "scrollable": {
@@ -705,6 +740,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.RelativeLayout",
                             "name": "RelativeLayout",
                             "resource_id": null,
                             "scrollable": {
@@ -731,6 +767,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.CheckedTextView",
                                 "name": "CheckedTextView",
                                 "resource_id": "ct_lang",
                                 "scrollable": {
@@ -749,6 +786,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.ImageView",
                                 "name": "ImageView",
                                 "resource_id": "iv_flag",
                                 "scrollable": {
@@ -775,6 +813,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "tv_lang_name",
                                     "scrollable": {
@@ -793,6 +832,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "tv_lang_name_native",
                                     "scrollable": {
@@ -804,6 +844,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.LinearLayout",
                                 "name": "LinearLayout",
                                 "resource_id": "l_lang_text",
                                 "scrollable": {
@@ -815,6 +856,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.RelativeLayout",
                             "name": "RelativeLayout",
                             "resource_id": null,
                             "scrollable": {
@@ -841,6 +883,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.CheckedTextView",
                                 "name": "CheckedTextView",
                                 "resource_id": "ct_lang",
                                 "scrollable": {
@@ -859,6 +902,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.ImageView",
                                 "name": "ImageView",
                                 "resource_id": "iv_flag",
                                 "scrollable": {
@@ -885,6 +929,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "tv_lang_name",
                                     "scrollable": {
@@ -903,6 +948,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "tv_lang_name_native",
                                     "scrollable": {
@@ -914,6 +960,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.LinearLayout",
                                 "name": "LinearLayout",
                                 "resource_id": "l_lang_text",
                                 "scrollable": {
@@ -925,6 +972,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.RelativeLayout",
                             "name": "RelativeLayout",
                             "resource_id": null,
                             "scrollable": {
@@ -951,6 +999,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.CheckedTextView",
                                 "name": "CheckedTextView",
                                 "resource_id": "ct_lang",
                                 "scrollable": {
@@ -969,6 +1018,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.ImageView",
                                 "name": "ImageView",
                                 "resource_id": "iv_flag",
                                 "scrollable": {
@@ -995,6 +1045,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "tv_lang_name",
                                     "scrollable": {
@@ -1013,6 +1064,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "tv_lang_name_native",
                                     "scrollable": {
@@ -1024,6 +1076,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.LinearLayout",
                                 "name": "LinearLayout",
                                 "resource_id": "l_lang_text",
                                 "scrollable": {
@@ -1035,6 +1088,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.RelativeLayout",
                             "name": "RelativeLayout",
                             "resource_id": null,
                             "scrollable": {
@@ -1061,6 +1115,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.CheckedTextView",
                                 "name": "CheckedTextView",
                                 "resource_id": "ct_lang",
                                 "scrollable": {
@@ -1079,6 +1134,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.ImageView",
                                 "name": "ImageView",
                                 "resource_id": "iv_flag",
                                 "scrollable": {
@@ -1105,6 +1161,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "tv_lang_name",
                                     "scrollable": {
@@ -1123,6 +1180,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "tv_lang_name_native",
                                     "scrollable": {
@@ -1134,6 +1192,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.LinearLayout",
                                 "name": "LinearLayout",
                                 "resource_id": "l_lang_text",
                                 "scrollable": {
@@ -1145,6 +1204,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.RelativeLayout",
                             "name": "RelativeLayout",
                             "resource_id": null,
                             "scrollable": {
@@ -1171,6 +1231,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.CheckedTextView",
                                 "name": "CheckedTextView",
                                 "resource_id": "ct_lang",
                                 "scrollable": {
@@ -1189,6 +1250,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "android.widget.ImageView",
                                 "name": "ImageView",
                                 "resource_id": "iv_flag",
                                 "scrollable": {
@@ -1215,6 +1277,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "tv_lang_name",
                                     "scrollable": {
@@ -1233,6 +1296,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.widget.TextView",
                                     "name": "TextView",
                                     "resource_id": "tv_lang_name_native",
                                     "scrollable": {
@@ -1244,6 +1308,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.LinearLayout",
                                 "name": "LinearLayout",
                                 "resource_id": "l_lang_text",
                                 "scrollable": {
@@ -1255,6 +1320,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.RelativeLayout",
                             "name": "RelativeLayout",
                             "resource_id": null,
                             "scrollable": {
@@ -1266,6 +1332,7 @@
                           }
                         ],
                         "clickable": true,
+                        "full_name": "android.widget.ListView",
                         "name": "ListView",
                         "resource_id": "langLV",
                         "scrollable": {
@@ -1277,6 +1344,7 @@
                       }
                     ],
                     "clickable": false,
+                    "full_name": "android.widget.RelativeLayout",
                     "name": "RelativeLayout",
                     "resource_id": "RelativeLayout1",
                     "scrollable": {
@@ -1288,6 +1356,7 @@
                   }
                 ],
                 "clickable": false,
+                "full_name": "android.support.v7.widget.CardView",
                 "name": "CardView",
                 "resource_id": "layout_cv",
                 "scrollable": {
@@ -1299,6 +1368,7 @@
               }
             ],
             "clickable": false,
+            "full_name": "android.widget.FrameLayout",
             "name": "FrameLayout",
             "resource_id": "content",
             "scrollable": {
@@ -1310,6 +1380,7 @@
           }
         ],
         "clickable": false,
+        "full_name": "android.widget.LinearLayout",
         "name": "LinearLayout",
         "resource_id": null,
         "scrollable": {
@@ -1321,6 +1392,7 @@
       }
     ],
     "clickable": false,
+    "full_name": "com.android.internal.policy.PhoneWindow$DecorView",
     "name": "PhoneWindow$DecorView",
     "resource_id": null,
     "scrollable": {

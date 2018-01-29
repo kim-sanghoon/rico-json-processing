@@ -22,6 +22,11 @@ ELEMENT_COLOR = {'EditText': 'orange',
                  'NumberPicker': 'gray',
                  }
 
+FULL_NAME_COLOR = {'google.maps.api.android': 'skyblue', # Google Maps API
+                   'google.android.gms.ads': 'brown', # Google Ads
+                   'mopub.mobileads': 'brown', # Mopub Ads
+                   }
+
 
 # Others
 APP_METADATA = open(os.path.join(os.path.curdir, 'metadata', 'app_details.csv'))

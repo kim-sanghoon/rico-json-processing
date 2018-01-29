@@ -46,6 +46,7 @@
                     ],
                     "children": null,
                     "clickable": false,
+                    "full_name": "android.view.View",
                     "name": "View",
                     "resource_id": null,
                     "scrollable": {
@@ -64,6 +65,7 @@
                     ],
                     "children": null,
                     "clickable": false,
+                    "full_name": "com.nexercise.nativevideo.TextureVideoView",
                     "name": "TextureVideoView",
                     "resource_id": null,
                     "scrollable": {
@@ -82,6 +84,7 @@
                     ],
                     "children": null,
                     "clickable": true,
+                    "full_name": "org.apache.cordova.engine.SystemWebView",
                     "name": "SystemWebView",
                     "resource_id": null,
                     "scrollable": {
@@ -93,6 +96,7 @@
                   }
                 ],
                 "clickable": false,
+                "full_name": "android.widget.FrameLayout",
                 "name": "FrameLayout",
                 "resource_id": null,
                 "scrollable": {
@@ -104,6 +108,7 @@
               }
             ],
             "clickable": false,
+            "full_name": "android.widget.FrameLayout",
             "name": "FrameLayout",
             "resource_id": "content",
             "scrollable": {
@@ -115,6 +120,7 @@
           }
         ],
         "clickable": false,
+        "full_name": "android.widget.LinearLayout",
         "name": "LinearLayout",
         "resource_id": null,
         "scrollable": {
@@ -133,6 +139,7 @@
         ],
         "children": null,
         "clickable": false,
+        "full_name": "android.view.View",
         "name": "View",
         "resource_id": "navigationBarBackground",
         "scrollable": {
@@ -151,6 +158,7 @@
         ],
         "children": null,
         "clickable": false,
+        "full_name": "android.view.View",
         "name": "View",
         "resource_id": "statusBarBackground",
         "scrollable": {
@@ -185,6 +193,7 @@
                 ],
                 "children": null,
                 "clickable": true,
+                "full_name": "com.mopub.mobileads.HtmlBannerWebView",
                 "name": "HtmlBannerWebView",
                 "resource_id": null,
                 "scrollable": {
@@ -196,6 +205,7 @@
               }
             ],
             "clickable": false,
+            "full_name": "com.mopub.mobileads.MoPubView",
             "name": "MoPubView",
             "resource_id": null,
             "scrollable": {
@@ -207,6 +217,7 @@
           }
         ],
         "clickable": false,
+        "full_name": "android.widget.RelativeLayout",
         "name": "RelativeLayout",
         "resource_id": null,
         "scrollable": {
@@ -218,6 +229,7 @@
       }
     ],
     "clickable": false,
+    "full_name": "com.android.internal.policy.PhoneWindow$DecorView",
     "name": "PhoneWindow$DecorView",
     "resource_id": null,
     "scrollable": {

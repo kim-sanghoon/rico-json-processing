@@ -94,6 +94,7 @@
                                             ],
                                             "children": null,
                                             "clickable": true,
+                                            "full_name": "android.widget.Button",
                                             "name": "Button",
                                             "resource_id": "fragment_accontrol_button_back",
                                             "scrollable": {
@@ -112,6 +113,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "android.widget.ImageView",
                                             "name": "ImageView",
                                             "resource_id": null,
                                             "scrollable": {
@@ -123,6 +125,7 @@
                                           }
                                         ],
                                         "clickable": false,
+                                        "full_name": "android.widget.RelativeLayout",
                                         "name": "RelativeLayout",
                                         "resource_id": "fragment_accontrol_layout_back",
                                         "scrollable": {
@@ -141,6 +144,7 @@
                                         ],
                                         "children": null,
                                         "clickable": true,
+                                        "full_name": "android.widget.EditText",
                                         "name": "EditText",
                                         "resource_id": "fragment_accontrol_edittext_name",
                                         "scrollable": {
@@ -167,6 +171,7 @@
                                             ],
                                             "children": null,
                                             "clickable": true,
+                                            "full_name": "android.widget.Button",
                                             "name": "Button",
                                             "resource_id": "fragment_accontrol_button_help",
                                             "scrollable": {
@@ -185,6 +190,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "android.widget.ImageView",
                                             "name": "ImageView",
                                             "resource_id": null,
                                             "scrollable": {
@@ -196,6 +202,7 @@
                                           }
                                         ],
                                         "clickable": false,
+                                        "full_name": "android.widget.RelativeLayout",
                                         "name": "RelativeLayout",
                                         "resource_id": "fragment_accontrol_layout_help",
                                         "scrollable": {
@@ -207,6 +214,7 @@
                                       }
                                     ],
                                     "clickable": false,
+                                    "full_name": "android.widget.RelativeLayout",
                                     "name": "RelativeLayout",
                                     "resource_id": "fragment_accontrol_layout_header",
                                     "scrollable": {
@@ -241,6 +249,7 @@
                                             ],
                                             "children": null,
                                             "clickable": false,
+                                            "full_name": "com.infigate.accontrol.views.TempControlView",
                                             "name": "TempControlView",
                                             "resource_id": "fragment_accontrol_imageview_tempchange",
                                             "scrollable": {
@@ -252,6 +261,7 @@
                                           }
                                         ],
                                         "clickable": false,
+                                        "full_name": "android.widget.RelativeLayout",
                                         "name": "RelativeLayout",
                                         "resource_id": null,
                                         "scrollable": {
@@ -263,6 +273,7 @@
                                       }
                                     ],
                                     "clickable": false,
+                                    "full_name": "android.widget.RelativeLayout",
                                     "name": "RelativeLayout",
                                     "resource_id": "fragment_accontrol_layout_temp",
                                     "scrollable": {
@@ -305,6 +316,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": true,
+                                                "full_name": "android.widget.ImageView",
                                                 "name": "ImageView",
                                                 "resource_id": "fragment_accontrol_imageview_fanspeed_bar",
                                                 "scrollable": {
@@ -323,6 +335,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": true,
+                                                "full_name": "android.widget.ImageView",
                                                 "name": "ImageView",
                                                 "resource_id": "fragment_accontrol_imageview_fanspeed",
                                                 "scrollable": {
@@ -341,6 +354,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": false,
+                                                "full_name": "android.widget.ImageView",
                                                 "name": "ImageView",
                                                 "resource_id": "fragment_accontrol_imageview_fanspeed_icon",
                                                 "scrollable": {
@@ -359,6 +373,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": false,
+                                                "full_name": "android.widget.TextView",
                                                 "name": "TextView",
                                                 "resource_id": null,
                                                 "scrollable": {
@@ -370,6 +385,7 @@
                                               }
                                             ],
                                             "clickable": false,
+                                            "full_name": "android.widget.RelativeLayout",
                                             "name": "RelativeLayout",
                                             "resource_id": null,
                                             "scrollable": {
@@ -396,6 +412,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": true,
+                                                "full_name": "android.widget.ImageView",
                                                 "name": "ImageView",
                                                 "resource_id": "fragment_accontrol_imageview_plasma",
                                                 "scrollable": {
@@ -414,6 +431,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": false,
+                                                "full_name": "android.widget.ImageView",
                                                 "name": "ImageView",
                                                 "resource_id": "fragment_accontrol_imageview_plasma_icon",
                                                 "scrollable": {
@@ -432,6 +450,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": false,
+                                                "full_name": "android.widget.TextView",
                                                 "name": "TextView",
                                                 "resource_id": null,
                                                 "scrollable": {
@@ -443,6 +462,7 @@
                                               }
                                             ],
                                             "clickable": false,
+                                            "full_name": "android.widget.RelativeLayout",
                                             "name": "RelativeLayout",
                                             "resource_id": null,
                                             "scrollable": {
@@ -469,6 +489,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": true,
+                                                "full_name": "android.widget.ImageView",
                                                 "name": "ImageView",
                                                 "resource_id": "fragment_accontrol_imageview_swing",
                                                 "scrollable": {
@@ -487,6 +508,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": false,
+                                                "full_name": "android.widget.ImageView",
                                                 "name": "ImageView",
                                                 "resource_id": "fragment_accontrol_imageview_swing_icon",
                                                 "scrollable": {
@@ -505,6 +527,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": false,
+                                                "full_name": "android.widget.TextView",
                                                 "name": "TextView",
                                                 "resource_id": null,
                                                 "scrollable": {
@@ -516,6 +539,7 @@
                                               }
                                             ],
                                             "clickable": false,
+                                            "full_name": "android.widget.RelativeLayout",
                                             "name": "RelativeLayout",
                                             "resource_id": null,
                                             "scrollable": {
@@ -542,6 +566,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": true,
+                                                "full_name": "android.widget.ImageView",
                                                 "name": "ImageView",
                                                 "resource_id": "fragment_accontrol_imageview_power",
                                                 "scrollable": {
@@ -560,6 +585,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": false,
+                                                "full_name": "android.widget.ImageView",
                                                 "name": "ImageView",
                                                 "resource_id": "fragment_accontrol_imageview_power_icon",
                                                 "scrollable": {
@@ -578,6 +604,7 @@
                                                 ],
                                                 "children": null,
                                                 "clickable": false,
+                                                "full_name": "android.widget.TextView",
                                                 "name": "TextView",
                                                 "resource_id": null,
                                                 "scrollable": {
@@ -589,6 +616,7 @@
                                               }
                                             ],
                                             "clickable": false,
+                                            "full_name": "android.widget.RelativeLayout",
                                             "name": "RelativeLayout",
                                             "resource_id": null,
                                             "scrollable": {
@@ -600,6 +628,7 @@
                                           }
                                         ],
                                         "clickable": false,
+                                        "full_name": "android.widget.LinearLayout",
                                         "name": "LinearLayout",
                                         "resource_id": "fragment_accontrol_layout_buttons_top",
                                         "scrollable": {
@@ -611,6 +640,7 @@
                                       }
                                     ],
                                     "clickable": false,
+                                    "full_name": "android.widget.RelativeLayout",
                                     "name": "RelativeLayout",
                                     "resource_id": "fragment_accontrol_layout_buttons",
                                     "scrollable": {
@@ -637,6 +667,7 @@
                                         ],
                                         "children": null,
                                         "clickable": true,
+                                        "full_name": "android.widget.Button",
                                         "name": "Button",
                                         "resource_id": "fragment_accontrol_button_mode_0",
                                         "scrollable": {
@@ -655,6 +686,7 @@
                                         ],
                                         "children": null,
                                         "clickable": true,
+                                        "full_name": "android.widget.Button",
                                         "name": "Button",
                                         "resource_id": "fragment_accontrol_button_mode_1",
                                         "scrollable": {
@@ -673,6 +705,7 @@
                                         ],
                                         "children": null,
                                         "clickable": true,
+                                        "full_name": "android.widget.Button",
                                         "name": "Button",
                                         "resource_id": "fragment_accontrol_button_mode_2",
                                         "scrollable": {
@@ -691,6 +724,7 @@
                                         ],
                                         "children": null,
                                         "clickable": true,
+                                        "full_name": "android.widget.Button",
                                         "name": "Button",
                                         "resource_id": "fragment_accontrol_button_mode_3",
                                         "scrollable": {
@@ -709,6 +743,7 @@
                                         ],
                                         "children": null,
                                         "clickable": true,
+                                        "full_name": "android.widget.Button",
                                         "name": "Button",
                                         "resource_id": "fragment_accontrol_button_mode_4",
                                         "scrollable": {
@@ -720,6 +755,7 @@
                                       }
                                     ],
                                     "clickable": false,
+                                    "full_name": "android.widget.LinearLayout",
                                     "name": "LinearLayout",
                                     "resource_id": "fragment_accontrol_layout_mode",
                                     "scrollable": {
@@ -738,6 +774,7 @@
                                     ],
                                     "children": [],
                                     "clickable": false,
+                                    "full_name": "android.widget.RelativeLayout",
                                     "name": "RelativeLayout",
                                     "resource_id": "fragment_accontrol_layout_error",
                                     "scrollable": {
@@ -749,6 +786,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.RelativeLayout",
                                 "name": "RelativeLayout",
                                 "resource_id": null,
                                 "scrollable": {
@@ -760,6 +798,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.support.v4.app.NoSaveStateFrameLayout",
                             "name": "NoSaveStateFrameLayout",
                             "resource_id": null,
                             "scrollable": {
@@ -771,6 +810,7 @@
                           }
                         ],
                         "clickable": false,
+                        "full_name": "android.widget.FrameLayout",
                         "name": "FrameLayout",
                         "resource_id": "realtabcontent",
                         "scrollable": {
@@ -797,6 +837,7 @@
                             ],
                             "children": null,
                             "clickable": true,
+                            "full_name": "android.widget.Button",
                             "name": "Button",
                             "resource_id": "devicedetails_button_tab_control",
                             "scrollable": {
@@ -815,6 +856,7 @@
                             ],
                             "children": null,
                             "clickable": true,
+                            "full_name": "android.widget.Button",
                             "name": "Button",
                             "resource_id": "devicedetails_button_tab_schedule",
                             "scrollable": {
@@ -826,6 +868,7 @@
                           }
                         ],
                         "clickable": false,
+                        "full_name": "android.widget.LinearLayout",
                         "name": "LinearLayout",
                         "resource_id": "devicedetails_layout_tabs",
                         "scrollable": {
@@ -844,6 +887,7 @@
                         ],
                         "children": null,
                         "clickable": false,
+                        "full_name": "android.widget.ImageView",
                         "name": "ImageView",
                         "resource_id": "devicedetails_div",
                         "scrollable": {
@@ -855,6 +899,7 @@
                       }
                     ],
                     "clickable": false,
+                    "full_name": "android.widget.RelativeLayout",
                     "name": "RelativeLayout",
                     "resource_id": null,
                     "scrollable": {
@@ -866,6 +911,7 @@
                   }
                 ],
                 "clickable": false,
+                "full_name": "android.widget.RelativeLayout",
                 "name": "RelativeLayout",
                 "resource_id": null,
                 "scrollable": {
@@ -877,6 +923,7 @@
               }
             ],
             "clickable": false,
+            "full_name": "android.widget.FrameLayout",
             "name": "FrameLayout",
             "resource_id": "content",
             "scrollable": {
@@ -888,6 +935,7 @@
           }
         ],
         "clickable": false,
+        "full_name": "android.widget.LinearLayout",
         "name": "LinearLayout",
         "resource_id": null,
         "scrollable": {
@@ -899,6 +947,7 @@
       }
     ],
     "clickable": false,
+    "full_name": "com.android.internal.policy.PhoneWindow$DecorView",
     "name": "PhoneWindow$DecorView",
     "resource_id": null,
     "scrollable": {

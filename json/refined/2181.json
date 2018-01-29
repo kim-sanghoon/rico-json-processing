@@ -38,6 +38,7 @@
                 ],
                 "children": null,
                 "clickable": false,
+                "full_name": "android.widget.ImageView",
                 "name": "ImageView",
                 "resource_id": "left_icon",
                 "scrollable": {
@@ -56,6 +57,7 @@
                 ],
                 "children": null,
                 "clickable": false,
+                "full_name": "android.widget.TextView",
                 "name": "TextView",
                 "resource_id": "title",
                 "scrollable": {
@@ -74,6 +76,7 @@
                 ],
                 "children": null,
                 "clickable": false,
+                "full_name": "android.widget.ImageView",
                 "name": "ImageView",
                 "resource_id": "right_icon",
                 "scrollable": {
@@ -85,6 +88,7 @@
               }
             ],
             "clickable": false,
+            "full_name": "android.widget.LinearLayout",
             "name": "LinearLayout",
             "resource_id": "title_container",
             "scrollable": {
@@ -103,6 +107,7 @@
             ],
             "children": null,
             "clickable": false,
+            "full_name": "android.view.View",
             "name": "View",
             "resource_id": "titleDivider",
             "scrollable": {
@@ -161,6 +166,7 @@
                                 ],
                                 "children": null,
                                 "clickable": true,
+                                "full_name": "android.widget.TextView",
                                 "name": "TextView",
                                 "resource_id": "change_history_html",
                                 "scrollable": {
@@ -172,6 +178,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.LinearLayout",
                             "name": "LinearLayout",
                             "resource_id": null,
                             "scrollable": {
@@ -183,6 +190,7 @@
                           }
                         ],
                         "clickable": false,
+                        "full_name": "android.widget.ScrollView",
                         "name": "ScrollView",
                         "resource_id": null,
                         "scrollable": {
@@ -209,6 +217,7 @@
                             ],
                             "children": null,
                             "clickable": true,
+                            "full_name": "android.widget.Button",
                             "name": "Button",
                             "resource_id": "about_ok_btn",
                             "scrollable": {
@@ -220,6 +229,7 @@
                           }
                         ],
                         "clickable": false,
+                        "full_name": "android.widget.LinearLayout",
                         "name": "LinearLayout",
                         "resource_id": null,
                         "scrollable": {
@@ -231,6 +241,7 @@
                       }
                     ],
                     "clickable": false,
+                    "full_name": "android.widget.LinearLayout",
                     "name": "LinearLayout",
                     "resource_id": null,
                     "scrollable": {
@@ -242,6 +253,7 @@
                   }
                 ],
                 "clickable": false,
+                "full_name": "android.widget.FrameLayout",
                 "name": "FrameLayout",
                 "resource_id": "content",
                 "scrollable": {
@@ -253,6 +265,7 @@
               }
             ],
             "clickable": false,
+            "full_name": "android.widget.FrameLayout",
             "name": "FrameLayout",
             "resource_id": null,
             "scrollable": {
@@ -264,6 +277,7 @@
           }
         ],
         "clickable": false,
+        "full_name": "android.widget.LinearLayout",
         "name": "LinearLayout",
         "resource_id": null,
         "scrollable": {
@@ -275,6 +289,7 @@
       }
     ],
     "clickable": false,
+    "full_name": "com.android.internal.policy.PhoneWindow$DecorView",
     "name": "PhoneWindow$DecorView",
     "resource_id": null,
     "scrollable": {

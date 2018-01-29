@@ -54,6 +54,7 @@
                         ],
                         "children": null,
                         "clickable": false,
+                        "full_name": "android.view.TextureView",
                         "name": "TextureView",
                         "resource_id": "preview_content",
                         "scrollable": {
@@ -72,6 +73,7 @@
                         ],
                         "children": null,
                         "clickable": false,
+                        "full_name": "com.android.camera.ui.focus.FocusRingView",
                         "name": "FocusRingView",
                         "resource_id": "focus_ring",
                         "scrollable": {
@@ -90,6 +92,7 @@
                         ],
                         "children": null,
                         "clickable": false,
+                        "full_name": "com.android.camera.ui.PreviewOverlay",
                         "name": "PreviewOverlay",
                         "resource_id": "preview_overlay",
                         "scrollable": {
@@ -108,6 +111,7 @@
                         ],
                         "children": null,
                         "clickable": false,
+                        "full_name": "com.android.camera.ui.FaceView",
                         "name": "FaceView",
                         "resource_id": "face_view",
                         "scrollable": {
@@ -126,6 +130,7 @@
                         ],
                         "children": null,
                         "clickable": false,
+                        "full_name": "android.widget.ImageView",
                         "name": "ImageView",
                         "resource_id": "intent_review_imageview",
                         "scrollable": {
@@ -160,6 +165,7 @@
                                 ],
                                 "children": null,
                                 "clickable": false,
+                                "full_name": "com.android.camera.ui.ProgressOverlay",
                                 "name": "ProgressOverlay",
                                 "resource_id": "progress_overlay",
                                 "scrollable": {
@@ -178,6 +184,7 @@
                                 ],
                                 "children": [],
                                 "clickable": false,
+                                "full_name": "com.android.camera.ui.CountDownView",
                                 "name": "CountDownView",
                                 "resource_id": "count_down_view",
                                 "scrollable": {
@@ -189,6 +196,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.FrameLayout",
                             "name": "FrameLayout",
                             "resource_id": null,
                             "scrollable": {
@@ -200,6 +208,7 @@
                           }
                         ],
                         "clickable": false,
+                        "full_name": "android.widget.FrameLayout",
                         "name": "FrameLayout",
                         "resource_id": "module_layout",
                         "scrollable": {
@@ -242,6 +251,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "com.android.camera.ui.RadioOptions",
                                     "name": "RadioOptions",
                                     "resource_id": "mode_options_pano",
                                     "scrollable": {
@@ -268,6 +278,7 @@
                                         ],
                                         "children": null,
                                         "clickable": true,
+                                        "full_name": "com.android.camera.MultiToggleImageButton",
                                         "name": "MultiToggleImageButton",
                                         "resource_id": "countdown_toggle_button",
                                         "scrollable": {
@@ -286,6 +297,7 @@
                                         ],
                                         "children": null,
                                         "clickable": true,
+                                        "full_name": "com.android.camera.MultiToggleImageButton",
                                         "name": "MultiToggleImageButton",
                                         "resource_id": "grid_lines_toggle_button",
                                         "scrollable": {
@@ -304,6 +316,7 @@
                                         ],
                                         "children": null,
                                         "clickable": true,
+                                        "full_name": "com.android.camera.MultiToggleImageButton",
                                         "name": "MultiToggleImageButton",
                                         "resource_id": "flash_toggle_button",
                                         "scrollable": {
@@ -322,6 +335,7 @@
                                         ],
                                         "children": null,
                                         "clickable": true,
+                                        "full_name": "com.android.camera.MultiToggleImageButton",
                                         "name": "MultiToggleImageButton",
                                         "resource_id": "camera_toggle_button",
                                         "scrollable": {
@@ -333,6 +347,7 @@
                                       }
                                     ],
                                     "clickable": false,
+                                    "full_name": "com.android.camera.ui.TopRightWeightedLayout",
                                     "name": "TopRightWeightedLayout",
                                     "resource_id": "mode_options_buttons",
                                     "scrollable": {
@@ -344,6 +359,7 @@
                                   }
                                 ],
                                 "clickable": true,
+                                "full_name": "com.android.camera.widget.ModeOptions",
                                 "name": "ModeOptions",
                                 "resource_id": "mode_options",
                                 "scrollable": {
@@ -355,6 +371,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "com.android.camera.widget.ModeOptionsOverlay",
                             "name": "ModeOptionsOverlay",
                             "resource_id": "mode_options_overlay",
                             "scrollable": {
@@ -389,6 +406,7 @@
                                     ],
                                     "children": null,
                                     "clickable": true,
+                                    "full_name": "com.android.camera.ShutterButton",
                                     "name": "ShutterButton",
                                     "resource_id": "shutter_button",
                                     "scrollable": {
@@ -400,6 +418,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.FrameLayout",
                                 "name": "FrameLayout",
                                 "resource_id": "bottombar_capture",
                                 "scrollable": {
@@ -426,6 +445,7 @@
                                     ],
                                     "children": [],
                                     "clickable": false,
+                                    "full_name": "android.widget.FrameLayout",
                                     "name": "FrameLayout",
                                     "resource_id": null,
                                     "scrollable": {
@@ -437,6 +457,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "com.android.camera.ui.TopRightWeightedLayout",
                                 "name": "TopRightWeightedLayout",
                                 "resource_id": "bottombar_intent_review",
                                 "scrollable": {
@@ -448,6 +469,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "com.android.camera.ui.BottomBar",
                             "name": "BottomBar",
                             "resource_id": "bottom_bar",
                             "scrollable": {
@@ -459,6 +481,7 @@
                           }
                         ],
                         "clickable": false,
+                        "full_name": "com.android.camera.ui.StickyBottomCaptureLayout",
                         "name": "StickyBottomCaptureLayout",
                         "resource_id": "sticky_bottom_capture_layout",
                         "scrollable": {
@@ -485,6 +508,7 @@
                             ],
                             "children": null,
                             "clickable": true,
+                            "full_name": "android.widget.ImageView",
                             "name": "ImageView",
                             "resource_id": "settings_button",
                             "scrollable": {
@@ -496,6 +520,7 @@
                           }
                         ],
                         "clickable": false,
+                        "full_name": "com.android.camera.ui.ModeListView",
                         "name": "ModeListView",
                         "resource_id": "mode_list_layout",
                         "scrollable": {
@@ -507,6 +532,7 @@
                       }
                     ],
                     "clickable": false,
+                    "full_name": "android.widget.FrameLayout",
                     "name": "FrameLayout",
                     "resource_id": "camera_app_root",
                     "scrollable": {
@@ -525,6 +551,7 @@
                     ],
                     "children": null,
                     "clickable": false,
+                    "full_name": "com.android.camera.ui.ModeTransitionView",
                     "name": "ModeTransitionView",
                     "resource_id": "mode_transition_view",
                     "scrollable": {
@@ -536,6 +563,7 @@
                   }
                 ],
                 "clickable": false,
+                "full_name": "com.android.camera.ui.MainActivityLayout",
                 "name": "MainActivityLayout",
                 "resource_id": "activity_root_view",
                 "scrollable": {
@@ -547,6 +575,7 @@
               }
             ],
             "clickable": false,
+            "full_name": "android.widget.FrameLayout",
             "name": "FrameLayout",
             "resource_id": "content",
             "scrollable": {
@@ -558,6 +587,7 @@
           }
         ],
         "clickable": false,
+        "full_name": "com.android.internal.widget.ActionBarOverlayLayout",
         "name": "ActionBarOverlayLayout",
         "resource_id": "decor_content_parent",
         "scrollable": {
@@ -576,6 +606,7 @@
         ],
         "children": null,
         "clickable": false,
+        "full_name": "android.view.View",
         "name": "View",
         "resource_id": "navigationBarBackground",
         "scrollable": {
@@ -587,6 +618,7 @@
       }
     ],
     "clickable": false,
+    "full_name": "com.android.internal.policy.PhoneWindow$DecorView",
     "name": "PhoneWindow$DecorView",
     "resource_id": null,
     "scrollable": {

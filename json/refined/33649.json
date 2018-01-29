@@ -78,6 +78,7 @@
                                     ],
                                     "children": null,
                                     "clickable": false,
+                                    "full_name": "android.support.v7.widget.AppCompatTextView",
                                     "name": "AppCompatTextView",
                                     "resource_id": "toolbar_title",
                                     "scrollable": {
@@ -96,6 +97,7 @@
                                     ],
                                     "children": null,
                                     "clickable": true,
+                                    "full_name": "android.widget.ImageButton",
                                     "name": "ImageButton",
                                     "resource_id": null,
                                     "scrollable": {
@@ -122,6 +124,7 @@
                                         ],
                                         "children": null,
                                         "clickable": true,
+                                        "full_name": "android.support.v7.internal.view.menu.ActionMenuItemView",
                                         "name": "ActionMenuItemView",
                                         "resource_id": "menu_item_logo",
                                         "scrollable": {
@@ -133,6 +136,7 @@
                                       }
                                     ],
                                     "clickable": false,
+                                    "full_name": "android.support.v7.widget.ActionMenuView",
                                     "name": "ActionMenuView",
                                     "resource_id": null,
                                     "scrollable": {
@@ -144,6 +148,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.support.v7.widget.Toolbar",
                                 "name": "Toolbar",
                                 "resource_id": "main_actionbar",
                                 "scrollable": {
@@ -178,6 +183,7 @@
                                         ],
                                         "children": null,
                                         "clickable": true,
+                                        "full_name": "android.webkit.WebView",
                                         "name": "WebView",
                                         "resource_id": "webview",
                                         "scrollable": {
@@ -189,6 +195,7 @@
                                       }
                                     ],
                                     "clickable": false,
+                                    "full_name": "android.widget.FrameLayout",
                                     "name": "FrameLayout",
                                     "resource_id": "list_container_can_contain_ad",
                                     "scrollable": {
@@ -200,6 +207,7 @@
                                   }
                                 ],
                                 "clickable": false,
+                                "full_name": "android.widget.FrameLayout",
                                 "name": "FrameLayout",
                                 "resource_id": "content_frame",
                                 "scrollable": {
@@ -211,6 +219,7 @@
                               }
                             ],
                             "clickable": false,
+                            "full_name": "android.widget.LinearLayout",
                             "name": "LinearLayout",
                             "resource_id": null,
                             "scrollable": {
@@ -222,6 +231,7 @@
                           }
                         ],
                         "clickable": false,
+                        "full_name": "android.support.v4.widget.DrawerLayout",
                         "name": "DrawerLayout",
                         "resource_id": "drawer_layout",
                         "scrollable": {
@@ -233,6 +243,7 @@
                       }
                     ],
                     "clickable": false,
+                    "full_name": "android.support.v7.internal.widget.ContentFrameLayout",
                     "name": "ContentFrameLayout",
                     "resource_id": "content",
                     "scrollable": {
@@ -244,6 +255,7 @@
                   }
                 ],
                 "clickable": false,
+                "full_name": "android.support.v7.internal.widget.FitWindowsLinearLayout",
                 "name": "FitWindowsLinearLayout",
                 "resource_id": "action_bar_root",
                 "scrollable": {
@@ -255,6 +267,7 @@
               }
             ],
             "clickable": false,
+            "full_name": "android.widget.FrameLayout",
             "name": "FrameLayout",
             "resource_id": null,
             "scrollable": {
@@ -266,6 +279,7 @@
           }
         ],
         "clickable": false,
+        "full_name": "android.widget.LinearLayout",
         "name": "LinearLayout",
         "resource_id": null,
         "scrollable": {
@@ -284,6 +298,7 @@
         ],
         "children": null,
         "clickable": false,
+        "full_name": "android.view.View",
         "name": "View",
         "resource_id": "navigationBarBackground",
         "scrollable": {
@@ -302,6 +317,7 @@
         ],
         "children": null,
         "clickable": false,
+        "full_name": "android.view.View",
         "name": "View",
         "resource_id": "statusBarBackground",
         "scrollable": {
@@ -313,6 +329,7 @@
       }
     ],
     "clickable": false,
+    "full_name": "com.android.internal.policy.PhoneWindow$DecorView",
     "name": "PhoneWindow$DecorView",
     "resource_id": null,
     "scrollable": {
