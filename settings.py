@@ -2,7 +2,7 @@ import os
 
 # Information about json files
 FILE_LIST = [name for name in os.listdir(os.path.join(os.path.curdir, 'json', 'raw'))]
-#FILE_LIST = ['33617.json']
+# FILE_LIST = ['39429.json']
 
 # Information about layout images
 SCREEN_SIZE = (1440, 2560) # Do NOT change
