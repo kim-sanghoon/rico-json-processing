@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3
+#!/usr/bin/python3
 import json, sys, os
 
 FILES = sys.argv[1:]
@@ -24,10 +24,22 @@ for FILE_NUM in FILES:
     while True:
         n = input()
         if n == 'Y' or n == 'y':
-            os.remove(os.path.join(os.path.curdir, 'json', 'refined', FILE_NUM + '.json'))
-            os.remove(os.path.join(os.path.curdir, 'json', 'raw', FILE_NUM + '.json'))
-            os.remove(os.path.join(os.path.curdir, 'layout', FILE_NUM + '.json_out.png'))
-            os.remove(os.path.join(os.path.curdir, 'comparison', FILE_NUM + '.json_comp.png'))
+            try:
+                os.remove(os.path.join(os.path.curdir, 'json', 'refined', FILE_NUM + '.json'))
+            except:
+                pass
+            try:
+                os.remove(os.path.join(os.path.curdir, 'json', 'raw', FILE_NUM + '.json'))
+            except:
+                pass
+            try:
+                os.remove(os.path.join(os.path.curdir, 'layout', FILE_NUM + '.json_out.png'))
+            except:
+                pass
+            try:
+                os.remove(os.path.join(os.path.curdir, 'comparison', FILE_NUM + '.json_comp.png'))
+            except:
+                pass
             print("Delete complete.")
             break
         elif n == 'N' or n == 'n':

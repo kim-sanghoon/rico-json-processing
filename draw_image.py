@@ -1,6 +1,7 @@
 import json, os
 from settings import *
 from PIL import Image
+from multiprocessing.dummy import Pool
 
 def draw(hier, img):
     #
@@ -50,7 +51,7 @@ def draw(hier, img):
             draw(child, img)
 
 
-for FILE_NAME in FILE_LIST:
+def work(FILE_NAME):
     with open(os.path.join(os.path.curdir, 'json', 'refined', FILE_NAME), mode='r') as file:
         data = json.load(file)
 
@@ -61,3 +62,9 @@ for FILE_NAME in FILE_LIST:
     print(os.path.join(os.path.curdir, 'layout', FILE_NAME + '_out.png'))
 
 
+
+# Multi-thread parts
+threads = Pool(40)
+threads.map(work, FILE_LIST)
+threads.close()
+threads.join()
