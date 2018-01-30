@@ -6,6 +6,7 @@ app_info_iter = csv.reader(APP_METADATA)
 app_info = {i[0]: i[0:3] for i in app_info_iter}
 
 for FILE_NAME in FILE_LIST:
+    print("Do: " + os.path.join(os.path.curdir, 'json', 'raw', FILE_NAME))
     FILE = open(os.path.join(os.path.curdir, 'json', 'raw', FILE_NAME))
 
     data = json.load(FILE)
@@ -21,4 +22,4 @@ for FILE_NAME in FILE_LIST:
 
     output = open(os.path.join(os.path.curdir, 'json', 'refined', FILE_NAME), mode='w')
     json.dump(parsed_data, output, indent=2, sort_keys=True)
-    print(os.path.join(os.path.curdir, 'json', 'refined', FILE_NAME))
+    print("Done: " + os.path.join(os.path.curdir, 'json', 'refined', FILE_NAME))
