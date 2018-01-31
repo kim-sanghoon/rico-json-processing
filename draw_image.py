@@ -3,7 +3,7 @@ from settings import *
 from PIL import Image
 from multiprocessing.dummy import Pool
 
-def draw(hier, img):
+def draw(hier, img, FILE_NAME):
     #
     # Some non-standard layout/views, they don't have standard name.
     # Therefore, we have to guess the label using their name and resource-id.
@@ -33,6 +33,8 @@ def draw(hier, img):
             try:
                 block = Image.new('RGBA', (b[2] - b[0], b[3] - b[1]), FULL_NAME_COLOR[full_name])
                 img.paste(block, (b[0], b[1]))
+                if ((b[2] - b[0]) * (b[3] - b[1]))/(SCREEN_SIZE[0] * SCREEN_SIZE[1]) > 0.8:
+                    print(FILE_NAME + ":" + full_name + ":Too large:" + str(((b[2] - b[0]) * (b[3] - b[1]))/(SCREEN_SIZE[0] * SCREEN_SIZE[1])))
             except ValueError:
                 pass
 
@@ -42,13 +44,16 @@ def draw(hier, img):
         try:
             block = Image.new('RGBA', (b[2] - b[0], b[3] - b[1]), ELEMENT_COLOR[hier['name']])
             img.paste(block, (b[0], b[1]))
+            if ((b[2] - b[0]) * (b[3] - b[1])) / (SCREEN_SIZE[0] * SCREEN_SIZE[1]) > 0.8:
+                print(FILE_NAME + ":" + hier['name'] + ":Too large:" + str(
+                    ((b[2] - b[0]) * (b[3] - b[1])) / (SCREEN_SIZE[0] * SCREEN_SIZE[1])))
         except ValueError:
             pass
 
     # Recursion
     if hier['children'] is not None:
         for child in hier['children']:
-            draw(child, img)
+            draw(child, img, FILE_NAME)
 
 
 def work(FILE_NAME):
@@ -56,7 +61,7 @@ def work(FILE_NAME):
         data = json.load(file)
 
     img = Image.new('RGBA', SCREEN_SIZE, 'white')
-    draw(data['hierarchy'], img)
+    draw(data['hierarchy'], img, FILE_NAME)
 
     img.save(os.path.join(os.path.curdir, 'layout', FILE_NAME + '_out.png'), 'PNG')
     print(os.path.join(os.path.curdir, 'layout', FILE_NAME + '_out.png'))
