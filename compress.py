@@ -6,13 +6,13 @@ import os
 
 def work(file_name):
     try:
-        file = open(os.path.join(os.path.curdir, 'comparison', file_name + '_comp.png'))
+        origin = Image.open(os.path.join(os.path.curdir, 'comparison', file_name + '_comp.png'))
     except FileNotFoundError:
         print("File not found: " + file_name + "_comp.png")
         return
 
     compressed_screen_size = tuple([int(length / compress_ratio) for length in SCREEN_SIZE])
-    origin = Image.open(file)
+
     new = origin.resize(compressed_screen_size, Image.ANTIALIAS)
     new.save(os.path.join(os.path.curdir, 'compressed_comp', file_name + '_' + str(compress_ratio) + 'compressed.png'), 'PNG')
     print(os.path.join(os.path.curdir, 'compressed_comp', file_name + '_' + str(compress_ratio) + 'compressed.png'))
