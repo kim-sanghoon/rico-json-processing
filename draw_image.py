@@ -11,14 +11,26 @@ def draw(hier, img, FILE_NAME):
     checked = False
     for element_name in ELEMENT_COLOR.keys():
         if hier['name'].count(element_name) > 0:
-            hier['name'] = element_name
-            checked = True
+            except_occur = False
+            for element_except in ELEMENT_EXCEPT:
+                if hier['resource_id'] is not None and hier['resource_id'].count(element_except) > 0:
+                    except_occur = True
+                    break
+            if not except_occur:
+                hier['name'] = element_name
+                checked = True
             break
 
     if not checked and hier['resource_id'] is not None:
         for element_name in ELEMENT_COLOR.keys():
             if hier['resource_id'].count(element_name) > 0:
-                hier['name'] = element_name
+                except_occur = False
+                for element_except in ELEMENT_EXCEPT:
+                    if hier['resource_id'].count(element_except) > 0:
+                        except_occur = True
+                        break
+                if not except_occur:
+                    hier['name'] = element_name
                 break
 
     #
@@ -27,7 +39,7 @@ def draw(hier, img, FILE_NAME):
     #
     full_name_checked = False
     for full_name in FULL_NAME_COLOR.keys():
-        if hier['full_name'].count(full_name) > 0:
+        if hier['full_name'].count(full_name) > 0 and hier['visible']:
             full_name_checked = True
             b = hier['bounds']
             try:
@@ -39,7 +51,7 @@ def draw(hier, img, FILE_NAME):
                 pass
 
     # Coloring
-    if not full_name_checked and hier['name'] in ELEMENT_COLOR.keys():
+    if not full_name_checked and hier['name'] in ELEMENT_COLOR.keys() and hier['visible']:
         b = hier['bounds']
         try:
             block = Image.new('RGBA', (b[2] - b[0], b[3] - b[1]), ELEMENT_COLOR[hier['name']])

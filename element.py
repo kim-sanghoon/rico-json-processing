@@ -21,8 +21,14 @@ class element(object):
         # Exception postprocess
         # - if DrawerLayout has 2+ layout/views (which means, drawer has opened),
         #   delete original layout/view (which priors to the drawer view)
-        if self.name == "DrawerLayout" and len(self.children) > 1:
+        if self.name.count("DrawerLayout") and len(self.children) > 1:
             self.children.remove(self.children[0])
+
+        # Exception postprocess
+        # - if SlidingMenu has 2+ layout/views (which means, slide has opened),
+        #   delete original layout/view (which priors to the slide view)
+        if self.name == "SlidingMenu" and len(self.children) > 1:
+            self.children.remove(self.children[1])
 
         # Exception postprocess
         # - if element's width/height is under 0 (which is confusing),
@@ -31,6 +37,12 @@ class element(object):
             for child in self.children:
                 if (child.bounds[2] - child.bounds[0]) < 0 or (child.bounds[3] - child.bounds[1]) < 0:
                     self.children.remove(child)
+
+        # Exception postprocess
+        # - if FanView has 2+ layout/views (which means, fan has opened),
+        #   delete original layout/view (which priors to the slide view)
+        if self.name == "FanView" and len(self.children[0].children) > 1:
+            self.children[0].children = [self.children[0].children[0]]
 
     def __str__(self):
         out = '{' \
