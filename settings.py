@@ -30,6 +30,7 @@ ELEMENT_COLOR = {'EditText': 'orange',
                  'MapView': 'skyblue',
                  'VideoView': 'navy',
                  'Chart': 'red',
+                 'SeekBar': 'gold',
                  }
 
 ELEMENT_EXCEPT = [#'feeditem',
