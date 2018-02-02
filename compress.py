@@ -11,7 +11,7 @@ def work(file_name):
         print("File not found: " + file_name + "_comp.png")
         return
 
-    compressed_screen_size = tuple([int(length / compress_ratio) for length in SCREEN_SIZE])
+    compressed_screen_size = (int(2880 / compress_ratio), int(2560 // compress_ratio))
 
     new = origin.resize(compressed_screen_size, Image.ANTIALIAS)
     new.save(os.path.join(os.path.curdir, 'compressed_comp', file_name + '_' + str(compress_ratio) + 'compressed.png'), 'PNG')
