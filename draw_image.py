@@ -73,11 +73,13 @@ def work(FILE_NAME):
         data = json.load(file)
 
     img = Image.new('RGBA', SCREEN_SIZE, 'white')
-    draw(data['hierarchy'], img, FILE_NAME)
-
-    img.save(os.path.join(os.path.curdir, 'layout', FILE_NAME + '_out.png'), 'PNG')
-    print(os.path.join(os.path.curdir, 'layout', FILE_NAME + '_out.png'))
-
+    try:
+        draw(data['hierarchy'], img, FILE_NAME)
+        img.save(os.path.join(os.path.curdir, 'layout', FILE_NAME + '_out.png'), 'PNG')
+        print(os.path.join(os.path.curdir, 'layout', FILE_NAME + '_out.png'))
+    except:
+        print("ERROR: " + os.path.join(os.path.curdir, 'layout', FILE_NAME + '_out.png'))
+        pass
 
 
 # Multi-thread parts

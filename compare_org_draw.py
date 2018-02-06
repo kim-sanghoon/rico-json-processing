@@ -12,7 +12,7 @@ def work(FILE_NAME):
         err = open('comp_err_log.txt', 'a')
         err.write(FILE_NAME + ": Error occurred while opening original pic.\n")
         print(FILE_NAME + ": Error occurred while opening original pic.")
-	err.close()
+        err.close()
         origin = Image.new("RGBA", (1440, 2560), "black")
         pass
     try:
