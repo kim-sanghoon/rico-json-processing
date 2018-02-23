@@ -1,13 +1,8 @@
 import os
 
 # Information about json files
-<<<<<<< HEAD
 FILE_LIST = [name for name in os.listdir(os.path.join(os.path.curdir, 'json', 'raw'))]
 # FILE_LIST = ['1001.json']
-=======
-# FILE_LIST = [name for name in os.listdir(os.path.join(os.path.curdir, 'json', 'raw'))]
-FILE_LIST = ['1513.json']
->>>>>>> 40847c6fe7821c672fe6dbe9b56fabda3832bfea
 
 # Information about layout images
 SCREEN_SIZE = (1440, 2560) # Do NOT change
