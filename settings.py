@@ -1,8 +1,13 @@
 import os
 
 # Information about json files
+<<<<<<< HEAD
 FILE_LIST = [name for name in os.listdir(os.path.join(os.path.curdir, 'json', 'raw'))]
 # FILE_LIST = ['1001.json']
+=======
+# FILE_LIST = [name for name in os.listdir(os.path.join(os.path.curdir, 'json', 'raw'))]
+FILE_LIST = ['1513.json']
+>>>>>>> 40847c6fe7821c672fe6dbe9b56fabda3832bfea
 
 # Information about layout images
 SCREEN_SIZE = (1440, 2560) # Do NOT change
@@ -11,6 +16,7 @@ ELEMENT_COLOR = {'EditText': 'orange',
                  'CheckedTextView': 'lime',
                  'Text': 'blue',
                  'text': 'blue',
+                 'TextView': 'blue',
                  'RadioButton': 'lime',
                  'Button': 'green',
                  #'button': 'green',
@@ -19,18 +25,33 @@ ELEMENT_COLOR = {'EditText': 'orange',
                  'icon': 'red',
                  'CheckBox': 'pink',
                  'checkbox': 'pink',
+                 'Checkbox': 'pink',
+                 'checkBox': 'pink',
                  'WebView': 'purple',
                  'AdView': 'brown',
+                 'Banner': 'brown',
                  'NumberPicker': 'gray',
                  'SpeedometerGauge': 'red',
                  'Gauge': 'red',
                  'ArcProgress': 'red',
                  'SimpleDraweeView': 'red',
                  'MonthView': 'yellow',
+                 'AccessibleDateAnimator': 'yellow',
                  'MapView': 'skyblue',
                  'VideoView': 'navy',
                  'Chart': 'red',
                  'SeekBar': 'gold',
+                 'PictureView': 'red',
+                 'Picture': 'red',
+                 'ActionMenuItemView': 'green',
+                 'ImageSurfaceView': 'red',
+                 'ImageView': 'red',
+                 'SurfaceView': 'red',
+                 'Graph': 'red',
+                 'RadialPicker': 'ivory',
+                 'time_picker': 'ivory',
+                 'TimePicker': 'ivory',
+                 'ProgressBar': 'magenta',
                  }
 
 ELEMENT_EXCEPT = [#'feeditem',
