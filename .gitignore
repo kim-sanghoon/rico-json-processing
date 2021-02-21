@@ -4,3 +4,7 @@ original_picture/
 layout/
 compressed_comp/
 __pycache__/
+.idea/
+
+*.pyc
+*.txt
