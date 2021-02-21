@@ -31,6 +31,11 @@ This script compresses the drawn layout images produced by `compare_org_draw.py`
 The purpose of compression is because the dimension of a raw layout image is 2880 x 2560, which is a bit large.<br />
 The results will be stored in a `compressed_comp/{filename}_{compress_ratio}compressed.png` format.
 
+Here are a few examples of the produced outputs after `compress.py`, compressed by 4.0:
+1462 | 3553 | 17059
+---- | ---- | ----
+![Layout of Image No. 1462](image/1462.png) | ![Layout of Image No. 3553](image/3553.png) | ![Layout of Image No. 17059](image/17059.png)
+
 ### `delete.py {image_numbers}`
 
 This script receives a list of RICO image numbers and deletes the data of them produced by the scripts above.
